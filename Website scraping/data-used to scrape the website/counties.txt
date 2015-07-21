@@ -1,0 +1,3083 @@
+state	name	total.pop	white	black	hispanic	asian
+AL	"alabama,autauga"	54571	77.2	19.3	2.4	0.9
+AL	"alabama,baldwin"	182265	83.5	10.9	4.4	0.7
+AL	"alabama,barbour"	27457	46.8	47.8	5.1	0.4
+AL	"alabama,bibb"	22915	75	22.9	1.8	0.1
+AL	"alabama,blount"	57322	88.9	2.5	8.1	0.2
+AL	"alabama,bullock"	10914	21.9	71	7.1	0.2
+AL	"alabama,butler"	20947	54.1	44.2	0.9	0.8
+AL	"alabama,calhoun"	118572	73.6	22.2	3.3	0.7
+AL	"alabama,chambers"	34215	58.1	39.9	1.6	0.5
+AL	"alabama,cherokee"	25989	92.1	6.1	1.2	0.2
+AL	"alabama,chilton"	43643	81.1	10.9	7.8	0.3
+AL	"alabama,choctaw"	13859	55.6	43.8	0.5	0.1
+AL	"alabama,clarke"	25833	54	44.6	1	0.3
+AL	"alabama,clay"	13932	80.3	16.5	2.9	0.2
+AL	"alabama,cleburne"	14972	93.2	4.4	2.1	0.2
+AL	"alabama,coffee"	49948	72.3	19.2	6.4	1.3
+AL	"alabama,colbert"	54428	79.6	17.7	2	0.4
+AL	"alabama,conecuh"	13228	51.1	47.5	1.2	0.1
+AL	"alabama,coosa"	11539	65.9	31.9	2	0.1
+AL	"alabama,covington"	37765	84.1	13.9	1.3	0.4
+AL	"alabama,crenshaw"	13906	72.1	24.9	1.5	1.4
+AL	"alabama,cullman"	80406	92.7	2.2	4.3	0.4
+AL	"alabama,dale"	50251	71.1	22.3	5.6	1.1
+AL	"alabama,dallas"	43820	28.9	70.1	0.7	0.3
+AL	"alabama,de kalb"	NA	NA	NA	NA	NA
+AL	"alabama,elmore"	79303	75	21.5	2.7	0.7
+AL	"alabama,escambia"	38319	61.3	33.4	1.9	0.2
+AL	"alabama,etowah"	104430	79.3	16.6	3.3	0.6
+AL	"alabama,fayette"	17241	86	12.4	1.2	0.2
+AL	"alabama,franklin"	31704	79.6	5.5	14.9	0.2
+AL	"alabama,geneva"	26790	84.7	11	3.4	0.3
+AL	"alabama,greene"	9045	17.3	82	0.8	0.2
+AL	"alabama,hale"	15760	39.4	59.6	0.9	0.2
+AL	"alabama,henry"	17302	67.8	29.6	2.2	0.3
+AL	"alabama,houston"	101547	68.7	27.5	2.9	0.8
+AL	"alabama,jackson"	53227	90.1	5.9	2.5	0.3
+AL	"alabama,jefferson"	658466	51.7	43.1	3.9	1.4
+AL	"alabama,lamar"	14564	86.1	12.5	1.2	0
+AL	"alabama,lauderdale"	92709	85.5	11.4	2.2	0.7
+AL	"alabama,lawrence"	34339	76.9	15.8	1.7	0.1
+AL	"alabama,lee"	140247	69.8	24.4	3.3	2.6
+AL	"alabama,limestone"	82782	78.7	14.4	5.5	1.1
+AL	"alabama,lowndes"	11299	25.1	74.1	0.8	0.1
+AL	"alabama,macon"	21452	15.2	83.7	1.1	0.4
+AL	"alabama,madison"	334811	66.1	26.5	4.6	2.5
+AL	"alabama,marengo"	21027	45.7	52.5	1.7	0.3
+AL	"alabama,marion"	30776	92.6	5	2.1	0.2
+AL	"alabama,marshall"	93019	83.9	3.3	12.1	0.5
+AL	"alabama,mobile"	412992	59.1	36.1	2.4	1.8
+AL	"alabama,monroe"	23068	54.7	43.1	1	0.3
+AL	"alabama,montgomery"	229363	38.4	56	3.6	2.1
+AL	"alabama,morgan"	119490	77.5	13.8	7.7	0.6
+AL	"alabama,perry"	10591	29.7	69.1	1.1	0.3
+AL	"alabama,pickens"	19746	55.8	42.8	1.6	0.2
+AL	"alabama,pike"	32899	57.4	38.1	2.2	2
+AL	"alabama,randolph"	22913	75.4	21.2	2.8	0.2
+AL	"alabama,russell"	52947	52.1	43.9	3.7	0.4
+AL	"alabama,st clair"	83593	87.3	9.9	2.1	0.6
+AL	"alabama,shelby"	195085	80.2	12	5.9	1.9
+AL	"alabama,sumter"	13763	24	75.3	0.6	0.2
+AL	"alabama,talladega"	82291	64.5	33	2	0.4
+AL	"alabama,tallapoosa"	41616	69.3	27.6	2.5	0.5
+AL	"alabama,tuscaloosa"	194656	65	30.7	3.1	1.2
+AL	"alabama,walker"	67023	90.4	7.1	2	0.3
+AL	"alabama,washington"	17581	65.2	26.1	0.9	0.1
+AL	"alabama,wilcox"	11670	26.6	73	0.6	0
+AL	"alabama,winston"	24484	94.9	1.9	2.6	0.2
+AZ	"arizona,apache"	71518	20.4	2.2	5.8	0.3
+AZ	"arizona,cochise"	131346	58.5	8.2	32.4	1.9
+AZ	"arizona,coconino"	134421	55.2	4.3	13.5	1.4
+AZ	"arizona,gila"	53597	65.9	2.4	17.9	0.5
+AZ	"arizona,graham"	37220	52.3	4.7	30.4	0.5
+AZ	"arizona,greenlee"	8437	48.1	4.8	47.9	0.5
+AZ	"arizona,maricopa"	3817117	58.7	8.4	29.6	3.5
+AZ	"arizona,mohave"	200186	79.6	3.7	14.8	1.1
+AZ	"arizona,navajo"	107449	43.9	3.3	10.8	0.5
+AZ	"arizona,pima"	980263	55.3	7.2	34.6	2.6
+AZ	"arizona,pinal"	375770	58.7	8.4	28.5	1.7
+AZ	"arizona,santa cruz"	47420	16	2.4	82.8	0.5
+AZ	"arizona,yavapai"	211033	82	3.1	13.6	0.8
+AZ	"arizona,yuma"	195751	35.3	5.8	59.7	1.2
+AR	"arkansas,arkansas"	19019	71	25.8	2.7	0.5
+AR	"arkansas,ashley"	21853	68.2	26.9	4.9	0.2
+AR	"arkansas,baxter"	41513	96	1.6	1.7	0.4
+AR	"arkansas,benton"	221339	76.6	3.9	15.5	2.9
+AR	"arkansas,boone"	36903	95.2	1.9	1.8	0.4
+AR	"arkansas,bradley"	11508	58	28.9	13.2	0.2
+AR	"arkansas,calhoun"	5368	73.4	23.6	2.8	0.2
+AR	"arkansas,carroll"	27446	84	2.6	12.7	0.6
+AR	"arkansas,chicot"	11800	40.3	54.9	4.6	0.5
+AR	"arkansas,clark"	22995	70.4	25	4	0.5
+AR	"arkansas,clay"	16083	96.9	1.6	1.3	0.1
+AR	"arkansas,cleburne"	25970	95.9	1.7	2	0.2
+AR	"arkansas,cleveland"	8689	85.1	12.9	1.7	0.1
+AR	"arkansas,columbia"	24552	59.2	37.9	2.2	0.7
+AR	"arkansas,conway"	21273	82.4	13.2	3.6	0.4
+AR	"arkansas,craighead"	96443	79.6	14.9	4.4	1.1
+AR	"arkansas,crawford"	61948	86.8	4	6.1	1.4
+AR	"arkansas,crittenden"	50902	45.2	52.3	2	0.6
+AR	"arkansas,cross"	17870	74.7	23.3	1.5	0.5
+AR	"arkansas,dallas"	8116	54.1	43.1	2.3	0.1
+AR	"arkansas,desha"	13008	46.8	48.7	4.4	0.3
+AR	"arkansas,drew"	18509	68	28.9	2.5	0.5
+AR	"arkansas,faulkner"	113237	82.4	12.2	3.9	1.1
+AR	"arkansas,franklin"	18125	93.8	2.4	2	0.9
+AR	"arkansas,fulton"	12245	96.4	2	0.8	0.2
+AR	"arkansas,garland"	96024	84	10.2	4.8	0.7
+AR	"arkansas,grant"	17853	94.1	3.2	2.2	0.3
+AR	"arkansas,greene"	42090	95.4	1.9	2.1	0.3
+AR	"arkansas,hempstead"	22609	56.5	31.3	12	0.4
+AR	"arkansas,hot spring"	32923	84.1	12.6	2.8	0.3
+AR	"arkansas,howard"	13789	67.4	21.9	9.8	0.6
+AR	"arkansas,independence"	36647	89.8	3.5	5.8	0.8
+AR	"arkansas,izard"	13696	95	2.6	1.5	0.3
+AR	"arkansas,jackson"	17997	78.8	18.2	2.4	0.3
+AR	"arkansas,jefferson"	77435	41.4	56.3	1.6	0.8
+AR	"arkansas,johnson"	25540	83.5	3.4	12.1	0.7
+AR	"arkansas,lafayette"	7645	59.9	38	1.7	0.3
+AR	"arkansas,lawrence"	17415	96.7	2	0.9	0.1
+AR	"arkansas,lee"	10424	41.4	56.4	1.6	0.4
+AR	"arkansas,lincoln"	14134	65.8	30.9	3.2	0.2
+AR	"arkansas,little river"	13171	74.6	21.1	2.7	0.3
+AR	"arkansas,logan"	22353	92.2	3.2	2.3	1.6
+AR	"arkansas,lonoke"	68356	87.9	7.8	3.3	0.8
+AR	"arkansas,madison"	15717	91.9	1.9	4.8	0.5
+AR	"arkansas,marion"	16653	95.9	1.8	1.7	0.2
+AR	"arkansas,miller"	43462	70.6	26.2	2.4	0.5
+AR	"arkansas,mississippi"	46480	60.5	35.5	3.6	0.5
+AR	"arkansas,monroe"	8149	55.8	42	1.6	0.4
+AR	"arkansas,montgomery"	9487	92.8	2.2	3.8	0.5
+AR	"arkansas,nevada"	8997	65.1	32.1	2.4	0.3
+AR	"arkansas,newton"	8330	94.8	2.3	1.7	0.3
+AR	"arkansas,ouachita"	26120	56.3	41.7	1.6	0.4
+AR	"arkansas,perry"	10445	93.6	3.5	2.4	0.2
+AR	"arkansas,phillips"	21757	34.6	64	1.3	0.3
+AR	"arkansas,pike"	11291	88.2	4.6	6.4	0.5
+AR	"arkansas,poinsett"	24583	89	8.6	2.2	0.2
+AR	"arkansas,polk"	20662	89.8	2.6	5.8	0.5
+AR	"arkansas,pope"	61754	86.9	5.1	6.7	1
+AR	"arkansas,prairie"	8715	85.7	13.1	0.9	0.1
+AR	"arkansas,pulaski"	382748	55.3	37	5.8	2
+AR	"arkansas,randolph"	17969	95.9	2.1	1.6	0.2
+AR	"arkansas,st francis"	28258	42.4	53.4	4.1	0.5
+AR	"arkansas,saline"	107118	89	6.1	3.8	0.9
+AR	"arkansas,scott"	11233	85.3	3	7	3.4
+AR	"arkansas,searcy"	8195	95.2	2.4	1.5	0.1
+AR	"arkansas,sebastian"	125744	72.8	10	12.3	4.1
+AR	"arkansas,sevier"	17058	61.1	7.4	30.6	0.4
+AR	"arkansas,sharp"	17264	95	2.2	1.7	0.3
+AR	"arkansas,stone"	12394	96.1	1.7	1.3	0.4
+AR	"arkansas,union"	41639	61.8	34.2	3.5	0.5
+AR	"arkansas,van buren"	17295	94.1	2.4	2.7	0.3
+AR	"arkansas,washington"	203065	74.1	5.8	15.5	2.2
+AR	"arkansas,white"	77076	89.6	5.8	3.7	0.5
+AR	"arkansas,woodruff"	7260	69.4	28.9	1.2	0.2
+AR	"arkansas,yell"	22185	76.7	3.1	19.1	1.3
+CA	"california,alameda"	1510271	34.1	18.6	22.5	26.1
+CA	"california,alpine"	1175	72.5	2.4	7.1	0.6
+CA	"california,amador"	38091	79.6	6.1	12.5	1.1
+CA	"california,butte"	220000	75.2	6.3	14.1	4.1
+CA	"california,calaveras"	45578	83.5	4.8	10.3	1.3
+CA	"california,colusa"	21419	39.8	4.5	55.1	1.3
+CA	"california,contra costa"	1049025	47.8	15.2	24.4	14.4
+CA	"california,del norte"	28610	64.7	8	17.8	3.4
+CA	"california,el dorado"	181058	79.9	4.6	12.1	3.5
+CA	"california,fresno"	930450	32.7	9.9	50.3	9.6
+CA	"california,glenn"	28122	55.9	4.4	37.5	2.6
+CA	"california,humboldt"	134623	77.2	6.4	9.8	2.2
+CA	"california,imperial"	174528	13.7	7.7	80.4	1.6
+CA	"california,inyo"	18546	66.3	4	19.4	1.3
+CA	"california,kern"	839631	38.6	10.3	49.2	4.2
+CA	"california,kings"	152982	35.2	12.1	50.9	3.7
+CA	"california,lake"	64665	74.1	6.6	17.1	1.1
+CA	"california,lassen"	34895	66.7	11.6	17.5	1
+CA	"california,los angeles"	9818605	27.8	13.2	47.7	13.7
+CA	"california,madera"	150865	38	7.9	53.7	1.9
+CA	"california,marin"	252409	72.8	7	15.5	5.5
+CA	"california,mariposa"	18251	83.2	4.8	9.2	1.1
+CA	"california,mendocino"	87841	68.6	5.2	22.2	1.7
+CA	"california,merced"	255793	31.9	8.5	54.9	7.4
+CA	"california,modoc"	9686	79	4.7	13.9	0.8
+CA	"california,mono"	14202	68.2	3.2	26.5	1.4
+CA	"california,monterey"	415057	32.9	8.2	55.4	6.1
+CA	"california,napa"	136484	56.4	6	32.2	6.8
+CA	"california,nevada"	98764	86.5	3.6	8.5	1.2
+CA	"california,orange"	3010232	44.1	5.9	33.7	17.9
+CA	"california,placer"	348432	76.1	5.7	12.8	5.9
+CA	"california,plumas"	20007	85	4.6	8	0.7
+CA	"california,riverside"	2189641	39.7	11.2	45.5	6
+CA	"california,sacramento"	1418788	48.4	17	21.6	14.3
+CA	"california,san benito"	55269	38.3	5.8	56.4	2.6
+CA	"california,san bernardino"	2035210	33.3	14	49.2	6.3
+CA	"california,san diego"	3095313	48.5	10.2	32	10.9
+CA	"california,san francisco"	805235	41.9	10.7	15.1	33.3
+CA	"california,san joaquin"	685306	35.9	13.9	38.9	14.4
+CA	"california,san luis obispo"	269637	71.1	5.8	20.8	3.2
+CA	"california,san mateo"	718451	42.3	8.2	25.4	24.8
+CA	"california,santa barbara"	423895	47.9	6.6	42.9	4.9
+CA	"california,santa clara"	1781642	35.2	7.5	26.9	32
+CA	"california,santa cruz"	262382	59.6	5.7	32	4.2
+CA	"california,shasta"	177223	82.4	5.3	8.4	2.5
+CA	"california,sierra"	3240	88.1	2.6	8.3	0.4
+CA	"california,siskiyou"	44900	79.5	6.6	10.3	1.2
+CA	"california,solano"	413344	40.8	22.3	24	14.6
+CA	"california,sonoma"	483878	66.1	6	24.9	3.8
+CA	"california,stanislaus"	514453	46.7	8.3	41.9	5.1
+CA	"california,sutter"	94737	50.4	7.6	28.8	14.4
+CA	"california,tehama"	63463	71.9	4.9	21.9	1
+CA	"california,trinity"	13786	83.5	5.6	7	0.7
+CA	"california,tulare"	442179	32.6	5.8	60.6	3.4
+CA	"california,tuolumne"	55365	81.9	5.7	10.7	1
+CA	"california,ventura"	823318	48.7	6.3	40.3	6.7
+CA	"california,yolo"	200849	49.9	8.4	30.3	13
+CA	"california,yuba"	72155	58.8	10.3	25	6.7
+CO	"colorado,adams"	441603	53.2	7	38	3.6
+CO	"colorado,alamosa"	15445	49.6	5.5	46	1
+CO	"colorado,arapahoe"	572003	63.2	14.4	18.4	5.1
+CO	"colorado,archuleta"	12084	78.2	3.1	17.8	0.7
+CO	"colorado,baca"	3788	87.7	2.2	9.2	0.2
+CO	"colorado,bent"	6499	59	9.6	30.5	1
+CO	"colorado,boulder"	294567	79.4	3.5	13.3	4.1
+CO	"colorado,chaffee"	17809	86.6	3.1	9.4	0.6
+CO	"colorado,cheyenne"	1836	88.1	1.4	9.7	0.6
+CO	"colorado,clear creek"	9088	92.1	2.3	4.7	0.6
+CO	"colorado,conejos"	8256	41.8	4.4	56	0.3
+CO	"colorado,costilla"	3524	30.8	5	66	1
+CO	"colorado,crowley"	5823	57.9	11.3	29	1
+CO	"colorado,custer"	4255	92	2.7	4.7	0.4
+CO	"colorado,delta"	30952	83	2.8	14	0.5
+CO	"colorado,denver"	600158	52.2	14.3	31.8	3.4
+CO	"colorado,dolores"	2064	90.9	2.6	4	0.1
+CO	"colorado,douglas"	285465	85.2	3.8	7.5	3.8
+CO	"colorado,eagle"	52197	67.3	2.8	30.1	1
+CO	"colorado,elbert"	23086	91	2.6	5.3	0.7
+CO	"colorado,el paso"	622263	72	11.3	15.1	2.7
+CO	"colorado,fremont"	46824	80.4	5.8	12.3	0.6
+CO	"colorado,garfield"	56389	68.8	3.3	28.3	0.7
+CO	"colorado,gilpin"	5441	90.9	2.3	4.9	1.4
+CO	"colorado,grand"	14843	89.7	2	7.5	0.8
+CO	"colorado,gunnison"	15324	89.1	2.3	8.2	0.7
+CO	"colorado,hinsdale"	843	93.2	2.1	2.8	0.4
+CO	"colorado,huerfano"	6711	61.9	4.4	35.3	0.4
+CO	"colorado,jackson"	1394	87.4	1.1	10.8	0.1
+CO	"colorado,jefferson"	534543	79.9	3.8	14.3	2.6
+CO	"colorado,kiowa"	1398	93.3	1.8	5.6	0
+CO	"colorado,kit carson"	8270	76.4	4.1	19	0.4
+CO	"colorado,lake"	7310	58.2	4	39.1	0.5
+CO	"colorado,la plata"	51334	80.3	3.5	11.8	0.6
+CO	"colorado,larimer"	299630	84.5	3.5	10.6	1.9
+CO	"colorado,las animas"	15507	54.2	4.8	41.6	0.7
+CO	"colorado,lincoln"	5467	79.5	7.2	12.5	0.8
+CO	"colorado,logan"	22709	78.2	5.5	15.6	0.6
+CO	"colorado,mesa"	146723	83.1	3.3	13.3	0.8
+CO	"colorado,mineral"	712	95.2	1.7	2.9	0.1
+CO	"colorado,moffat"	13795	82.7	2.5	14.4	0.6
+CO	"colorado,montezuma"	25535	75.1	2.9	11	0.5
+CO	"colorado,montrose"	41276	77.5	2.8	19.7	0.6
+CO	"colorado,morgan"	28159	61.7	5.2	33.8	0.5
+CO	"colorado,otero"	18831	56.5	4.6	40.3	0.8
+CO	"colorado,ouray"	4436	93.4	1.5	4.4	0.6
+CO	"colorado,park"	16206	91.6	2.8	4.8	0.6
+CO	"colorado,phillips"	4442	79.4	1.8	18.7	0.6
+CO	"colorado,pitkin"	17148	87.9	1.9	9.1	1.2
+CO	"colorado,prowers"	12551	62.7	3.1	35.2	0.3
+CO	"colorado,pueblo"	159063	54.1	5.7	41.4	0.8
+CO	"colorado,rio blanco"	6666	86.3	3	10	0.3
+CO	"colorado,rio grande"	11982	55.1	3.6	42.4	0.4
+CO	"colorado,routt"	23509	90.6	2	6.8	0.6
+CO	"colorado,saguache"	6108	56.4	3	40.1	0.8
+CO	"colorado,san juan"	699	85.1	2.3	12	1.1
+CO	"colorado,san miguel"	7359	88.5	2.2	8.6	0.7
+CO	"colorado,sedgwick"	2379	85.6	2	12.1	0.7
+CO	"colorado,summit"	27994	82.7	2.4	14.2	1
+CO	"colorado,teller"	23350	90.6	2.9	5.5	0.7
+CO	"colorado,washington"	4814	89.4	2.1	8.5	0.2
+CO	"colorado,weld"	252825	67.6	3.9	28.4	1.2
+CO	"colorado,yuma"	10043	77.9	1.3	20.8	0.2
+CT	"connecticut,fairfield"	916829	66.2	13.5	16.9	4.6
+CT	"connecticut,hartford"	894014	66.1	16	15.3	4.2
+CT	"connecticut,litchfield"	189927	91.3	2.9	4.5	1.5
+CT	"connecticut,middlesex"	165676	86.4	6.7	4.7	2.6
+CT	"connecticut,new haven"	862477	67.5	15.4	15	3.5
+CT	"connecticut,new london"	274055	78.3	9.5	8.5	4.2
+CT	"connecticut,tolland"	152691	87.5	5.1	4.3	3.4
+CT	"connecticut,windham"	118428	85.4	4.5	9.6	1.2
+DE	"delaware,kent"	162310	65.2	27.5	5.8	2
+DE	"delaware,new castle"	538479	61.6	26.3	8.7	4.3
+DE	"delaware,sussex"	197145	75.6	15	8.6	1
+DC	"district of columbia,washington"	NA	NA	NA	NA	NA
+FL	"florida,alachua"	247336	63.7	23	8.4	5.4
+FL	"florida,baker"	27115	82.4	15.1	1.9	0.5
+FL	"florida,bay"	168852	79.2	13.9	4.8	2
+FL	"florida,bradford"	28520	73.9	22	3.6	0.5
+FL	"florida,brevard"	543376	77.6	12.7	8.1	2.1
+FL	"florida,broward"	1748066	43.5	29.7	25.1	3.2
+FL	"florida,calhoun"	14625	77.7	16.1	5.2	0.5
+FL	"florida,charlotte"	159978	86	7.4	5.8	1.2
+FL	"florida,citrus"	141236	89.6	4.4	4.7	1.4
+FL	"florida,clay"	190865	77.2	12.8	7.7	2.9
+FL	"florida,collier"	321520	65.7	8.5	25.9	1.1
+FL	"florida,columbia"	67531	74.7	19.4	4.9	0.9
+FL	"florida,dade"	2496435	15.4	21.3	65	1.5
+FL	"florida,de soto"	NA	NA	NA	NA	NA
+FL	"florida,dixie"	16422	86.6	9.9	3.1	0.3
+FL	"florida,duval"	864263	56.6	32.4	7.6	4.2
+FL	"florida,escambia"	297619	66.2	26.1	4.7	2.7
+FL	"florida,flagler"	95696	76.1	13.7	8.6	2.1
+FL	"florida,franklin"	11549	79.6	15.5	4.6	0.2
+FL	"florida,gadsden"	46389	33.1	57.3	9.5	0.5
+FL	"florida,gilchrist"	16939	87.9	6.8	5	0.4
+FL	"florida,glades"	12884	61.7	14	21.1	0.4
+FL	"florida,gulf"	15863	74.9	20.5	4.3	0.3
+FL	"florida,hamilton"	14799	54.9	36.2	8.8	0.5
+FL	"florida,hardee"	27731	48	9	42.9	1.1
+FL	"florida,hendry"	39140	34.9	16.1	49.2	0.7
+FL	"florida,hernando"	172778	82.1	7.1	10.3	1.1
+FL	"florida,highlands"	98786	70.7	11.6	17.4	1.5
+FL	"florida,hillsborough"	1229226	53.7	19.8	24.9	3.4
+FL	"florida,holmes"	19927	88.9	7.7	2.2	0.4
+FL	"florida,indian river"	138028	77.4	10.6	11.2	1.2
+FL	"florida,jackson"	49746	66.6	28.4	4.3	0.5
+FL	"florida,jefferson"	14761	58.7	37.5	3.7	0.4
+FL	"florida,lafayette"	8870	70.6	17.3	12.1	0.1
+FL	"florida,lake"	297052	74.5	12	12.1	1.7
+FL	"florida,lee"	618754	71	10.3	18.3	1.4
+FL	"florida,leon"	275487	59.3	32.5	5.6	2.9
+FL	"florida,levy"	40801	80.8	11.3	7.5	0.6
+FL	"florida,liberty"	8365	73.6	19.6	6.2	0.2
+FL	"florida,madison"	19224	55	40.1	4.7	0.2
+FL	"florida,manatee"	322833	73.4	10.8	14.9	1.6
+FL	"florida,marion"	331298	74	14.4	10.9	1.3
+FL	"florida,martin"	146318	80.3	7	12.2	1.1
+FL	"florida,monroe"	73090	71.3	7.5	20.6	1.1
+FL	"florida,nassau"	73314	87.9	7.9	3.2	0.9
+FL	"florida,okaloosa:main"	NA	NA	NA	NA	NA
+FL	"florida,okaloosa:spit"	NA	NA	NA	NA	NA
+FL	"florida,okeechobee"	39996	65.7	9.9	23.9	0.9
+FL	"florida,orange"	1145956	46	24.2	26.9	4.9
+FL	"florida,osceola"	268685	40.3	15.4	45.5	2.8
+FL	"florida,palm beach"	1320134	60.1	19.6	19	2.4
+FL	"florida,pasco"	464697	80.1	6.7	11.7	2.1
+FL	"florida,pinellas"	916542	76.9	12.5	8	3
+FL	"florida,polk"	602095	64.6	17.2	17.7	1.6
+FL	"florida,putnam"	74364	72.6	17.9	9	0.6
+FL	"florida,st johns"	190039	85.3	7.4	5.2	2.1
+FL	"florida,st lucie"	277789	61.2	21.7	16.6	1.6
+FL	"florida,santa rosa"	151372	85	8.4	4.3	1.8
+FL	"florida,sarasota"	379448	84.9	6.3	7.9	1.3
+FL	"florida,seminole"	422718	66.3	14	17.1	3.7
+FL	"florida,sumter"	93420	82.8	10.8	6	0.7
+FL	"florida,suwannee"	41551	77.7	13.3	8.7	0.5
+FL	"florida,taylor"	22570	73	22.4	3.4	0.7
+FL	"florida,union"	15535	71.6	23.6	4.8	0.2
+FL	"florida,volusia"	494593	75.4	12.6	11.2	1.5
+FL	"florida,wakulla"	30776	79.5	16.3	3.3	0.6
+FL	"florida,walton"	55043	85.1	8.1	5.3	0.9
+FL	"florida,washington"	24896	78.5	17.1	2.9	0.5
+GA	"georgia,appling"	18236	70.5	19.7	9.3	0.7
+GA	"georgia,atkinson"	8375	57	18.9	24.3	0.3
+GA	"georgia,bacon"	11096	76	16.6	7.1	0.3
+GA	"georgia,baker"	3451	47.6	48	4.2	0.7
+GA	"georgia,baldwin"	45720	54	42.7	2	1.3
+GA	"georgia,banks"	18395	89.8	3.7	5.7	0.9
+GA	"georgia,barrow"	69367	74.6	13.7	8.7	3.4
+GA	"georgia,bartow"	100157	79.7	12.3	7.7	0.7
+GA	"georgia,ben hill"	17634	57.6	35.9	5.8	0.7
+GA	"georgia,berrien"	19286	83.2	12	4.6	0.4
+GA	"georgia,bibb"	155547	42.1	53.6	2.8	1.6
+GA	"georgia,bleckley"	13063	68.9	28.3	2.3	0.8
+GA	"georgia,brantley"	18411	93.4	4.4	1.9	0.2
+GA	"georgia,brooks"	16243	58	36.5	5.3	0.3
+GA	"georgia,bryan"	30233	77.6	16.7	4.4	1.6
+GA	"georgia,bulloch"	70217	65.9	29.3	3.5	1.5
+GA	"georgia,burke"	23316	46.5	50.8	2.6	0.3
+GA	"georgia,butts"	23655	68.5	28.7	2.5	0.5
+GA	"georgia,calhoun"	6694	33.6	62.3	3.9	0.4
+GA	"georgia,camden"	50513	71.2	22.4	5.1	1.4
+GA	"georgia,candler"	10998	63.2	25.4	11.2	0.5
+GA	"georgia,carroll"	110527	72.9	20.4	6.2	0.8
+GA	"georgia,catoosa"	63942	92.5	3.8	2.3	1.2
+GA	"georgia,charlton"	12171	66.7	30	2.5	0.6
+GA	"georgia,chatham"	265128	50.4	42.3	5.4	2.4
+GA	"georgia,chattahoochee"	11267	62.9	23.3	12.4	2.2
+GA	"georgia,chattooga"	26015	83	12.7	4	0.4
+GA	"georgia,cherokee"	214346	81.3	7.7	9.6	1.7
+GA	"georgia,clarke"	116714	57.1	28.7	10.4	4.2
+GA	"georgia,clay"	3183	37.3	61.6	0.8	0.3
+GA	"georgia,clayton"	259424	14.1	68.6	13.7	5
+GA	"georgia,clinch"	6798	66.7	29.1	3.5	0.2
+GA	"georgia,cobb"	688078	56.3	27.7	12.3	4.5
+GA	"georgia,coffee"	42356	61.2	28	10.3	0.7
+GA	"georgia,colquitt"	45498	58.8	23.9	17.1	0.6
+GA	"georgia,columbia"	124053	73.8	17.7	5	3.8
+GA	"georgia,cook"	17212	64.9	28.7	5.9	0.7
+GA	"georgia,coweta"	127317	72.7	19.4	6.7	1.5
+GA	"georgia,crawford"	12630	73.5	23.6	2.4	0.3
+GA	"georgia,crisp"	23439	52.1	44	3.2	0.8
+GA	"georgia,dade"	16633	95	2.2	1.8	0.7
+GA	"georgia,dawson"	22330	93.4	1.8	4.1	0.6
+GA	"georgia,decatur"	27842	52.5	42.3	5	0.5
+GA	"georgia,de kalb"	NA	NA	NA	NA	NA
+GA	"georgia,dodge"	21796	65.5	30.8	3.4	0.5
+GA	"georgia,dooly"	14918	43.3	50.8	5.8	0.6
+GA	"georgia,dougherty"	94565	28.9	68.3	2.2	0.8
+GA	"georgia,douglas"	132403	49	41.9	8.4	1.4
+GA	"georgia,early"	11008	47.7	50.4	1.6	0.3
+GA	"georgia,echols"	4034	63.3	7.1	29.3	0.3
+GA	"georgia,effingham"	52250	81	15.4	2.9	0.8
+GA	"georgia,elbert"	20166	64.2	30.5	4.8	0.6
+GA	"georgia,emanuel"	22598	60.8	34.4	4.1	0.7
+GA	"georgia,evans"	11000	56.6	30.2	13.1	0.7
+GA	"georgia,fannin"	23682	96.1	1.5	1.8	0.3
+GA	"georgia,fayette"	106567	67.8	22.3	6.3	3.9
+GA	"georgia,floyd"	96317	73.7	16	9.3	1.3
+GA	"georgia,forsyth"	175511	80.3	4.2	9.4	6.2
+GA	"georgia,franklin"	22084	85.6	10.1	3.9	0.5
+GA	"georgia,fulton"	920581	40.8	46.3	7.9	5.6
+GA	"georgia,gilmer"	28292	88.6	1.8	9.5	0.3
+GA	"georgia,glascock"	3082	89.2	9.3	1.1	0
+GA	"georgia,glynn"	79626	64.8	27.8	6.4	1.2
+GA	"georgia,gordon"	55186	79.9	5.6	14	1
+GA	"georgia,grady"	25011	59.5	30.3	10	0.4
+GA	"georgia,greene"	15994	54.8	39.3	5.6	0.3
+GA	"georgia,gwinnett"	805321	44	26.8	20.1	10.6
+GA	"georgia,habersham"	43041	80.4	5.1	12.4	2.2
+GA	"georgia,hall"	179684	63.6	9.6	26.1	1.8
+GA	"georgia,hancock"	9429	23.5	74.7	1.5	0.5
+GA	"georgia,haralson"	28780	92.1	6.1	1.1	0.5
+GA	"georgia,harris"	32024	77.6	18.7	2.7	0.9
+GA	"georgia,hart"	25213	76.2	19.9	3.1	0.9
+GA	"georgia,heard"	11834	86.1	11.5	1.9	0.5
+GA	"georgia,henry"	203922	52.5	39.4	5.8	2.9
+GA	"georgia,houston"	139900	60.5	31.3	6.1	2.4
+GA	"georgia,irwin"	9538	70.4	26.8	2.4	0.6
+GA	"georgia,jackson"	60485	83.8	8.5	6.2	1.7
+GA	"georgia,jasper"	13900	72.6	23.5	3.7	0.2
+GA	"georgia,jeff davis"	15068	73.4	16	10.5	0.5
+GA	"georgia,jefferson"	16930	41.4	55.3	3.1	0.4
+GA	"georgia,jenkins"	8340	54.1	41.7	4	0.4
+GA	"georgia,johnson"	9980	62.3	35.8	1.9	0.2
+GA	"georgia,jones"	28669	72.7	25.5	1.1	0.7
+GA	"georgia,lamar"	18317	65.2	32.5	1.9	0.4
+GA	"georgia,lanier"	10078	68.5	26.1	4.6	1
+GA	"georgia,laurens"	48434	59.7	37	2.4	1
+GA	"georgia,lee"	28298	75.8	20	2	2.2
+GA	"georgia,liberty"	63453	42.7	46.9	9.7	2
+GA	"georgia,lincoln"	7996	65	33.1	1.2	0.4
+GA	"georgia,long"	14464	58.7	28.6	12.3	0.8
+GA	"georgia,lowndes"	109233	56.1	38	4.8	1.5
+GA	"georgia,lumpkin"	29966	91.8	2.9	4.5	0.5
+GA	"georgia,mcduffie"	21875	56.3	41.2	2.2	0.3
+GA	"georgia,mcintosh"	14333	60.8	37.2	1.6	0.3
+GA	"georgia,macon"	14740	33.7	61.6	3.6	1.3
+GA	"georgia,madison"	28120	85.7	9.6	4.1	0.6
+GA	"georgia,marion"	8742	58.3	34.3	6.5	0.9
+GA	"georgia,meriwether"	21992	57.3	40.3	1.6	0.6
+GA	"georgia,miller"	6125	69.2	29.2	1.5	0.5
+GA	"georgia,mitchell"	23498	46.4	48.7	4.4	0.5
+GA	"georgia,monroe"	26424	72.3	24.8	2	0.8
+GA	"georgia,montgomery"	9123	67.3	27.4	5.3	0.3
+GA	"georgia,morgan"	17868	71.7	24.8	2.8	0.6
+GA	"georgia,murray"	39628	85	2.2	13	0.3
+GA	"georgia,muscogee"	189885	43.7	48.5	6.4	2.2
+GA	"georgia,newton"	99958	52	43	4.6	0.9
+GA	"georgia,oconee"	32808	86.3	6.4	4.4	3.1
+GA	"georgia,oglethorpe"	14899	76.7	19.1	3.7	0.4
+GA	"georgia,paulding"	142324	75	19.4	5.1	0.9
+GA	"georgia,peach"	27695	45.1	47.4	6.8	0.8
+GA	"georgia,pickens"	29431	94.5	2.2	2.8	0.4
+GA	"georgia,pierce"	18758	84.6	10.3	4.7	0.3
+GA	"georgia,pike"	17869	86.8	11.6	1.1	0.3
+GA	"georgia,polk"	41475	73.5	14.3	11.8	0.7
+GA	"georgia,pulaski"	12010	62.4	32.9	3.9	0.9
+GA	"georgia,putnam"	21218	66.1	27.2	6.3	0.5
+GA	"georgia,quitman"	2513	50.3	48.3	1.4	0.1
+GA	"georgia,rabun"	16276	88.9	2.5	8	0.7
+GA	"georgia,randolph"	7719	36	62.6	1.5	0.3
+GA	"georgia,richmond"	200549	38	56.8	4.1	1.7
+GA	"georgia,rockdale"	85215	40.9	48.6	9.5	1.8
+GA	"georgia,schley"	5010	72.1	24.3	3.2	0.7
+GA	"georgia,screven"	14593	54.1	44.4	1.2	0.4
+GA	"georgia,seminole"	8729	63.2	34.4	2.3	0.4
+GA	"georgia,spalding"	64073	60.8	34.5	3.8	0.9
+GA	"georgia,stephens"	26175	84.1	12.8	2.4	0.7
+GA	"georgia,stewart"	6058	27.3	48.3	24	0.7
+GA	"georgia,sumter"	32819	40.9	53	5.2	1.3
+GA	"georgia,talbot"	6865	38.4	60.2	1.3	0.1
+GA	"georgia,taliaferro"	1717	36.4	61	2	0.6
+GA	"georgia,tattnall"	25520	59.5	30.6	9.8	0.4
+GA	"georgia,taylor"	8906	57.5	40.2	1.8	0.6
+GA	"georgia,telfair"	16500	51.1	38.2	12.3	0.6
+GA	"georgia,terrell"	9315	36.1	62.1	1.7	0.3
+GA	"georgia,thomas"	44720	58.3	38.1	2.9	0.7
+GA	"georgia,tift"	40118	58.7	30.5	10.1	1.3
+GA	"georgia,toombs"	27223	62	26.4	11.2	0.7
+GA	"georgia,towns"	10471	96.5	1	2	0.4
+GA	"georgia,treutlen"	6885	64.9	33.6	1.5	0.2
+GA	"georgia,troup"	67044	60.3	34.9	3.2	1.6
+GA	"georgia,turner"	8930	54	42.3	3.2	0.4
+GA	"georgia,twiggs"	9023	56.1	42.4	1.4	0.2
+GA	"georgia,union"	21356	95.3	1.7	2.4	0.4
+GA	"georgia,upson"	27153	68.2	29.2	2.2	0.5
+GA	"georgia,walker"	68756	92.1	5.7	1.6	0.4
+GA	"georgia,walton"	83768	78.4	17.1	3.2	1.1
+GA	"georgia,ware"	36312	64.9	31	3.3	0.8
+GA	"georgia,warren"	5834	36.6	62.4	0.9	0.4
+GA	"georgia,washington"	21187	44.1	53.7	1.9	0.5
+GA	"georgia,wayne"	30099	72.3	21.9	5.7	0.5
+GA	"georgia,webster"	2799	53.3	43.4	3.5	0.3
+GA	"georgia,wheeler"	7421	59.4	36	4.8	0.2
+GA	"georgia,white"	27144	93.8	3	2.4	0.5
+GA	"georgia,whitfield"	102599	62.2	6.3	31.6	1.3
+GA	"georgia,wilcox"	9255	59.9	36.1	3.7	0.5
+GA	"georgia,wilkes"	10593	51.9	44.3	3.4	0.5
+GA	"georgia,wilkinson"	9563	57.8	39.5	2.2	0.3
+GA	"georgia,worth"	21679	69.4	28.6	1.5	0.3
+ID	"idaho,ada"	392365	86.5	4	7.1	2.4
+ID	"idaho,adams"	3976	94.8	1.8	2.4	0.4
+ID	"idaho,bannock"	82839	86.4	3.4	6.7	1.3
+ID	"idaho,bear lake"	5986	94.7	1.2	3.6	0.4
+ID	"idaho,benewah"	9285	85.3	3.9	2.5	0.3
+ID	"idaho,bingham"	45607	74.9	2.4	17.2	0.6
+ID	"idaho,blaine"	21376	78	1.7	20	0.9
+ID	"idaho,boise"	7028	93.2	2.5	3.5	0.4
+ID	"idaho,bonner"	40877	94.4	2.2	2.2	0.5
+ID	"idaho,bonneville"	104234	85.3	2.6	11.4	0.8
+ID	"idaho,boundary"	10972	92.1	2.4	3.7	0.6
+ID	"idaho,butte"	2891	93.8	1.7	4.1	0.2
+ID	"idaho,camas"	1117	90.2	3.5	6.7	0.1
+ID	"idaho,canyon"	188923	72.3	3.6	23.9	0.8
+ID	"idaho,caribou"	6963	93.1	1.6	4.8	0.2
+ID	"idaho,cassia"	22952	72.9	2.6	24.9	0.5
+ID	"idaho,clark"	982	56.8	2.2	40.5	0.5
+ID	"idaho,clearwater"	8761	92	2.3	3.1	0.7
+ID	"idaho,custer"	4368	94	1.2	4	0.2
+ID	"idaho,elmore"	27038	75.1	6.8	15.2	2.8
+ID	"idaho,franklin"	12786	91.8	1.8	6.6	0.1
+ID	"idaho,fremont"	13242	85.1	1.9	12.8	0.2
+ID	"idaho,gem"	16719	89.1	2.4	8	0.5
+ID	"idaho,gooding"	15464	69.6	2.6	28.1	0.5
+ID	"idaho,idaho"	16267	92.4	2.2	2.6	0.4
+ID	"idaho,jefferson"	26140	87.7	1.7	10.1	0.4
+ID	"idaho,jerome"	22374	66.9	2.4	31	0.3
+ID	"idaho,kootenai"	138494	92	2.7	3.8	0.7
+ID	"idaho,latah"	37244	90.6	3.3	3.6	2.1
+ID	"idaho,lemhi"	7936	95	1.9	2.3	0.4
+ID	"idaho,lewis"	3821	88.9	2.8	3.3	0.4
+ID	"idaho,lincoln"	5208	69.3	2.5	28.3	0.4
+ID	"idaho,madison"	37536	91.2	2	5.9	0.9
+ID	"idaho,minidoka"	20069	65.2	2.8	32.4	0.4
+ID	"idaho,nez perce"	39265	88.7	2.8	2.8	0.7
+ID	"idaho,oneida"	4286	95	1.2	2.9	0.5
+ID	"idaho,owyhee"	11526	68.3	2.6	25.8	0.5
+ID	"idaho,payette"	22623	81.3	3.1	14.9	0.8
+ID	"idaho,power"	7817	66.1	2.7	29.8	0.4
+ID	"idaho,shoshone"	12765	93.5	2.2	3	0.4
+ID	"idaho,teton"	10170	81.5	1.7	16.9	0.5
+ID	"idaho,twin falls"	77230	82.7	2.7	13.7	1.2
+ID	"idaho,valley"	9862	94.1	1.6	3.9	0.4
+ID	"idaho,washington"	10198	80.1	2.3	16.8	0.9
+IL	"illinois,adams"	67103	93	5.1	1.2	0.7
+IL	"illinois,alexander"	8238	60.5	37.1	1.9	0.2
+IL	"illinois,bond"	17768	88.9	7.9	3.1	0.4
+IL	"illinois,boone"	54165	75.2	4.6	20.2	1.3
+IL	"illinois,brown"	6937	74.8	19.1	5.8	0.2
+IL	"illinois,bureau"	34978	90	1.9	7.7	0.7
+IL	"illinois,calhoun"	5089	98.3	0.5	0.8	0.2
+IL	"illinois,carroll"	15387	94.9	1.9	2.8	0.3
+IL	"illinois,cass"	13642	79.4	4.4	16.8	0.3
+IL	"illinois,champaign"	201081	70.9	15.2	5.3	8.9
+IL	"illinois,christian"	34800	95.8	2.3	1.4	0.5
+IL	"illinois,clark"	16335	97.5	1	1.1	0.3
+IL	"illinois,clay"	13815	97.2	1.1	1.1	0.5
+IL	"illinois,clinton"	37762	92.1	4.7	2.8	0.4
+IL	"illinois,coles"	53873	91.6	5.4	2.1	1
+IL	"illinois,cook"	5194675	43.9	27.3	24	6.2
+IL	"illinois,crawford"	19817	91.9	5.6	1.8	0.5
+IL	"illinois,cumberland"	11048	97.9	1.1	0.7	0.2
+IL	"illinois,de kalb"	NA	NA	NA	NA	NA
+IL	"illinois,de witt"	16561	95.7	1.7	2.1	0.4
+IL	"illinois,douglas"	19980	92.2	1.4	6.1	0.4
+IL	"illinois,du page"	NA	NA	NA	NA	NA
+IL	"illinois,edgar"	18576	97.7	1	1	0.2
+IL	"illinois,edwards"	6721	97.5	1.3	0.9	0.3
+IL	"illinois,effingham"	34242	96.8	1	1.7	0.4
+IL	"illinois,fayette"	22140	93	5.4	1.4	0.2
+IL	"illinois,ford"	14081	96	1.7	2.1	0.3
+IL	"illinois,franklin"	39561	96.9	1.4	1.2	0.3
+IL	"illinois,fulton"	37069	92.8	4.3	2.4	0.3
+IL	"illinois,gallatin"	5589	97.1	1.4	1.2	0.1
+IL	"illinois,greene"	13886	97.3	1.6	0.8	0.1
+IL	"illinois,grundy"	50063	88.9	2.7	8.2	0.7
+IL	"illinois,hamilton"	8457	97.4	1.1	1.2	0.2
+IL	"illinois,hancock"	19104	97.4	1.2	1	0.2
+IL	"illinois,hardin"	4320	96.6	1.1	1.3	0.5
+IL	"illinois,henderson"	7331	97.3	1.2	1.1	0.2
+IL	"illinois,henry"	50486	92.1	3	4.8	0.4
+IL	"illinois,iroquois"	29718	92.4	2.1	5.3	0.3
+IL	"illinois,jackson"	60218	76	16.9	4	3.2
+IL	"illinois,jasper"	9698	98.1	0.7	0.8	0.2
+IL	"illinois,jefferson"	38827	87.4	10	2.1	0.6
+IL	"illinois,jersey"	22985	96.9	1.6	1	0.3
+IL	"illinois,jo daviess"	22678	95.6	1.4	2.7	0.3
+IL	"illinois,johnson"	12582	87.9	9	3	0.2
+IL	"illinois,kane"	515269	59	8.3	30.7	3.5
+IL	"illinois,kankakee"	113449	73.4	17.3	9	0.9
+IL	"illinois,kendall"	114736	74.2	8.1	15.6	3
+IL	"illinois,knox"	52919	85.3	9.7	4.8	0.6
+IL	"illinois,lake"	703462	65.2	9.6	19.9	6.3
+IL	"illinois,la salle"	NA	NA	NA	NA	NA
+IL	"illinois,lawrence"	16833	86.1	10.6	3.3	0.2
+IL	"illinois,lee"	36031	88.3	6.3	5	0.7
+IL	"illinois,livingston"	38950	89.6	6.2	3.9	0.5
+IL	"illinois,logan"	30305	87.7	8.8	2.9	0.6
+IL	"illinois,mcdonough"	32612	88.9	6.9	2.7	1.8
+IL	"illinois,mchenry"	308760	83.7	2.7	11.4	2.5
+IL	"illinois,mclean"	169572	81.9	9.7	4.4	4.3
+IL	"illinois,macon"	110768	78.4	18.8	1.9	1
+IL	"illinois,macoupin"	47765	97	1.6	0.9	0.3
+IL	"illinois,madison"	269282	86.7	9.7	2.7	0.8
+IL	"illinois,marion"	39437	92.4	5.5	1.4	0.6
+IL	"illinois,marshall"	12640	95.9	1.3	2.5	0.4
+IL	"illinois,mason"	14666	97.5	1.3	0.8	0.3
+IL	"illinois,massac"	15429	89.8	7.9	1.9	0.3
+IL	"illinois,menard"	12705	97	1.7	1	0.2
+IL	"illinois,mercer"	16434	96.8	1	1.9	0.3
+IL	"illinois,monroe"	32957	97.1	1	1.4	0.4
+IL	"illinois,montgomery"	30104	94.1	3.8	1.5	0.4
+IL	"illinois,morgan"	35547	89.8	7.6	2	0.5
+IL	"illinois,moultrie"	14846	97.8	0.9	0.9	0.2
+IL	"illinois,ogle"	53497	88.6	2.3	8.9	0.5
+IL	"illinois,peoria"	186494	72.7	20.5	3.8	3.1
+IL	"illinois,perry"	22350	87.1	9.7	2.7	0.4
+IL	"illinois,piatt"	16729	97.3	1.3	1	0.3
+IL	"illinois,pike"	16430	96.2	2.4	1	0.2
+IL	"illinois,pope"	4470	90.7	6.9	1.4	0.2
+IL	"illinois,pulaski"	6161	63.9	34.3	1.6	0.2
+IL	"illinois,putnam"	6006	94.1	1.7	4.2	0.2
+IL	"illinois,randolph"	33476	86.4	10.7	2.6	0.3
+IL	"illinois,richland"	16233	96.6	1.4	1.3	0.7
+IL	"illinois,rock island"	147546	75.7	12	11.6	1.6
+IL	"illinois,st clair"	270056	62.9	32.7	3.3	1.2
+IL	"illinois,saline"	24913	92.4	5.7	1.4	0.4
+IL	"illinois,sangamon"	197465	82.5	14	1.8	1.6
+IL	"illinois,schuyler"	7544	94.9	3.7	1.2	0.1
+IL	"illinois,scott"	5355	98	0.9	0.8	0.2
+IL	"illinois,shelby"	22363	98	0.8	0.8	0.3
+IL	"illinois,stark"	5994	97.2	1.5	1	0.3
+IL	"illinois,stephenson"	47711	85.1	11.5	2.9	0.6
+IL	"illinois,tazewell"	135394	95	2.3	1.9	0.7
+IL	"illinois,union"	17808	92.4	2.4	4.8	0.3
+IL	"illinois,vermilion"	81625	80.4	15.1	4.2	0.7
+IL	"illinois,wabash"	11947	96.2	1.8	1.3	0.6
+IL	"illinois,warren"	17707	88	3.3	8.4	0.5
+IL	"illinois,washington"	14716	96.9	1.5	1.3	0.3
+IL	"illinois,wayne"	16760	97.5	1	1.1	0.4
+IL	"illinois,white"	14665	97.6	1.1	1.1	0.2
+IL	"illinois,whiteside"	58498	85.9	3.5	11	0.5
+IL	"illinois,will"	677560	67.2	13.5	15.6	4.6
+IL	"illinois,williamson"	66357	91.5	5.5	2	0.8
+IL	"illinois,winnebago"	295266	72.5	15	10.9	2.3
+IL	"illinois,woodford"	38664	96.5	1.6	1.4	0.6
+IN	"indiana,adams"	34387	94.6	1.2	4.1	0.2
+IN	"indiana,allen"	355329	76.5	14.7	6.5	2.7
+IN	"indiana,bartholomew"	76794	87	3.4	6.2	3.4
+IN	"indiana,benton"	8854	93.7	1.6	4.9	0.2
+IN	"indiana,blackford"	12766	97.2	1.6	0.9	0.1
+IN	"indiana,boone"	56640	93.8	2.2	2.2	1.7
+IN	"indiana,brown"	15242	96.8	1.5	1.2	0.3
+IN	"indiana,carroll"	20155	95.2	1.2	3.5	0.1
+IN	"indiana,cass"	38966	83.7	3	12.6	1.1
+IN	"indiana,clark"	110232	85.2	9.2	4.9	0.8
+IN	"indiana,clay"	26890	97.2	1.2	1.1	0.2
+IN	"indiana,clinton"	33224	85.3	1.7	13.2	0.2
+IN	"indiana,crawford"	10713	97	1.3	1.2	0.2
+IN	"indiana,daviess"	31648	93.8	1.6	4.2	0.5
+IN	"indiana,dearborn"	50047	96.9	1.6	1	0.4
+IN	"indiana,decatur"	25740	96.3	1.2	1.7	0.7
+IN	"indiana,de kalb"	NA	NA	NA	NA	NA
+IN	"indiana,delaware"	117671	88.1	9	1.8	1
+IN	"indiana,dubois"	41889	92.6	1.2	6	0.5
+IN	"indiana,elkhart"	197559	77.2	8.2	14.1	1
+IN	"indiana,fayette"	24277	96.4	2.3	0.9	0.3
+IN	"indiana,floyd"	74578	89.2	7.3	2.6	0.9
+IN	"indiana,fountain"	17240	96.3	1.2	2.2	0.2
+IN	"indiana,franklin"	23087	97.9	0.9	0.9	0.2
+IN	"indiana,fulton"	20836	93.3	1.8	4.2	0.5
+IN	"indiana,gibson"	33503	94.8	3.4	1.3	0.5
+IN	"indiana,grant"	70061	86.5	9.4	3.6	0.6
+IN	"indiana,greene"	33165	97.5	1	1	0.3
+IN	"indiana,hamilton"	274569	86.4	5.3	3.4	4.8
+IN	"indiana,hancock"	70002	94.1	3.3	1.7	0.8
+IN	"indiana,harrison"	39364	96.5	1.4	1.5	0.4
+IN	"indiana,hendricks"	145448	88.5	6.5	3	2.1
+IN	"indiana,henry"	49462	94.9	3.4	1.4	0.3
+IN	"indiana,howard"	82752	87.1	9.3	2.7	0.9
+IN	"indiana,huntington"	37124	96.1	1.6	1.7	0.4
+IN	"indiana,jackson"	42376	91.6	2	5.7	0.8
+IN	"indiana,jasper"	33478	92.6	1.7	5.4	0.4
+IN	"indiana,jay"	21253	95.8	1.2	2.7	0.4
+IN	"indiana,jefferson"	32428	93.9	3	2.3	0.7
+IN	"indiana,jennings"	28525	95.9	1.9	2	0.2
+IN	"indiana,johnson"	139654	92.3	2.7	3.1	2
+IN	"indiana,knox"	38440	94.1	3.9	1.5	0.6
+IN	"indiana,kosciusko"	77358	89.9	2.1	7.3	0.8
+IN	"indiana,lagrange"	37128	95	1.2	3.5	0.3
+IN	"indiana,lake"	496005	55.3	28.2	16.7	1.2
+IN	"indiana,la porte"	NA	NA	NA	NA	NA
+IN	"indiana,lawrence"	46134	96.6	1.5	1.2	0.5
+IN	"indiana,madison"	131636	86.3	10.1	3.2	0.4
+IN	"indiana,marion"	903393	59.5	29.5	9.3	2
+IN	"indiana,marshall"	47051	89.5	2	8.4	0.5
+IN	"indiana,martin"	10334	98	0.8	0.7	0.3
+IN	"indiana,miami"	36903	90.3	6.3	2.5	0.3
+IN	"indiana,monroe"	137974	86.1	5.7	2.9	5.2
+IN	"indiana,montgomery"	38124	92.8	2.1	4.6	0.6
+IN	"indiana,morgan"	68894	96.9	1.3	1.2	0.4
+IN	"indiana,newton"	14244	93.3	1.4	5	0.3
+IN	"indiana,noble"	47536	88.6	1.7	9.6	0.4
+IN	"indiana,ohio"	6128	97.4	1.1	1.1	0.3
+IN	"indiana,orange"	19840	96.5	2	1	0.3
+IN	"indiana,owen"	21575	97.3	1.2	0.9	0.3
+IN	"indiana,parke"	17339	95.4	2.9	1.2	0.2
+IN	"indiana,perry"	19338	95.3	3.2	1	0.4
+IN	"indiana,pike"	12845	97.7	1.1	0.9	0.2
+IN	"indiana,porter"	164343	85.9	4.9	8.5	1.2
+IN	"indiana,posey"	25910	96.7	2	1	0.3
+IN	"indiana,pulaski"	13402	95.7	1.7	2.4	0.2
+IN	"indiana,putnam"	37963	92.5	5.1	1.5	0.7
+IN	"indiana,randolph"	26171	95.1	1.5	3	0.2
+IN	"indiana,ripley"	28818	96.7	1.1	1.5	0.5
+IN	"indiana,rush"	17392	96.8	1.5	1.1	0.3
+IN	"indiana,st joseph"	266931	75.6	15.6	7.3	1.9
+IN	"indiana,scott"	24181	97.1	1	1.5	0.4
+IN	"indiana,shelby"	44436	93.7	2.2	3.7	0.5
+IN	"indiana,spencer"	20952	95.9	1.3	2.5	0.3
+IN	"indiana,starke"	23363	95.1	1.5	3.3	0.2
+IN	"indiana,steuben"	34185	95.1	1.5	2.9	0.5
+IN	"indiana,sullivan"	21475	92.8	5.5	1.4	0.2
+IN	"indiana,switzerland"	10613	97.2	1.1	1.4	0.2
+IN	"indiana,tippecanoe"	172780	80.4	6.2	7.5	6.2
+IN	"indiana,tipton"	15936	96.4	1.2	2.2	0.4
+IN	"indiana,union"	7516	96.9	1.5	1.1	0.3
+IN	"indiana,vanderburgh"	179703	85.2	11.4	2.2	1.1
+IN	"indiana,vermillion"	16212	97.8	1	0.8	0.2
+IN	"indiana,vigo"	107848	86.7	9.1	2.3	1.7
+IN	"indiana,wabash"	32888	95.4	1.6	2.1	0.4
+IN	"indiana,warren"	8508	97.8	0.8	0.8	0.4
+IN	"indiana,warrick"	59689	94	2.7	1.6	1.6
+IN	"indiana,washington"	28262	97.4	1.1	1.1	0.3
+IN	"indiana,wayne"	68917	89	7.6	2.6	0.8
+IN	"indiana,wells"	27636	96.3	1.2	2	0.4
+IN	"indiana,white"	24643	91.2	1.7	7.1	0.4
+IN	"indiana,whitley"	33292	96.6	1.4	1.5	0.3
+IA	"iowa,adair"	7682	97.7	0.8	1.3	0.3
+IA	"iowa,adams"	4029	97.3	0.7	0.9	0.6
+IA	"iowa,allamakee"	14330	93	1.4	5.3	0.2
+IA	"iowa,appanoose"	12887	96.8	1.5	1.4	0.3
+IA	"iowa,audubon"	6119	98.2	0.8	0.6	0.4
+IA	"iowa,benton"	26076	97.4	1.3	1.1	0.3
+IA	"iowa,black hawk"	131090	83.9	11.2	3.7	1.3
+IA	"iowa,boone"	26306	95.8	1.8	1.9	0.3
+IA	"iowa,bremer"	24276	96.6	1.7	1	0.7
+IA	"iowa,buchanan"	20958	97.1	1.4	1.2	0.4
+IA	"iowa,buena vista"	20260	67.9	4.4	22.7	5.6
+IA	"iowa,butler"	14867	97.9	0.9	0.9	0.2
+IA	"iowa,calhoun"	9670	97.9	0.8	0.9	0.2
+IA	"iowa,carroll"	20816	96.7	1.3	1.6	0.4
+IA	"iowa,cass"	13956	96.7	0.9	1.8	0.2
+IA	"iowa,cedar"	18499	96.7	1.3	1.5	0.5
+IA	"iowa,cerro gordo"	44151	92.6	2.9	3.8	0.9
+IA	"iowa,cherokee"	12072	95.7	1.4	2.3	0.5
+IA	"iowa,chickasaw"	12439	96.9	0.8	2.2	0.3
+IA	"iowa,clarke"	9286	88.4	1.4	10	0.4
+IA	"iowa,clay"	16667	95.1	1.5	2.9	0.6
+IA	"iowa,clayton"	18129	96.9	1.2	1.7	0.2
+IA	"iowa,clinton"	49116	92.5	4.5	2.5	0.6
+IA	"iowa,crawford"	17096	73.4	2.8	24.2	0.6
+IA	"iowa,dallas"	66135	88.7	2.9	6.1	2.5
+IA	"iowa,davis"	8753	97.7	0.9	1	0.3
+IA	"iowa,decatur"	8457	94	2.8	2.1	0.7
+IA	"iowa,delaware"	17764	98	0.9	0.8	0.3
+IA	"iowa,des moines"	40325	89.4	7.4	2.6	0.7
+IA	"iowa,dickinson"	16667	97.5	0.9	1.1	0.4
+IA	"iowa,dubuque"	93653	92.9	4	1.9	0.9
+IA	"iowa,emmet"	10302	90.5	2.2	7.4	0.4
+IA	"iowa,fayette"	20880	95.7	1.9	1.8	0.5
+IA	"iowa,floyd"	16303	94.7	2	2	1.3
+IA	"iowa,franklin"	10680	87.4	1.9	11.3	0.3
+IA	"iowa,fremont"	7441	95.7	1.4	2.5	0.3
+IA	"iowa,greene"	9336	96.6	0.9	1.8	0.3
+IA	"iowa,grundy"	12453	97.9	0.9	1	0.2
+IA	"iowa,guthrie"	10954	96.7	1.1	1.8	0.3
+IA	"iowa,hamilton"	15673	91.5	1.7	5	2
+IA	"iowa,hancock"	11341	94.7	1.4	3.5	0.4
+IA	"iowa,hardin"	17534	93.7	2.3	3.7	0.5
+IA	"iowa,harrison"	14928	97.3	1	1.2	0.3
+IA	"iowa,henry"	20145	90.1	3.8	3.8	2.3
+IA	"iowa,howard"	9566	97.4	1.1	1.2	0.3
+IA	"iowa,humboldt"	9815	94.6	1.5	3.6	0.3
+IA	"iowa,ida"	7089	97.4	0.8	1.4	0.3
+IA	"iowa,iowa"	16355	96.7	1.1	1.9	0.3
+IA	"iowa,jackson"	19848	96.9	1.3	1.1	0.2
+IA	"iowa,jasper"	36842	95.8	2.2	1.5	0.4
+IA	"iowa,jefferson"	16843	86.3	2.9	2.4	8.5
+IA	"iowa,johnson"	130882	83.1	7.1	4.7	5.2
+IA	"iowa,jones"	20638	95.5	2.6	1.3	0.4
+IA	"iowa,keokuk"	10511	97.9	1.1	0.9	0.2
+IA	"iowa,kossuth"	15543	97.3	1.1	1.4	0.4
+IA	"iowa,lee"	35862	91.6	5.1	3	0.5
+IA	"iowa,linn"	211226	89.3	6.3	2.6	1.8
+IA	"iowa,louisa"	11387	81.8	2	15.8	0.9
+IA	"iowa,lucas"	8898	98	0.8	1	0.2
+IA	"iowa,lyon"	11581	97.3	0.7	1.8	0.2
+IA	"iowa,madison"	15679	97.2	1.2	1.3	0.3
+IA	"iowa,mahaska"	22381	94.9	2.2	1.6	1.1
+IA	"iowa,marion"	33309	95.6	1.7	1.6	1.1
+IA	"iowa,marshall"	40648	78.2	3.7	17.3	1.3
+IA	"iowa,mills"	15059	95.6	1.5	2.4	0.4
+IA	"iowa,mitchell"	10776	98	0.7	1	0.3
+IA	"iowa,monona"	9243	96.3	1.3	1.2	0.2
+IA	"iowa,monroe"	7970	96.3	1.6	2.1	0.4
+IA	"iowa,montgomery"	10740	95.6	1.2	2.8	0.2
+IA	"iowa,muscatine"	42745	80.8	3.3	15.9	0.8
+IA	"iowa,obrien"	NA	NA	NA	NA	NA
+IA	"iowa,osceola"	6462	91.9	1.1	6.7	0.3
+IA	"iowa,page"	15932	92.7	3.6	2.7	0.7
+IA	"iowa,palo alto"	9421	96.7	1.3	1.6	0.3
+IA	"iowa,plymouth"	24986	95.2	1.3	3	0.5
+IA	"iowa,pocahontas"	7310	96.3	1.4	2.3	0.2
+IA	"iowa,polk"	430640	80.7	8.4	7.6	3.5
+IA	"iowa,pottawattamie"	93158	89.7	3.3	6.6	0.6
+IA	"iowa,poweshiek"	18914	93.6	2.5	2.4	1.4
+IA	"iowa,ringgold"	5131	96.8	1.1	1.8	0.3
+IA	"iowa,sac"	10350	96.9	1.1	1.9	0.2
+IA	"iowa,scott"	165224	82.8	10.1	5.6	2
+IA	"iowa,shelby"	12167	96.7	0.9	1.8	0.4
+IA	"iowa,sioux"	33704	89.3	1.3	8.9	0.8
+IA	"iowa,story"	89542	86.9	4.1	3	6
+IA	"iowa,tama"	17767	83.7	2.9	7.4	0.3
+IA	"iowa,taylor"	6317	93	1.2	5.8	0.3
+IA	"iowa,union"	12534	96	1.7	1.8	0.5
+IA	"iowa,van buren"	7570	97.4	0.9	1.2	0.5
+IA	"iowa,wapello"	35625	87.5	2.9	9.1	0.7
+IA	"iowa,warren"	46225	95.8	1.7	1.9	0.5
+IA	"iowa,washington"	21704	92.7	2.1	5.2	0.3
+IA	"iowa,wayne"	6403	97.5	1	1.1	0.3
+IA	"iowa,webster"	38013	90	5.6	3.8	0.6
+IA	"iowa,winnebago"	10866	94.3	1.8	3.3	0.8
+IA	"iowa,winneshiek"	21056	95.7	1.4	2	1.1
+IA	"iowa,woodbury"	102172	77.6	5.6	13.7	2.4
+IA	"iowa,worth"	7598	96.5	1.2	1.9	0.3
+IA	"iowa,wright"	13229	88.7	2	9.6	0.2
+KS	"kansas,allen"	13371	91.9	4.4	2.9	0.5
+KS	"kansas,anderson"	8102	96	1.7	1.5	0.5
+KS	"kansas,atchison"	16924	89.5	7.5	2.3	0.4
+KS	"kansas,barber"	4861	94.8	1.8	2.4	0.4
+KS	"kansas,barton"	27674	83.4	3.4	13.3	0.2
+KS	"kansas,bourbon"	15173	92	5.1	2	0.5
+KS	"kansas,brown"	9984	84	4.4	3.1	0.3
+KS	"kansas,butler"	65880	91	3.9	3.9	0.7
+KS	"kansas,chase"	2790	93.1	3	3.6	0.3
+KS	"kansas,chautauqua"	3669	89.7	4.2	2.4	0.1
+KS	"kansas,cherokee"	21603	89.2	4.5	2	0.3
+KS	"kansas,cheyenne"	2726	93.3	0.8	5.2	0.7
+KS	"kansas,clark"	2215	88.8	3	7.4	0.8
+KS	"kansas,clay"	8535	95.9	1.6	1.9	0.3
+KS	"kansas,cloud"	9533	94.8	2	3	0.2
+KS	"kansas,coffey"	8601	95.1	2.1	2	0.4
+KS	"kansas,comanche"	1891	94.3	1.6	3.9	0.3
+KS	"kansas,cowley"	36311	82.2	6.2	9.1	1.6
+KS	"kansas,crawford"	39134	89	4.6	4.5	1.2
+KS	"kansas,decatur"	2961	96.9	1.5	1	0.2
+KS	"kansas,dickinson"	19754	92.7	3	3.9	0.3
+KS	"kansas,doniphan"	7945	91.7	5.3	2.1	0.2
+KS	"kansas,douglas"	110826	81.7	7.7	5.1	3.7
+KS	"kansas,edwards"	3037	80.5	1.7	17.6	0.4
+KS	"kansas,elk"	2882	93.5	2.3	2.7	0.4
+KS	"kansas,ellis"	28452	91.7	2.4	4.6	1.4
+KS	"kansas,ellsworth"	6497	88.2	6.3	5	0.4
+KS	"kansas,finney"	36776	46.4	5.1	46.7	3.4
+KS	"kansas,ford"	33848	44	4.8	51.2	1.4
+KS	"kansas,franklin"	25992	91.9	4	3.6	0.4
+KS	"kansas,geary"	34362	59.9	25.3	12.4	3.2
+KS	"kansas,gove"	2695	97.1	0.9	1.6	0.4
+KS	"kansas,graham"	2597	90.8	6.7	2.3	0.3
+KS	"kansas,grant"	7829	54.2	2.9	43.9	0.3
+KS	"kansas,gray"	6006	84.1	1.7	14.2	0.2
+KS	"kansas,greeley"	1247	84.7	1.9	13.7	0.3
+KS	"kansas,greenwood"	6689	93.5	2.5	3.3	0.3
+KS	"kansas,hamilton"	2690	67	1.7	30.7	0.3
+KS	"kansas,harper"	6034	92.5	1.8	4.9	0.1
+KS	"kansas,harvey"	34684	84.6	4	10.8	0.7
+KS	"kansas,haskell"	4256	71.3	2.3	27	0.2
+KS	"kansas,hodgeman"	1916	91.2	2.7	6.2	0.4
+KS	"kansas,jackson"	13462	85.9	3.7	3.3	0.4
+KS	"kansas,jefferson"	19126	95	2.3	1.8	0.2
+KS	"kansas,jewell"	3077	96.2	1.4	2	0.2
+KS	"kansas,johnson"	544179	82	6.8	7.2	4.2
+KS	"kansas,kearny"	3977	68.5	2.7	28.5	0.3
+KS	"kansas,kingman"	7858	95.3	1.4	2.5	0.5
+KS	"kansas,kiowa"	2553	93.1	1.7	3.9	0.6
+KS	"kansas,labette"	21607	85.5	8.7	4	0.4
+KS	"kansas,lane"	1750	93	2.1	4.2	0.2
+KS	"kansas,leavenworth"	76227	80.3	12.7	5.7	1.3
+KS	"kansas,lincoln"	3241	96.1	1.1	2.2	0.2
+KS	"kansas,linn"	9656	95.1	2	1.9	0.3
+KS	"kansas,logan"	2756	94.7	2	2.9	0.4
+KS	"kansas,lyon"	33690	73.3	5.1	20.1	2.3
+KS	"kansas,mcpherson"	29180	93.1	2.7	3.5	0.5
+KS	"kansas,marion"	12660	94.7	2.5	2.3	0.2
+KS	"kansas,marshall"	10117	96.1	1.6	1.9	0.2
+KS	"kansas,meade"	4575	82.2	2.3	14.8	0.4
+KS	"kansas,miami"	32787	93.7	3.2	2.5	0.4
+KS	"kansas,mitchell"	6373	97.2	1	1.1	0.3
+KS	"kansas,montgomery"	35471	80.9	10.7	5.2	0.6
+KS	"kansas,morris"	5923	94.1	2	3.6	0.2
+KS	"kansas,morton"	3233	76.3	2.2	19.3	1.9
+KS	"kansas,nemaha"	10178	96.7	1.6	1.2	0.1
+KS	"kansas,neosho"	16512	91.7	3.2	4.2	0.5
+KS	"kansas,ness"	3107	91	1.5	7.4	0.1
+KS	"kansas,norton"	5671	91.1	4.1	4.2	0.5
+KS	"kansas,osage"	16295	95.5	1.8	2	0.2
+KS	"kansas,osborne"	3858	97	1.2	1.2	0.5
+KS	"kansas,ottawa"	6091	95.7	2.2	2	0.1
+KS	"kansas,pawnee"	6973	86.3	6.7	6.6	0.5
+KS	"kansas,phillips"	5642	95.6	1.5	2.1	0.7
+KS	"kansas,pottawatomie"	21604	91.1	3.6	4.4	0.7
+KS	"kansas,pratt"	9656	91.3	3.1	5.4	0.3
+KS	"kansas,rawlins"	2519	95.3	1.2	3.2	0.2
+KS	"kansas,reno"	64511	86.1	5.6	8.1	0.5
+KS	"kansas,republic"	4980	97.4	1.2	1.1	0.3
+KS	"kansas,rice"	10083	86.1	3.9	10.1	0.4
+KS	"kansas,riley"	71115	79.5	9.9	6.5	4.2
+KS	"kansas,rooks"	5181	96.1	1.4	2.1	0.4
+KS	"kansas,rush"	3307	95.7	1.4	2.5	0.2
+KS	"kansas,russell"	6970	95.3	2.1	1.6	0.5
+KS	"kansas,saline"	55606	82.1	6.3	9.7	2.1
+KS	"kansas,scott"	4936	83	1.6	15.3	0.5
+KS	"kansas,sedgwick"	498365	69.9	13.3	13	4.1
+KS	"kansas,seward"	22952	36	6.4	56.6	2.7
+KS	"kansas,shawnee"	177934	75.6	12.7	10.8	1.2
+KS	"kansas,sheridan"	2556	95.3	1.2	3.3	0.2
+KS	"kansas,sherman"	6010	86.8	2.4	10.8	0.3
+KS	"kansas,smith"	3853	96.3	1.8	1.5	0.2
+KS	"kansas,stafford"	4437	85.8	1.5	11.9	0.4
+KS	"kansas,stanton"	2235	60.4	2.8	37	0.1
+KS	"kansas,stevens"	5724	65.4	1.8	32.6	0.3
+KS	"kansas,sumner"	24132	91.3	3.4	4.5	0.2
+KS	"kansas,thomas"	7900	92.9	1.7	4.7	0.5
+KS	"kansas,trego"	3001	96.7	1.2	1.7	0.2
+KS	"kansas,wabaunsee"	7053	94.5	2.5	2.9	0.1
+KS	"kansas,wallace"	1485	91.2	1.3	7.3	0.1
+KS	"kansas,washington"	5799	95.8	1.3	2.5	0.3
+KS	"kansas,wichita"	2234	73.7	2.6	24.6	0.1
+KS	"kansas,wilson"	9409	94.2	2.6	2.3	0.4
+KS	"kansas,woodson"	3309	94.9	2.3	2.1	0.1
+KS	"kansas,wyandotte"	157505	43.3	29	26.4	2.5
+KY	"kentucky,adair"	18656	94.1	3.8	1.7	0.2
+KY	"kentucky,allen"	19956	96.2	2.1	1.5	0.2
+KY	"kentucky,anderson"	21421	94.8	3.3	1.3	0.5
+KY	"kentucky,ballard"	8249	94.1	4.7	1.1	0.2
+KY	"kentucky,barren"	42173	91.5	5.5	2.6	0.4
+KY	"kentucky,bath"	11591	96	2.4	1.4	0.1
+KY	"kentucky,bell"	28691	95.1	3.8	0.7	0.3
+KY	"kentucky,boone"	118811	90	4.3	3.5	2.1
+KY	"kentucky,bourbon"	19985	85.2	7.8	6.8	0.3
+KY	"kentucky,boyd"	49542	93.8	4.2	1.4	0.5
+KY	"kentucky,boyle"	28432	86.9	9.6	2.8	0.8
+KY	"kentucky,bracken"	8488	97.2	1.4	1.1	0.1
+KY	"kentucky,breathitt"	13878	97.8	0.8	0.6	0.5
+KY	"kentucky,breckinridge"	20059	95.4	3.3	0.9	0.2
+KY	"kentucky,bullitt"	74319	96	1.8	1.4	0.5
+KY	"kentucky,butler"	12690	96	1.3	2.5	0.2
+KY	"kentucky,caldwell"	12984	92.1	6.5	1	0.3
+KY	"kentucky,calloway"	37191	90.5	5.2	2.4	1.8
+KY	"kentucky,campbell"	90336	93.4	4.1	1.7	0.8
+KY	"kentucky,carlisle"	5104	96.1	1.7	1.6	0.3
+KY	"kentucky,carroll"	10811	88.6	3.8	7.3	0.6
+KY	"kentucky,carter"	27720	97.2	1.4	1.2	0.2
+KY	"kentucky,casey"	15955	96.1	1.4	2.4	0.2
+KY	"kentucky,christian"	73955	68.6	24.5	6.1	1
+KY	"kentucky,clark"	35613	91	6.2	2.5	0.4
+KY	"kentucky,clay"	21730	92.9	5.1	1.8	0.1
+KY	"kentucky,clinton"	10272	96	1.6	2.2	0.1
+KY	"kentucky,crittenden"	9315	97.3	1.5	0.5	0.2
+KY	"kentucky,cumberland"	6856	94.9	3.9	0.9	0.1
+KY	"kentucky,daviess"	96656	90	6.6	2.6	0.7
+KY	"kentucky,edmonson"	12161	96.5	2.3	0.8	0.2
+KY	"kentucky,elliott"	7852	95.2	4	0.8	0.1
+KY	"kentucky,estill"	14672	98.2	0.9	0.7	0.1
+KY	"kentucky,fayette"	295803	73	17	6.9	3.2
+KY	"kentucky,fleming"	14348	96.6	2.1	1	0.2
+KY	"kentucky,floyd"	39451	97.9	1.3	0.6	0.2
+KY	"kentucky,franklin"	49285	83.2	12.6	2.8	1.4
+KY	"kentucky,fulton"	6813	73	25.4	0.8	0.7
+KY	"kentucky,gallatin"	8589	92.6	3.4	4.3	0.2
+KY	"kentucky,garrard"	16912	94.4	3	2.4	0.2
+KY	"kentucky,grant"	24662	95.5	1.6	2.3	0.3
+KY	"kentucky,graves"	37121	87.8	6.2	5.7	0.3
+KY	"kentucky,grayson"	25746	96.7	2	1	0.2
+KY	"kentucky,green"	11258	95	3.3	1.4	0.2
+KY	"kentucky,greenup"	36910	96.9	1.7	0.8	0.5
+KY	"kentucky,hancock"	8565	96.7	1.9	1.1	0.2
+KY	"kentucky,hardin"	105543	77.8	15.2	5	2
+KY	"kentucky,harlan"	29278	95.7	3.2	0.7	0.3
+KY	"kentucky,harrison"	18846	94.7	3.2	1.8	0.2
+KY	"kentucky,hart"	18199	92.2	6.1	1.4	0.2
+KY	"kentucky,henderson"	46250	88.2	9.5	1.9	0.4
+KY	"kentucky,henry"	15416	92.6	4.4	2.9	0.2
+KY	"kentucky,hickman"	4902	87.7	10.8	1.2	0.2
+KY	"kentucky,hopkins"	46920	89.4	8.5	1.6	0.6
+KY	"kentucky,jackson"	13494	98.5	0.7	0.6	0.1
+KY	"kentucky,jefferson"	741096	70.5	23.1	4.4	2.2
+KY	"kentucky,jessamine"	48586	91.3	4.9	2.8	1
+KY	"kentucky,johnson"	23356	98	1	0.5	0.4
+KY	"kentucky,kenton"	159720	89.8	6.6	2.6	0.9
+KY	"kentucky,knott"	16346	98	1.3	0.6	0.1
+KY	"kentucky,knox"	31883	96.6	2.2	0.8	0.2
+KY	"kentucky,larue"	14193	92.3	4.7	2.8	0.2
+KY	"kentucky,laurel"	58849	96.4	1.7	1.2	0.5
+KY	"kentucky,lawrence"	15860	98.2	1	0.5	0.2
+KY	"kentucky,lee"	7887	95.9	3.1	0.7	0.1
+KY	"kentucky,leslie"	11310	98.6	0.8	0.4	0.1
+KY	"kentucky,letcher"	24519	98.4	0.8	0.5	0.2
+KY	"kentucky,lewis"	13870	98.4	0.8	0.6	0.1
+KY	"kentucky,lincoln"	24742	94.6	3.8	1.5	0.2
+KY	"kentucky,livingston"	9519	97.1	1.3	1.3	0.2
+KY	"kentucky,logan"	26835	89.2	8.1	2.4	0.2
+KY	"kentucky,lyon"	8314	92.3	6.4	0.9	0.3
+KY	"kentucky,mccracken"	65565	83.9	13.2	2.1	0.8
+KY	"kentucky,mccreary"	18306	90.4	7	2.1	0.1
+KY	"kentucky,mclean"	9531	97.3	1.4	1.1	0.1
+KY	"kentucky,madison"	82916	90.4	6.4	2.2	0.9
+KY	"kentucky,magoffin"	13333	98.3	0.8	0.7	0.1
+KY	"kentucky,marion"	19820	87.2	9.8	2.4	0.6
+KY	"kentucky,marshall"	31448	97.5	1	1.1	0.3
+KY	"kentucky,martin"	12929	89.2	7.5	3	0.2
+KY	"kentucky,mason"	17490	89.7	8.2	1.4	0.6
+KY	"kentucky,meade"	28602	90.6	5.8	3	0.6
+KY	"kentucky,menifee"	6306	96	3	0.8	0.1
+KY	"kentucky,mercer"	21331	92	5.4	2.3	0.4
+KY	"kentucky,metcalfe"	10099	96.3	2.4	1.1	0.1
+KY	"kentucky,monroe"	10963	94.1	3.2	2.6	0.1
+KY	"kentucky,montgomery"	26499	93.3	3.9	2.5	0.3
+KY	"kentucky,morgan"	13923	93.7	5	0.8	0.3
+KY	"kentucky,muhlenberg"	31499	93	5.6	1.2	0.1
+KY	"kentucky,nelson"	43437	90.9	6.6	2	0.5
+KY	"kentucky,nicholas"	7135	97	1.3	1.4	0.2
+KY	"kentucky,ohio"	23842	94.5	1.8	3.5	0.2
+KY	"kentucky,oldham"	60316	89.2	6	3.5	1.3
+KY	"kentucky,owen"	10841	95.6	1.9	2.3	0.2
+KY	"kentucky,owsley"	4755	98	0.9	0.8	0
+KY	"kentucky,pendleton"	14877	97.6	1.3	1	0.1
+KY	"kentucky,perry"	28712	96.2	2.5	0.6	0.5
+KY	"kentucky,pike"	65024	97.6	1.3	0.7	0.5
+KY	"kentucky,powell"	12613	97.2	1.5	1	0.1
+KY	"kentucky,pulaski"	63063	95.1	2.3	2.1	0.5
+KY	"kentucky,robertson"	2282	97.8	1.1	1	0.1
+KY	"kentucky,rockcastle"	17056	98.2	1	0.6	0.1
+KY	"kentucky,rowan"	23333	95.4	2.5	1.3	0.8
+KY	"kentucky,russell"	17565	94.9	1.5	3.3	0.2
+KY	"kentucky,scott"	47173	87.8	7	4.2	0.9
+KY	"kentucky,shelby"	42074	81	9.7	9.1	0.6
+KY	"kentucky,simpson"	17327	86.2	11.2	1.9	0.7
+KY	"kentucky,spencer"	17061	95.4	2.7	1.4	0.4
+KY	"kentucky,taylor"	24512	91.1	6.6	1.8	0.5
+KY	"kentucky,todd"	12460	86.7	9.4	4	0.1
+KY	"kentucky,trigg"	14339	88.4	9.9	1.2	0.3
+KY	"kentucky,trimble"	8809	95.4	1.5	2.5	0.4
+KY	"kentucky,union"	15007	84.3	13.5	1.6	0.3
+KY	"kentucky,warren"	113792	81.6	11.2	4.5	2.8
+KY	"kentucky,washington"	11717	88.8	7.7	3.4	0.3
+KY	"kentucky,wayne"	20813	94.1	2.7	2.9	0.3
+KY	"kentucky,webster"	13621	89.8	5.6	4.3	0.3
+KY	"kentucky,whitley"	35637	96.9	1.8	0.9	0.4
+KY	"kentucky,wolfe"	7355	98.5	0.7	0.6	0
+KY	"kentucky,woodford"	24939	86.4	6.7	6.7	0.5
+LA	"louisiana,acadia"	61773	78.6	19.4	1.7	0.2
+LA	"louisiana,allen"	25764	70.9	24.8	1.3	0.7
+LA	"louisiana,ascension"	107215	70.8	23.5	4.7	0.9
+LA	"louisiana,assumption"	23421	65.9	31.4	2.1	0.2
+LA	"louisiana,avoyelles"	42073	66.3	31.1	1.4	0.3
+LA	"louisiana,beauregard"	35654	80.6	15.5	2.8	0.6
+LA	"louisiana,bienville"	14353	54.7	43.6	1.4	0.2
+LA	"louisiana,bossier"	116979	69.2	23.1	6	1.6
+LA	"louisiana,caddo"	254969	47.8	48.6	2.4	1.1
+LA	"louisiana,calcasieu"	192768	69.4	26.7	2.6	1.1
+LA	"louisiana,caldwell"	10132	79.4	18.1	2.2	0.2
+LA	"louisiana,cameron"	6839	94.5	2.8	2.3	0.1
+LA	"louisiana,catahoula"	10407	66.7	32.2	0.9	0
+LA	"louisiana,claiborne"	17195	47	51.6	1	0.2
+LA	"louisiana,concordia"	20822	56.8	41.7	1	0.2
+LA	"louisiana,de soto"	26656	56.6	40.4	2.5	0.2
+LA	"louisiana,east baton rouge"	440171	47	46.7	3.7	2.8
+LA	"louisiana,east carroll"	7759	28.3	69.8	1.6	0.6
+LA	"louisiana,east feliciana"	20267	52.6	46.1	1	0.3
+LA	"louisiana,evangeline"	33984	67.9	29.4	2.3	0.3
+LA	"louisiana,franklin"	20767	66.7	32.3	0.9	0.2
+LA	"louisiana,grant"	22309	77.8	17.1	4.2	0.3
+LA	"louisiana,iberia"	73240	60.8	33.5	3.1	2.4
+LA	"louisiana,iberville"	33387	47.9	50.1	2	0.3
+LA	"louisiana,jackson"	16274	67.5	31	1.3	0.2
+LA	"louisiana,jefferson"	432552	56	28.5	12.4	3.9
+LA	"louisiana,jefferson davis"	31594	78.6	19.2	1.7	0.2
+LA	"louisiana,lafayette"	221578	67.2	27.4	3.9	1.5
+LA	"louisiana,lafourche"	96318	78	15	3.8	0.7
+LA	"louisiana,la salle"	14890	84.1	12.8	2.2	0.2
+LA	"louisiana,lincoln"	46735	54.2	41.6	2.5	1.7
+LA	"louisiana,livingston"	128026	90.1	6.2	3	0.5
+LA	"louisiana,madison"	12093	36.4	62	1.6	0.2
+LA	"louisiana,morehouse"	27979	50.9	47.9	0.9	0.4
+LA	"louisiana,natchitoches"	39566	53.4	43.5	1.9	0.3
+LA	"louisiana,orleans"	343829	30.5	61.9	5.2	2.9
+LA	"louisiana,ouachita"	153720	59.6	37.7	1.8	0.9
+LA	"louisiana,plaquemines"	23042	67.8	23.2	4.6	3.2
+LA	"louisiana,pointe coupee"	22802	60.3	37.3	2.2	0.2
+LA	"louisiana,rapides"	131613	62	33.7	2.6	1.2
+LA	"louisiana,red river"	9091	58.4	40.2	1.1	0.1
+LA	"louisiana,richland"	20725	61.3	36.9	1.6	0.3
+LA	"louisiana,sabine"	24233	69.2	20	3.4	0.2
+LA	"louisiana,st bernard"	35897	68.5	20.6	9.2	1.9
+LA	"louisiana,st charles"	52780	66.2	28.2	5	0.8
+LA	"louisiana,st helena"	11203	44.6	54.1	0.9	0.1
+LA	"louisiana,st james"	22102	47.4	51.2	1.2	0.1
+LA	"louisiana,st john the baptist"	45924	40	55	4.7	0.7
+LA	"louisiana,st landry"	83384	55.2	42.6	1.6	0.4
+LA	"louisiana,st martin:north"	NA	NA	NA	NA	NA
+LA	"louisiana,st martin:south"	NA	NA	NA	NA	NA
+LA	"louisiana,st mary"	54650	57.2	34.5	5.3	1.7
+LA	"louisiana,st tammany"	233740	80.6	13.2	4.7	1.3
+LA	"louisiana,tangipahoa"	121097	64.3	31.6	3.5	0.6
+LA	"louisiana,tensas"	5252	41.5	57.3	1.2	0.2
+LA	"louisiana,terrebonne"	111860	68.6	21	4	1
+LA	"louisiana,union"	22721	67.8	28	4.2	0.1
+LA	"louisiana,vermilion"	57999	79.8	15.7	2.4	2
+LA	"louisiana,vernon"	52334	72.2	18.3	7.2	1.8
+LA	"louisiana,washington"	47168	65.8	32.1	1.9	0.2
+LA	"louisiana,webster"	41207	63.3	34.7	1.6	0.3
+LA	"louisiana,west baton rouge"	23788	58.6	38.9	2.3	0.3
+LA	"louisiana,west carroll"	11604	80.5	16.7	2.6	0.2
+LA	"louisiana,west feliciana"	15625	51.2	47.1	1.6	0.2
+LA	"louisiana,winn"	15313	66	31.8	1.6	0.3
+ME	"maine,androscoggin"	107702	91.9	5.7	1.5	0.7
+ME	"maine,aroostook"	71870	95.1	2	0.9	0.4
+ME	"maine,cumberland"	281674	91.8	4.2	1.8	2
+ME	"maine,franklin"	30768	96.6	1.7	1	0.4
+ME	"maine,hancock"	54418	96.2	1.6	1.1	0.8
+ME	"maine,kennebec"	122151	95.4	2.3	1.2	0.7
+ME	"maine,knox"	39736	96.5	1.9	0.8	0.5
+ME	"maine,lincoln"	34457	97	1.4	0.8	0.5
+ME	"maine,oxford"	57833	96.1	1.9	1	0.6
+ME	"maine,penobscot"	153923	94.7	2.3	1.1	0.9
+ME	"maine,piscataquis"	17535	96.3	1.5	1	0.7
+ME	"maine,sagadahoc"	35293	95.4	2.3	1.3	0.8
+ME	"maine,somerset"	52228	96.6	1.7	0.8	0.6
+ME	"maine,waldo"	38786	96.6	1.8	0.9	0.4
+ME	"maine,washington"	32856	91.3	2.1	1.4	0.5
+ME	"maine,york"	197131	95.6	1.9	1.3	1.1
+MD	"maryland,allegany"	75087	88.2	9.6	1.4	0.8
+MD	"maryland,anne arundel"	537656	72.4	18.4	6.1	3.4
+MD	"maryland,baltimore"	1425990	47.58955273	44.68618812	4.2	3.824259146
+MD	"maryland,calvert"	88737	79.7	16.1	2.7	1.4
+MD	"maryland,caroline"	33066	78.2	16	5.5	0.6
+MD	"maryland,carroll"	167134	91.2	4.7	2.6	1.4
+MD	"maryland,cecil"	101108	87.4	8.4	3.4	1.1
+MD	"maryland,charles"	146551	48.4	44.7	4.3	3
+MD	"maryland,dorchester"	32618	66.2	29.6	3.5	0.9
+MD	"maryland,frederick"	233385	77.8	11.4	7.3	3.8
+MD	"maryland,garrett"	30097	97.3	1.7	0.7	0.3
+MD	"maryland,harford"	244826	79.2	15.2	3.5	2.4
+MD	"maryland,howard"	287085	59.2	21.1	5.8	14.4
+MD	"maryland,kent"	20197	78.1	16.9	4.5	0.8
+MD	"maryland,montgomery"	971777	49.3	21.2	17	13.9
+MD	"maryland,prince georges"	NA	NA	NA	NA	NA
+MD	"maryland,queen annes"	NA	NA	NA	NA	NA
+MD	"maryland,st marys"	NA	NA	NA	NA	NA
+MD	"maryland,somerset"	26470	52.1	44	3.3	0.7
+MD	"maryland,talbot"	37782	79	14.4	5.5	1.2
+MD	"maryland,washington"	147430	83.3	12.2	3.5	1.4
+MD	"maryland,wicomico"	98733	66.6	26.7	4.5	2.5
+MD	"maryland,worcester"	51454	80.3	15.4	3.2	1.1
+MD	"maryland,baltimore city"	NA	NA	NA	NA	NA
+MA	"massachusetts,barnstable"	215888	91.4	4.1	2.2	1.1
+MA	"massachusetts,berkshire"	131219	90.6	4.9	3.5	1.2
+MA	"massachusetts,bristol"	548285	85.6	5.9	6	1.9
+MA	"massachusetts,dukes"	16535	86.3	6.5	2.3	0.8
+MA	"massachusetts,essex"	743159	76	6.4	16.5	3.1
+MA	"massachusetts,franklin"	71372	92.4	3.2	3.2	1.3
+MA	"massachusetts,hampden"	463490	67.7	11.9	20.9	2
+MA	"massachusetts,hampshire"	158080	86.2	5	4.7	4.5
+MA	"massachusetts,middlesex"	1503085	76.5	7.2	6.5	9.3
+MA	"massachusetts,nantucket"	10172	80.5	8.6	9.4	1.2
+MA	"massachusetts,norfolk"	670850	80.3	7.6	3.3	8.6
+MA	"massachusetts,plymouth"	494919	83.9	9.8	3.2	1.2
+MA	"massachusetts,suffolk"	722023	48.1	25.6	19.9	8.2
+MA	"massachusetts,worcester"	798552	80.7	6.5	9.4	4
+MI	"michigan,alcona"	10942	97.1	1	1.1	0.2
+MI	"michigan,alger"	9601	85.5	9.1	1.2	0.3
+MI	"michigan,allegan"	111408	89.7	3.1	6.7	0.6
+MI	"michigan,alpena"	29598	96.7	1.3	1	0.5
+MI	"michigan,antrim"	23580	95.6	1.6	1.7	0.2
+MI	"michigan,arenac"	15899	95.8	1.5	1.4	0.2
+MI	"michigan,baraga"	8860	74.5	11.6	1	0.1
+MI	"michigan,barry"	59173	95.5	1.7	2.3	0.4
+MI	"michigan,bay"	107771	91.2	3.8	4.7	0.5
+MI	"michigan,benzie"	17525	95.1	1.7	1.7	0.3
+MI	"michigan,berrien"	156813	76.1	17.7	4.5	1.6
+MI	"michigan,branch"	45248	90.9	4.6	4	0.5
+MI	"michigan,calhoun"	136146	79.8	14	4.5	1.6
+MI	"michigan,cass"	52293	87.4	8.4	3	0.6
+MI	"michigan,charlevoix"	25949	94.8	2.1	1.4	0.4
+MI	"michigan,cheboygan"	26152	93	3.1	0.8	0.3
+MI	"michigan,chippewa"	38520	71.5	11.2	1.2	0.6
+MI	"michigan,clare"	30926	95.8	1.9	1.5	0.3
+MI	"michigan,clinton"	75382	90.5	4	3.9	1.5
+MI	"michigan,crawford"	14074	96.5	1.5	1.3	0.4
+MI	"michigan,delta"	37069	94.2	2.3	0.9	0.4
+MI	"michigan,dickinson"	26168	96.6	1.6	1	0.5
+MI	"michigan,eaton"	107759	84.9	8.9	4.7	1.7
+MI	"michigan,emmet"	32694	92.2	2.7	1.3	0.5
+MI	"michigan,genesee"	425790	72.7	23.3	3	0.9
+MI	"michigan,gladwin"	25692	96.9	1.2	1.2	0.3
+MI	"michigan,gogebic"	16427	91.1	5.5	0.9	0.2
+MI	"michigan,grand traverse"	86986	93.3	2.9	2.2	0.7
+MI	"michigan,gratiot"	42476	87.4	6.9	5.4	0.3
+MI	"michigan,hillsdale"	46688	95.9	1.7	1.8	0.4
+MI	"michigan,houghton"	36628	93.6	1.9	1.1	2.9
+MI	"michigan,huron"	33118	96.1	1.3	2	0.4
+MI	"michigan,ingham"	280895	72.4	15.7	7.3	5.2
+MI	"michigan,ionia"	63905	89.1	6.2	4.4	0.4
+MI	"michigan,iosco"	25887	95.5	2	1.6	0.5
+MI	"michigan,iron"	11817	96.2	1.5	1.4	0.3
+MI	"michigan,isabella"	70311	87.5	5.2	3.1	1.6
+MI	"michigan,jackson"	160248	85.9	10.5	3	0.7
+MI	"michigan,kalamazoo"	250331	79.9	14.2	4	2.1
+MI	"michigan,kalkaska"	17153	95.9	1.9	1.2	0.2
+MI	"michigan,kent"	602622	76	12.7	9.7	2.3
+MI	"michigan,keweenaw"	2156	98.2	1.3	0.7	0
+MI	"michigan,lake"	11539	85.8	11.8	2.1	0.1
+MI	"michigan,lapeer"	88319	93	2.4	4.1	0.3
+MI	"michigan,leelanau"	21708	91.2	2	3.7	0.4
+MI	"michigan,lenawee"	99892	87.6	4.7	7.6	0.5
+MI	"michigan,livingston"	180967	95.3	1.7	1.9	0.8
+MI	"michigan,luce"	6631	79.6	14.2	1.2	0.3
+MI	"michigan,mackinac"	11113	75.7	5.8	1.1	0.2
+MI	"michigan,macomb"	840978	83.9	10.7	2.3	3
+MI	"michigan,manistee"	24733	90.6	4.8	2.6	0.3
+MI	"michigan,marquette"	67077	93	3.7	1.1	0.6
+MI	"michigan,mason"	28705	92.6	2.5	4	0.5
+MI	"michigan,mecosta"	42798	92.6	4.7	1.7	0.7
+MI	"michigan,menominee"	24029	94.5	1.5	1.2	0.3
+MI	"michigan,midland"	83629	93.1	2.7	2	1.9
+MI	"michigan,missaukee"	14849	95.8	1.5	2.1	0.3
+MI	"michigan,monroe"	152021	92.5	3.9	3.1	0.6
+MI	"michigan,montcalm"	63342	92.6	3.9	3.1	0.4
+MI	"michigan,montmorency"	9765	96.9	1.6	1	0.2
+MI	"michigan,muskegon"	172188	77.3	17.3	4.8	0.5
+MI	"michigan,newaygo"	48460	91	2.7	5.5	0.4
+MI	"michigan,oakland"	1202362	75.1	15.8	3.5	5.6
+MI	"michigan,oceana"	26570	83.7	2.4	13.7	0.2
+MI	"michigan,ogemaw"	21699	96.2	1.6	1.4	0.4
+MI	"michigan,ontonagon"	6780	96.5	1.4	0.9	0.2
+MI	"michigan,osceola"	23528	95.8	2.2	1.5	0.2
+MI	"michigan,oscoda"	8640	97	1.5	0.9	0.1
+MI	"michigan,otsego"	24164	96	1.8	1.2	0.4
+MI	"michigan,ottawa"	263801	85.7	3.5	8.6	2.6
+MI	"michigan,presque isle"	13376	97	1.4	0.9	0.3
+MI	"michigan,roscommon"	24449	96.5	1.6	1.1	0.3
+MI	"michigan,saginaw"	200169	70.5	21.5	7.8	1.1
+MI	"michigan,st clair"	163040	92.1	4.5	2.9	0.5
+MI	"michigan,st joseph"	61295	88	4.8	6.6	0.7
+MI	"michigan,sanilac"	43114	94.8	1.5	3.3	0.3
+MI	"michigan,schoolcraft"	8485	87.1	3.4	0.8	0.2
+MI	"michigan,shiawassee"	70648	95.2	1.9	2.4	0.4
+MI	"michigan,tuscola"	55729	94.3	2.4	2.8	0.3
+MI	"michigan,van buren"	76258	82.7	6.7	10.2	0.4
+MI	"michigan,washtenaw"	344791	72.1	16.1	4	7.9
+MI	"michigan,wayne"	1820584	49.6	42.9	5.2	2.5
+MI	"michigan,wexford"	32735	95.5	1.9	1.6	0.6
+MN	"minnesota,aitkin"	16202	95	1.6	0.9	0.2
+MN	"minnesota,anoka"	330844	85.2	7	3.6	3.9
+MN	"minnesota,becker"	32504	87.8	3.4	1.2	0.4
+MN	"minnesota,beltrami"	44442	74.4	3.7	1.5	0.7
+MN	"minnesota,benton"	38451	93.5	3.5	1.6	1.1
+MN	"minnesota,big stone"	5269	97.7	1	0.8	0.1
+MN	"minnesota,blue earth"	64013	91.2	4.3	2.5	2
+MN	"minnesota,brown"	25893	95.2	0.9	3.3	0.6
+MN	"minnesota,carlton"	35386	88.9	3.8	1.4	0.5
+MN	"minnesota,carver"	91042	90.7	2.8	3.9	2.7
+MN	"minnesota,cass"	28567	85.4	2.4	1.2	0.3
+MN	"minnesota,chippewa"	12441	91.4	1.8	4.9	0.5
+MN	"minnesota,chisago"	53887	94.7	2.4	1.5	0.9
+MN	"minnesota,clay"	58999	90.6	3.6	3.5	1.4
+MN	"minnesota,clearwater"	8695	86.7	3.4	1.4	0.2
+MN	"minnesota,cook"	5176	87.5	2.5	1.1	0.5
+MN	"minnesota,cottonwood"	11687	89.3	2	6.2	2.7
+MN	"minnesota,crow wing"	62500	96	2	1	0.4
+MN	"minnesota,dakota"	398552	82.3	7.6	6	4.4
+MN	"minnesota,dodge"	20087	93.5	1.7	4.6	0.4
+MN	"minnesota,douglas"	36009	97.1	1.3	0.9	0.5
+MN	"minnesota,faribault"	14553	92.9	1.2	5.6	0.3
+MN	"minnesota,fillmore"	20866	97.6	1.1	1	0.3
+MN	"minnesota,freeborn"	31255	88.6	2.4	8.8	0.8
+MN	"minnesota,goodhue"	46183	93.2	2.5	2.9	0.6
+MN	"minnesota,grant"	6018	96.9	1.5	1.6	0.2
+MN	"minnesota,hennepin"	1152425	71.7	15.1	6.7	6.2
+MN	"minnesota,houston"	19027	97.1	1.7	0.7	0.5
+MN	"minnesota,hubbard"	20428	93.6	2	1.6	0.2
+MN	"minnesota,isanti"	37816	95.1	2.3	1.5	0.8
+MN	"minnesota,itasca"	45058	93.1	2.4	0.9	0.3
+MN	"minnesota,jackson"	10266	94.5	1.5	2.7	1.4
+MN	"minnesota,kanabec"	16239	96.1	1.9	1.3	0.3
+MN	"minnesota,kandiyohi"	42239	85.1	3.5	11.2	0.4
+MN	"minnesota,kittson"	4552	97.4	0.8	1.5	0.4
+MN	"minnesota,koochiching"	13311	94	2.5	1.1	0.3
+MN	"minnesota,lac qui parle"	7259	97	1.1	1.5	0.4
+MN	"minnesota,lake"	10866	97.2	1.4	0.7	0.3
+MN	"minnesota,lake of the woods"	4045	95.5	2.4	0.9	0.8
+MN	"minnesota,le sueur"	27703	92.7	1.5	5.2	0.6
+MN	"minnesota,lincoln"	5896	97.5	0.9	1.2	0.2
+MN	"minnesota,lyon"	25857	87.5	3.8	6	2.6
+MN	"minnesota,mcleod"	36651	92.8	1.5	4.9	0.7
+MN	"minnesota,mahnomen"	5413	49.8	8.8	1.8	0.1
+MN	"minnesota,marshall"	9439	94.8	1.1	3.6	0.2
+MN	"minnesota,martin"	20840	94.8	1.2	3.6	0.5
+MN	"minnesota,meeker"	23300	95.4	1.1	3.3	0.3
+MN	"minnesota,mille lacs"	26097	90.4	2.2	1.4	0.3
+MN	"minnesota,morrison"	33198	96.9	1.5	1.2	0.3
+MN	"minnesota,mower"	39163	84.2	3.9	10.6	1.7
+MN	"minnesota,murray"	8725	95.4	1.1	2.8	0.9
+MN	"minnesota,nicollet"	32727	91.5	3.5	3.7	1.3
+MN	"minnesota,nobles"	21378	67.2	5.3	22.5	5.5
+MN	"minnesota,norman"	6852	91.8	2.5	4	0.4
+MN	"minnesota,olmsted"	144248	83.4	7	4.2	5.4
+MN	"minnesota,otter tail"	57303	94.7	2	2.6	0.5
+MN	"minnesota,pennington"	13930	92.4	3.2	2.7	0.6
+MN	"minnesota,pine"	29750	90.5	3.9	2.4	0.4
+MN	"minnesota,pipestone"	9596	92.5	2.5	3.7	0.7
+MN	"minnesota,polk"	31600	90.2	3	5.4	0.7
+MN	"minnesota,pope"	10995	97.5	1.2	0.9	0.4
+MN	"minnesota,ramsey"	508640	66.9	14.5	7.2	11.7
+MN	"minnesota,red lake"	4089	94.8	1.7	2.5	0.1
+MN	"minnesota,redwood"	16059	87.9	2.4	2.1	3.2
+MN	"minnesota,renville"	15730	91.2	1.3	6.6	0.3
+MN	"minnesota,rice"	64142	85.1	5	8	2
+MN	"minnesota,rock"	9687	95.4	1.8	2	0.5
+MN	"minnesota,roseau"	15629	94	1.6	0.7	2.5
+MN	"minnesota,st louis"	200226	92.3	3.6	1.2	0.9
+MN	"minnesota,scott"	129928	84.5	4.9	4.4	5.7
+MN	"minnesota,sherburne"	88499	92.6	3.6	2.2	1.3
+MN	"minnesota,sibley"	15226	90.9	1.5	7.2	0.6
+MN	"minnesota,stearns"	150642	90.6	4.6	2.8	2
+MN	"minnesota,steele"	36576	89	4.2	6.2	0.8
+MN	"minnesota,stevens"	9726	91.8	2.5	3.5	1.5
+MN	"minnesota,swift"	9783	94.8	1.4	3.6	0.2
+MN	"minnesota,todd"	24895	92.6	1.7	5.2	0.4
+MN	"minnesota,traverse"	3558	93.4	1.5	1.4	0.1
+MN	"minnesota,wabasha"	21676	95.6	1.4	2.7	0.4
+MN	"minnesota,wadena"	13843	95.8	2.3	1.3	0.3
+MN	"minnesota,waseca"	19136	90.4	3.5	5.1	0.7
+MN	"minnesota,washington"	238136	85.7	5.7	3.4	5.1
+MN	"minnesota,watonwan"	11211	77	1.9	20.9	0.8
+MN	"minnesota,wilkin"	6576	95.7	1.3	2	0.3
+MN	"minnesota,winona"	51461	92.9	2.4	2.4	2.1
+MN	"minnesota,wright"	124700	93.7	2.6	2.4	1.2
+MN	"minnesota,yellow medicine"	10438	91.8	1.4	3.8	0.3
+MS	"mississippi,adams"	32297	38.7	54.9	6.7	0.4
+MS	"mississippi,alcorn"	37057	84.5	12.4	2.7	0.3
+MS	"mississippi,amite"	13131	57.2	41.9	0.8	0.1
+MS	"mississippi,attala"	19564	55.5	42.6	1.7	0.3
+MS	"mississippi,benton"	8729	59.9	38.3	1.7	0.1
+MS	"mississippi,bolivar"	34145	32.9	64.8	1.9	0.6
+MS	"mississippi,calhoun"	14962	65.8	28.9	5.4	0.1
+MS	"mississippi,carroll"	10597	65.4	33.6	1	0.2
+MS	"mississippi,chickasaw"	17392	53.2	43	3.7	0.3
+MS	"mississippi,choctaw"	8547	67.9	31.2	0.9	0.1
+MS	"mississippi,claiborne"	9604	14.1	85	0.8	0.4
+MS	"mississippi,clarke"	16732	63.8	35	0.8	0.2
+MS	"mississippi,clay"	20634	40.1	58.8	1	0.2
+MS	"mississippi,coahoma"	26151	22.6	76	1.1	0.5
+MS	"mississippi,copiah"	29449	45.5	51.6	2.6	0.3
+MS	"mississippi,covington"	19568	62.4	35.7	1.9	0.2
+MS	"mississippi,de soto"	NA	NA	NA	NA	NA
+MS	"mississippi,forrest"	74934	58.4	37.5	3.5	0.7
+MS	"mississippi,franklin"	8118	64.4	34.9	0.6	0.1
+MS	"mississippi,george"	22578	88.6	9	2	0.2
+MS	"mississippi,greene"	14400	72	26.9	0.9	0.1
+MS	"mississippi,grenada"	21906	56.4	42.5	0.9	0.3
+MS	"mississippi,hancock"	43929	86.3	9.3	3.3	1
+MS	"mississippi,harrison"	187105	67.2	24.8	5.3	2.8
+MS	"mississippi,hinds"	245285	28	69.9	1.5	0.8
+MS	"mississippi,holmes"	19198	15.6	84	0.7	0.2
+MS	"mississippi,humphreys"	9375	22.8	75.3	2.2	0.2
+MS	"mississippi,issaquena"	1406	34.3	64.7	0.6	0.4
+MS	"mississippi,itawamba"	23401	91.8	6.5	1.3	0.2
+MS	"mississippi,jackson"	139668	69.9	23.4	4.6	2.2
+MS	"mississippi,jasper"	17062	46	53.2	0.8	0.1
+MS	"mississippi,jefferson"	7726	13.7	86	0.4	0
+MS	"mississippi,jefferson davis"	12487	38.5	60.6	0.8	0.1
+MS	"mississippi,jones"	67761	65.6	29.2	4.7	0.4
+MS	"mississippi,kemper"	10456	35.1	60.9	0.5	0.1
+MS	"mississippi,lafayette"	47351	70.8	24.7	2.3	2.1
+MS	"mississippi,lamar"	55658	76	20.7	2.2	1.2
+MS	"mississippi,lauderdale"	80261	54	43.6	1.8	0.7
+MS	"mississippi,lawrence"	12929	66.3	31.5	2.1	0.3
+MS	"mississippi,leake"	23805	48.8	41.4	4.3	0.2
+MS	"mississippi,lee"	82910	68.6	28.5	2.4	0.6
+MS	"mississippi,leflore"	32317	24.5	72.8	2.3	0.6
+MS	"mississippi,lincoln"	34869	68	30.7	0.9	0.3
+MS	"mississippi,lowndes"	59779	53.3	44.6	1.5	0.7
+MS	"mississippi,madison"	95203	56	39	2.9	2.1
+MS	"mississippi,marion"	27088	65.2	33.2	1.2	0.3
+MS	"mississippi,marshall"	37144	48.9	47.7	3.2	0.2
+MS	"mississippi,monroe"	36989	67.2	31.7	1	0.2
+MS	"mississippi,montgomery"	10925	52.8	46	0.9	0.4
+MS	"mississippi,neshoba"	29676	60	22.4	1.6	0.3
+MS	"mississippi,newton"	21720	62.6	31.1	1.3	0.2
+MS	"mississippi,noxubee"	11545	27	72.1	0.8	0.2
+MS	"mississippi,oktibbeha"	47671	58.4	37.8	1.4	2.4
+MS	"mississippi,panola"	34707	48.9	49.5	1.4	0.2
+MS	"mississippi,pearl river"	55834	82.2	14	2.9	0.4
+MS	"mississippi,perry"	12250	77.7	21	1	0.2
+MS	"mississippi,pike"	40404	45.9	52.3	1.2	0.6
+MS	"mississippi,pontotoc"	29957	78.5	15.1	6.2	0.2
+MS	"mississippi,prentiss"	25276	83.8	14.8	1.2	0.1
+MS	"mississippi,quitman"	8223	28.8	70.4	0.7	0.1
+MS	"mississippi,rankin"	141617	76.3	19.9	2.7	1.1
+MS	"mississippi,scott"	28264	50.8	38.9	10.7	0.2
+MS	"mississippi,sharkey"	4916	27.8	71.4	0.8	0.2
+MS	"mississippi,simpson"	27503	62.3	36	1.4	0.3
+MS	"mississippi,smith"	16491	75.3	23.4	1.2	0.1
+MS	"mississippi,stone"	17786	77.7	20.2	1.3	0.3
+MS	"mississippi,sunflower"	29450	25.2	73.4	1.4	0.3
+MS	"mississippi,tallahatchie"	15378	36.3	57.6	5.6	0.8
+MS	"mississippi,tate"	28886	66.1	31.5	2.2	0.2
+MS	"mississippi,tippah"	22232	78.3	17.4	4.4	0.2
+MS	"mississippi,tishomingo"	19593	93.5	3.5	2.8	0.1
+MS	"mississippi,tunica"	10778	23.1	74.4	2.3	0.6
+MS	"mississippi,union"	27134	79.8	15.7	4.5	0.2
+MS	"mississippi,walthall"	15443	52.7	45.6	1.5	0.2
+MS	"mississippi,warren"	48773	49.5	47.9	1.8	0.8
+MS	"mississippi,washington"	51137	26.7	71.9	1	0.6
+MS	"mississippi,wayne"	20747	59	39.7	1.2	0.2
+MS	"mississippi,webster"	10253	78.1	20.7	1	0.1
+MS	"mississippi,wilkinson"	9878	28.5	71.1	0.4	0
+MS	"mississippi,winston"	19198	51.5	46.5	1	0.2
+MS	"mississippi,yalobusha"	12678	60	38.8	1.2	0.2
+MS	"mississippi,yazoo"	28065	37.3	58.6	4.6	0.4
+MO	"missouri,adair"	25607	92.8	3.3	2	1.8
+MO	"missouri,andrew"	17291	96.2	1.5	1.7	0.4
+MO	"missouri,atchison"	5685	97.7	1	1	0.2
+MO	"missouri,audrain"	25529	88.6	8.2	2.6	0.5
+MO	"missouri,barry"	35597	88.5	2.2	7.7	1.3
+MO	"missouri,barton"	12402	94.4	2.8	1.9	0.2
+MO	"missouri,bates"	17049	95.6	2.3	1.6	0.2
+MO	"missouri,benton"	19056	96.1	1.6	1.5	0.3
+MO	"missouri,bollinger"	12363	97.4	1.1	0.8	0.2
+MO	"missouri,boone"	162642	81	12.1	3	3.8
+MO	"missouri,buchanan"	89201	86.3	7.7	5.2	0.8
+MO	"missouri,butler"	42794	90	7.4	1.6	0.7
+MO	"missouri,caldwell"	9424	95.9	2.1	1.5	0.2
+MO	"missouri,callaway"	44332	91	6.5	1.6	0.6
+MO	"missouri,camden"	44002	95.3	1.7	2.3	0.4
+MO	"missouri,cape girardeau"	75674	87.9	8.9	2	1.2
+MO	"missouri,carroll"	9295	95.7	2.8	1.3	0.1
+MO	"missouri,carter"	6265	95.6	1.7	1.7	0.1
+MO	"missouri,cass"	99478	89.5	5.6	4	0.6
+MO	"missouri,cedar"	13982	96.1	1.9	1.5	0.3
+MO	"missouri,chariton"	7831	96.3	2.8	0.5	0.1
+MO	"missouri,christian"	77422	94.3	2.4	2.5	0.5
+MO	"missouri,clark"	7139	97.7	1.3	0.6	0.3
+MO	"missouri,clay"	221939	84.1	7.9	5.9	2.1
+MO	"missouri,clinton"	20743	94.5	3	1.6	0.3
+MO	"missouri,cole"	75990	83.2	13.1	2.4	1.3
+MO	"missouri,cooper"	17601	89.5	8.6	1.3	0.4
+MO	"missouri,crawford"	24696	96.4	1.4	1.5	0.3
+MO	"missouri,dade"	7883	94.8	2.6	1.5	0.3
+MO	"missouri,dallas"	16777	95.6	1.9	1.5	0.2
+MO	"missouri,daviess"	8433	97.4	1.4	1	0.1
+MO	"missouri,de kalb"	NA	NA	NA	NA	NA
+MO	"missouri,dent"	15657	95.9	2	0.9	0.3
+MO	"missouri,douglas"	13684	96.6	2	0.8	0.2
+MO	"missouri,dunklin"	31953	82.9	11.3	5.4	0.3
+MO	"missouri,franklin"	101492	96	2	1.4	0.4
+MO	"missouri,gasconade"	15222	97.2	1.3	1	0.3
+MO	"missouri,gentry"	6738	98	1	0.5	0.3
+MO	"missouri,greene"	275174	89.5	5.5	3	1.6
+MO	"missouri,grundy"	10261	96	1.6	1.7	0.4
+MO	"missouri,harrison"	8957	96.7	1.3	1.6	0.2
+MO	"missouri,henry"	22272	95.3	2.5	1.7	0.2
+MO	"missouri,hickory"	9627	96.4	1.8	0.9	0.2
+MO	"missouri,holt"	4912	97.2	0.7	0.8	0.3
+MO	"missouri,howard"	10144	91.1	7.1	1.2	0.3
+MO	"missouri,howell"	40400	95.3	2	1.7	0.5
+MO	"missouri,iron"	10630	95.6	2.8	1.3	0.1
+MO	"missouri,jackson"	674158	63.3	27	8.4	1.6
+MO	"missouri,jasper"	117404	86	5.1	6.8	1
+MO	"missouri,jefferson"	218733	95.4	2.2	1.6	0.6
+MO	"missouri,johnson"	52595	88.2	6.9	3.1	1.5
+MO	"missouri,knox"	4131	97.5	1.4	0.8	0.2
+MO	"missouri,laclede"	35571	94.4	2.6	2	0.4
+MO	"missouri,lafayette"	33381	92.9	4.2	2.2	0.4
+MO	"missouri,lawrence"	38634	91	2	6.3	0.4
+MO	"missouri,lewis"	10211	93.5	4.6	1.6	0.2
+MO	"missouri,lincoln"	52566	93.9	3.7	2	0.4
+MO	"missouri,linn"	12761	96.4	1.9	1.5	0.2
+MO	"missouri,livingston"	15195	94.7	3.6	1.2	0.3
+MO	"missouri,mcdonald"	23083	81	3.8	11.2	0.8
+MO	"missouri,macon"	15566	94.7	3.8	1	0.4
+MO	"missouri,madison"	12226	96.4	1.1	2	0.3
+MO	"missouri,maries"	9176	97.1	1.4	0.8	0.1
+MO	"missouri,marion"	28781	91	7	1.4	0.5
+MO	"missouri,mercer"	3785	97.3	1.1	0.7	0.5
+MO	"missouri,miller"	24748	96	1.9	1.4	0.3
+MO	"missouri,mississippi"	14358	73.3	25	1.6	0.2
+MO	"missouri,moniteau"	15607	90.7	4.9	3.8	0.4
+MO	"missouri,monroe"	8840	94.3	4.2	1	0.3
+MO	"missouri,montgomery"	12236	95.1	3.1	1.4	0.3
+MO	"missouri,morgan"	20565	95.2	2.4	1.8	0.4
+MO	"missouri,new madrid"	18956	81.1	17.3	1.1	0.4
+MO	"missouri,newton"	58114	87.7	3.8	4.4	1.3
+MO	"missouri,nodaway"	23370	93.6	3.4	1.3	1.6
+MO	"missouri,oregon"	10881	95.6	1.8	1.2	0.3
+MO	"missouri,osage"	13878	98.4	0.7	0.6	0.1
+MO	"missouri,ozark"	9723	96.5	1.5	1.3	0.1
+MO	"missouri,pemiscot"	18296	69.6	28.3	1.9	0.2
+MO	"missouri,perry"	18971	96.5	1.3	1.7	0.4
+MO	"missouri,pettis"	42201	87	5.2	7.2	0.6
+MO	"missouri,phelps"	45156	90.3	4.4	2	2.9
+MO	"missouri,pike"	18516	89.2	8.6	1.8	0.2
+MO	"missouri,platte"	89322	84.1	8.4	5	2.3
+MO	"missouri,polk"	31137	95	2.3	2	0.3
+MO	"missouri,pulaski"	52274	72.4	16.3	9	2.6
+MO	"missouri,putnam"	4979	97.7	1	0.7	0.5
+MO	"missouri,ralls"	10167	96.7	2	1	0.2
+MO	"missouri,randolph"	25414	90	8	1.6	0.4
+MO	"missouri,ray"	23494	95.1	2.6	1.8	0.3
+MO	"missouri,reynolds"	6696	96.1	2.2	1	0.2
+MO	"missouri,ripley"	14100	96.2	1.8	1	0.3
+MO	"missouri,st charles"	360485	89.1	5.9	2.8	2.2
+MO	"missouri,st clair"	9805	95.5	2.3	1.7	0.1
+MO	"missouri,st francois"	65359	92.8	5.4	1.2	0.4
+MO	"missouri,st louis"	1318248	62.43296967	31.59436707	2.742210874	3.354673476
+MO	"missouri,st louis city"	NA	NA	NA	NA	NA
+MO	"missouri,ste genevieve"	18145	97	1.6	0.8	0.3
+MO	"missouri,saline"	23370	83.2	7.7	8.2	0.5
+MO	"missouri,schuyler"	4431	98.2	0.8	0.7	0.2
+MO	"missouri,scotland"	4843	98.3	0.5	0.7	0.2
+MO	"missouri,scott"	39191	84.9	13	1.8	0.3
+MO	"missouri,shannon"	8441	94.9	2.5	1.6	0.2
+MO	"missouri,shelby"	6373	97.3	1.2	1.1	0.2
+MO	"missouri,stoddard"	29968	96.5	1.9	1.2	0.2
+MO	"missouri,stone"	32202	96.1	1.5	1.7	0.3
+MO	"missouri,sullivan"	6714	79.7	1.7	18.6	0.1
+MO	"missouri,taney"	51675	91.1	3.1	4.8	0.7
+MO	"missouri,texas"	26008	92.3	5.2	1.6	0.3
+MO	"missouri,vernon"	21159	95.5	1.9	1.6	0.5
+MO	"missouri,warren"	32513	92.9	3.7	2.9	0.4
+MO	"missouri,washington"	25195	95.1	3.4	1	0.2
+MO	"missouri,wayne"	13521	96.5	1.9	1	0.2
+MO	"missouri,webster"	36202	95.2	2.4	1.7	0.2
+MO	"missouri,worth"	2171	97.4	1.2	1.1	0.3
+MO	"missouri,wright"	18815	96.3	1.7	1.3	0.3
+MT	"montana,beaverhead"	9246	92.7	1.9	3.7	0.4
+MT	"montana,big horn"	12865	30.4	2.9	4	0.5
+MT	"montana,blaine"	6491	47.9	2.1	1.8	0.1
+MT	"montana,broadwater"	5612	94.6	1.8	2.2	0.2
+MT	"montana,carbon"	10078	95.9	1.3	1.9	0.2
+MT	"montana,carter"	1160	97.6	0.9	0.7	0.1
+MT	"montana,cascade"	81327	87.4	4.9	3.3	0.8
+MT	"montana,chouteau"	5813	75.5	1.6	1.6	0.4
+MT	"montana,custer"	11699	94.1	1.9	2.2	0.3
+MT	"montana,daniels"	1751	94.4	1.8	1.5	0.2
+MT	"montana,dawson"	8966	94.5	1.9	2	0.3
+MT	"montana,deer lodge"	9298	91.6	2.9	2.9	0.3
+MT	"montana,fallon"	2890	96.6	1.4	1.2	0.6
+MT	"montana,fergus"	11586	95.7	1.7	1.5	0.2
+MT	"montana,flathead"	90928	94	2.3	2.3	0.6
+MT	"montana,gallatin"	89513	93.3	2.2	2.8	1.1
+MT	"montana,garfield"	1206	98.4	0.7	0.2	0.1
+MT	"montana,glacier"	13399	30.7	2.9	1.8	0.2
+MT	"montana,golden valley"	884	93	2.1	3.5	0.7
+MT	"montana,granite"	3079	96.4	1.8	1.4	0.1
+MT	"montana,hill"	16096	72.9	3.6	2.3	0.4
+MT	"montana,jefferson"	11406	94	2.4	2	0.4
+MT	"montana,judith basin"	2072	97.2	0.7	1.2	0.1
+MT	"montana,lake"	28746	68.1	7.6	3.5	0.4
+MT	"montana,lewis and clark"	63395	92.4	2.8	2.5	0.6
+MT	"montana,liberty"	2339	98	1.2	0.3	0.1
+MT	"montana,lincoln"	19687	94.2	2.5	2.3	0.3
+MT	"montana,mccone"	1734	97.4	1.4	0.7	0.1
+MT	"montana,madison"	7691	95.4	1.5	2.4	0.3
+MT	"montana,meagher"	1891	96.6	1.4	1.5	0.3
+MT	"montana,mineral"	4223	93.6	2.7	1.9	0.7
+MT	"montana,missoula"	109299	91	3	2.6	1.1
+MT	"montana,musselshell"	4538	94.3	2.1	2.6	0.2
+MT	"montana,park"	15636	95.2	1.8	2.1	0.3
+MT	"montana,petroleum"	494	98.4	1.2	1	0
+MT	"montana,phillips"	4253	86.2	4	1.9	0.2
+MT	"montana,pondera"	6153	82.2	2.5	1.4	0.2
+MT	"montana,powder river"	1743	94.4	2.1	1.4	0.2
+MT	"montana,powell"	7027	91.4	2.2	1.7	0.5
+MT	"montana,prairie"	1179	95.4	2.8	1.4	0.5
+MT	"montana,ravalli"	40212	93.9	2.1	3	0.5
+MT	"montana,richland"	9746	93.3	2.2	3	0.2
+MT	"montana,roosevelt"	10425	35.6	3.1	1.3	0.4
+MT	"montana,rosebud"	9233	60.2	3	3.4	0.5
+MT	"montana,sanders"	11413	90.4	3.3	2	0.3
+MT	"montana,sheridan"	3384	94.6	2.2	1.5	0.4
+MT	"montana,silver bow"	34200	92.1	2.4	3.7	0.5
+MT	"montana,stillwater"	9117	95.3	1.7	2.3	0.3
+MT	"montana,sweet grass"	3651	95.6	1.6	1.4	0.7
+MT	"montana,teton"	6073	95.4	1.9	1.3	0.1
+MT	"montana,toole"	5324	90.4	2.5	2.4	0.4
+MT	"montana,treasure"	718	92.8	2.9	3.5	0.4
+MT	"montana,valley"	7369	86.4	2.3	1.2	0.5
+MT	"montana,wheatland"	2168	95.2	2.7	1.5	0.6
+MT	"montana,wibaux"	1017	97.1	1.2	1.3	0.5
+MT	"montana,yellowstone"	147972	88.2	3.4	4.7	0.6
+MT	"montana,yellowstone national"	NA	NA	NA	NA	NA
+NE	"nebraska,adams"	31364	88.5	2.1	8.1	1.4
+NE	"nebraska,antelope"	6685	96	0.9	2.7	0.3
+NE	"nebraska,arthur"	460	94.6	0.9	4.1	0.2
+NE	"nebraska,banner"	690	95.1	0.7	3.8	0
+NE	"nebraska,blaine"	478	99.2	0.8	0	0
+NE	"nebraska,boone"	5505	97.8	0.7	1.2	0.2
+NE	"nebraska,box butte"	11308	84.6	3	10.2	0.3
+NE	"nebraska,boyd"	2099	96.4	1	1.6	0.8
+NE	"nebraska,brown"	3145	97.7	0.9	0.9	0.2
+NE	"nebraska,buffalo"	46102	89.2	2.2	7.4	1.3
+NE	"nebraska,burt"	6858	95.1	1.6	1.8	0.2
+NE	"nebraska,butler"	8395	96.4	1	2.3	0.3
+NE	"nebraska,cass"	25241	95.4	1.8	2.4	0.3
+NE	"nebraska,cedar"	8852	97.8	0.8	1.3	0.1
+NE	"nebraska,chase"	3966	88	1.3	11.1	0.1
+NE	"nebraska,cherry"	5713	90	2.7	1.7	0.4
+NE	"nebraska,cheyenne"	9998	90.8	1.5	6.1	1.6
+NE	"nebraska,clay"	6542	90.8	1.8	7.7	0.2
+NE	"nebraska,colfax"	10515	57.4	2.9	41	0.3
+NE	"nebraska,cuming"	9139	90.5	1.3	8.3	0.2
+NE	"nebraska,custer"	10939	96.5	1.2	2	0.1
+NE	"nebraska,dakota"	21006	55.2	5.4	35.3	3
+NE	"nebraska,dawes"	9182	87.8	4	3.3	1
+NE	"nebraska,dawson"	24326	63.6	5.2	31.8	0.6
+NE	"nebraska,deuel"	1941	94.7	1.2	3.9	0.3
+NE	"nebraska,dixon"	6000	88.2	1.3	10.4	0.2
+NE	"nebraska,dodge"	36691	87.5	2	10.1	0.5
+NE	"nebraska,douglas"	517110	71.9	14.4	11.2	2.7
+NE	"nebraska,dundy"	2008	92.2	1.6	5.8	0.1
+NE	"nebraska,fillmore"	5890	95.4	1.4	3	0.2
+NE	"nebraska,franklin"	3225	97.5	1.1	1	0.1
+NE	"nebraska,frontier"	2756	97.5	0.8	1.3	0.1
+NE	"nebraska,furnas"	4959	95.7	1.3	2.7	0.2
+NE	"nebraska,gage"	22311	96.1	1.7	1.7	0.4
+NE	"nebraska,garden"	2057	94.4	1.6	3.9	0
+NE	"nebraska,garfield"	2049	98.7	0.4	0.7	0.1
+NE	"nebraska,gosper"	2044	95.6	1.7	2.4	0.2
+NE	"nebraska,grant"	614	97.7	0.8	1.1	0.2
+NE	"nebraska,greeley"	2538	96.6	1.1	2	0.1
+NE	"nebraska,hall"	58607	72.6	3.8	23.3	1
+NE	"nebraska,hamilton"	9124	96.9	0.9	2	0.2
+NE	"nebraska,harlan"	3423	97.7	0.5	1.3	0.2
+NE	"nebraska,hayes"	967	96	0.1	3.4	0.3
+NE	"nebraska,hitchcock"	2908	97	1.1	1.4	0.1
+NE	"nebraska,holt"	10435	96	0.6	2.9	0.2
+NE	"nebraska,hooker"	736	98	0.5	1.1	0
+NE	"nebraska,howard"	6274	96.7	1.4	1.7	0.2
+NE	"nebraska,jefferson"	7547	95.7	1.5	2.7	0.2
+NE	"nebraska,johnson"	5217	83.5	5.8	8.3	1.4
+NE	"nebraska,kearney"	6489	95	1.4	3.8	0.2
+NE	"nebraska,keith"	8368	92.4	1.8	5.7	0.4
+NE	"nebraska,keya paha"	824	98.9	0.4	0.5	0.1
+NE	"nebraska,kimball"	3821	90.6	2	6.4	0.7
+NE	"nebraska,knox"	8701	88.4	1.4	1.8	0.2
+NE	"nebraska,lancaster"	285407	84.3	6.2	5.8	3.5
+NE	"nebraska,lincoln"	36288	90.2	2.2	7.2	0.5
+NE	"nebraska,logan"	763	96.9	0.4	1.7	0.1
+NE	"nebraska,loup"	632	97.6	0.3	2.1	0
+NE	"nebraska,mcpherson"	539	98	1.9	0.4	0
+NE	"nebraska,madison"	34876	83.3	3	12.9	0.5
+NE	"nebraska,merrick"	7845	94.4	1.2	3.5	0.8
+NE	"nebraska,morrill"	5042	84.4	1.8	13.6	0.4
+NE	"nebraska,nance"	3735	97.1	1.2	1.7	0.1
+NE	"nebraska,nemaha"	7248	95.7	1.8	1.8	0.4
+NE	"nebraska,nuckolls"	4500	96.3	1.5	2.2	0.2
+NE	"nebraska,otoe"	15740	92.1	1.6	5.7	0.4
+NE	"nebraska,pawnee"	2773	96.8	1.6	1.3	0.3
+NE	"nebraska,perkins"	2970	95.9	0.7	3.2	0.2
+NE	"nebraska,phelps"	9188	94.6	1.1	4.1	0.2
+NE	"nebraska,pierce"	7266	97.7	0.7	1.3	0.2
+NE	"nebraska,platte"	32237	84.3	1.9	13.8	0.5
+NE	"nebraska,polk"	5406	95.9	1.1	2.9	0.1
+NE	"nebraska,red willow"	11055	93.6	1.8	4.2	0.3
+NE	"nebraska,richardson"	8363	93.6	2	1.3	0.3
+NE	"nebraska,rock"	1526	98.4	0.5	0.1	0.2
+NE	"nebraska,saline"	14200	76.2	2.5	20.2	1.6
+NE	"nebraska,sarpy"	158840	83.8	7.1	7.3	2.1
+NE	"nebraska,saunders"	20780	96.2	1.4	2	0.4
+NE	"nebraska,scotts bluff"	36970	75.6	2.5	21.1	0.6
+NE	"nebraska,seward"	16750	96.4	1.4	1.6	0.4
+NE	"nebraska,sheridan"	5469	83.4	3.2	3.1	0.3
+NE	"nebraska,sherman"	3152	98.2	0.5	1	0.3
+NE	"nebraska,sioux"	1311	94.6	1.2	4	0.1
+NE	"nebraska,stanton"	6129	93.5	1.8	4.6	0.1
+NE	"nebraska,thayer"	5228	97.1	1.1	1.5	0.3
+NE	"nebraska,thomas"	647	97.2	1.2	1.9	0.3
+NE	"nebraska,thurston"	6940	39.5	2.2	2.7	0.1
+NE	"nebraska,valley"	4260	96.9	0.9	1.9	0.3
+NE	"nebraska,washington"	20234	95.9	1.6	2.1	0.3
+NE	"nebraska,wayne"	9595	92.7	2.5	4.2	0.5
+NE	"nebraska,webster"	3812	94.1	2	3.5	0.3
+NE	"nebraska,wheeler"	818	98	0.9	0.7	0.5
+NE	"nebraska,york"	13665	93.1	2.2	4.1	0.4
+NV	"nevada,carson city"	55274	70.7	4.8	21.3	2.1
+NV	"nevada,churchill"	24877	76.5	5.8	12.1	2.7
+NV	"nevada,clark"	1951269	48	15.6	29.1	8.7
+NV	"nevada,douglas"	46997	83.2	3.6	10.9	1.5
+NV	"nevada,elko"	48818	69.1	3.9	22.9	0.9
+NV	"nevada,esmeralda"	783	77.3	4.3	15.3	0.4
+NV	"nevada,eureka"	1987	83.6	2.3	12	0.9
+NV	"nevada,humboldt"	16528	68.9	3.3	24.4	0.7
+NV	"nevada,lander"	5775	73.7	2.8	21.1	0.4
+NV	"nevada,lincoln"	5345	87.9	4.5	6.2	0.7
+NV	"nevada,lyon"	51980	78.2	4.5	14.8	1.4
+NV	"nevada,mineral"	4772	68.5	8.5	9.1	1.1
+NV	"nevada,nye"	43946	78.9	5.5	13.6	1.3
+NV	"nevada,pershing"	6753	68.2	6.8	22.3	1.3
+NV	"nevada,storey"	4010	88.1	3.2	5.7	1.6
+NV	"nevada,washoe"	421407	66	6.1	22.2	5.2
+NV	"nevada,white pine"	10030	76.3	6.5	13.2	1
+NH	"new hampshire,belknap"	60088	95.8	1.8	1.2	1.2
+NH	"new hampshire,carroll"	47818	96.8	1.4	1	0.6
+NH	"new hampshire,cheshire"	77117	95.4	1.9	1.4	1.2
+NH	"new hampshire,coos"	33055	96.2	1.9	1.2	0.5
+NH	"new hampshire,grafton"	89118	92.3	2.7	1.8	3
+NH	"new hampshire,hillsborough"	400721	87.6	4.1	5.3	3.2
+NH	"new hampshire,merrimack"	146445	94.3	2.5	1.6	1.6
+NH	"new hampshire,rockingham"	295223	94.2	2	2.1	1.7
+NH	"new hampshire,strafford"	123143	92.7	2.9	1.8	2.6
+NH	"new hampshire,sullivan"	43742	96.2	1.8	1.1	0.6
+NJ	"new jersey,atlantic"	274549	58.6	19.3	16.8	7.5
+NJ	"new jersey,bergen"	905116	62.5	8.3	16.1	14.5
+NJ	"new jersey,burlington"	448734	70.6	19.5	6.4	4.3
+NJ	"new jersey,camden"	513657	60.3	22.2	14.2	5.1
+NJ	"new jersey,cape may"	97265	86.9	6.6	6.2	0.9
+NJ	"new jersey,cumberland"	156898	50.3	23.8	27.1	1.2
+NJ	"new jersey,essex"	783969	33.2	44	20.3	4.6
+NJ	"new jersey,gloucester"	288288	81.1	12.2	4.8	2.6
+NJ	"new jersey,hudson"	634266	30.8	17.6	42.2	13.4
+NJ	"new jersey,hunterdon"	128349	87.7	4	5.2	3.3
+NJ	"new jersey,mercer"	366513	54.5	23	15.1	8.9
+NJ	"new jersey,middlesex"	809858	49.2	12.6	18.4	21.4
+NJ	"new jersey,monmouth"	630380	76.7	9.3	9.7	5
+NJ	"new jersey,morris"	492276	75.1	5.2	11.5	9
+NJ	"new jersey,ocean"	576567	85.9	4.6	8.3	1.7
+NJ	"new jersey,passaic"	501226	45.3	16.5	37	5
+NJ	"new jersey,salem"	66083	76.8	16.3	6.8	0.8
+NJ	"new jersey,somerset"	323444	62.4	11.5	13	14.1
+NJ	"new jersey,sussex"	149265	88.8	3.4	6.4	1.8
+NJ	"new jersey,union"	536499	45.4	25.1	27.3	4.6
+NJ	"new jersey,warren"	108692	85.7	5.3	7	2.5
+NM	"new mexico,bernalillo"	662564	41.5	7.4	47.9	2.3
+NM	"new mexico,catron"	3725	76	3.6	19	0.2
+NM	"new mexico,chaves"	65645	43.9	5.3	52	0.6
+NM	"new mexico,colfax"	13750	49.9	4.1	47.2	0.4
+NM	"new mexico,curry"	48376	50.7	10.5	39.5	1.3
+NM	"new mexico,de baca"	2022	59.3	4.1	38.5	0
+NM	"new mexico,dona ana"	209233	30.1	4.8	65.7	1.1
+NM	"new mexico,eddy"	53829	52.2	4.4	44.1	0.7
+NM	"new mexico,grant"	29514	48.6	3.6	48.3	0.4
+NM	"new mexico,guadalupe"	4687	16.1	5	79.6	1.3
+NM	"new mexico,harding"	695	56.3	1.7	43	0
+NM	"new mexico,hidalgo"	4894	41.4	2.3	56.6	0.5
+NM	"new mexico,lea"	64727	43	6.6	51.1	0.5
+NM	"new mexico,lincoln"	20497	66.4	2.9	29.8	0.4
+NM	"new mexico,los alamos"	17950	76.3	3.2	14.7	6
+NM	"new mexico,luna"	25095	35.9	3.8	61.5	0.5
+NM	"new mexico,mckinley"	71492	10.3	3.6	13.3	0.8
+NM	"new mexico,mora"	4881	17.9	3.9	81	0.3
+NM	"new mexico,otero"	63797	52.8	7.7	34.5	1.2
+NM	"new mexico,quay"	9041	53.6	4.5	42.4	1
+NM	"new mexico,rio arriba"	40246	12.8	3.9	71.3	0.4
+NM	"new mexico,roosevelt"	19846	55.5	5	39.9	0.9
+NM	"new mexico,sandoval"	131561	47.5	6	35.1	1.5
+NM	"new mexico,san juan"	130044	42.5	4.1	19.1	0.4
+NM	"new mexico,san miguel"	29393	19.7	5.3	76.8	0.8
+NM	"new mexico,santa fe"	144170	43.9	4.4	50.6	1.2
+NM	"new mexico,sierra"	11988	68.4	3.7	28	0.4
+NM	"new mexico,socorro"	17866	37.6	3.9	48.5	1.2
+NM	"new mexico,taos"	32937	36.3	5.3	55.8	0.7
+NM	"new mexico,torrance"	16383	56	5.7	39.1	0.4
+NM	"new mexico,union"	4549	56	4.1	39.7	0.5
+NM	"new mexico,cibola"	27213	21.5	4.1	36.5	0.5
+NM	"new mexico,valencia"	76569	36.2	5.4	58.3	0.5
+NY	"new york,albany"	304204	76	15.2	4.9	4.8
+NY	"new york,allegany"	48946	95.4	2.2	1.4	0.9
+NY	"new york,bronx"	1385108	10.9	41.8	53.5	3.6
+NY	"new york,broome"	200600	86.3	7.3	3.4	3.5
+NY	"new york,cattaraugus"	80317	91.9	3	1.7	0.7
+NY	"new york,cayuga"	80026	91.3	5.8	2.4	0.5
+NY	"new york,chautauqua"	134905	89.3	4.4	6.1	0.5
+NY	"new york,chemung"	88830	87.4	9.2	2.5	1.2
+NY	"new york,chenango"	50477	95.6	2	1.8	0.4
+NY	"new york,clinton"	82128	91.1	5.3	2.5	1.1
+NY	"new york,columbia"	63096	88.2	6.6	3.9	1.6
+NY	"new york,cortland"	49336	93.7	3.3	2.2	0.8
+NY	"new york,delaware"	47980	93.2	2.9	3.3	0.8
+NY	"new york,dutchess"	297488	74.6	12.5	10.5	3.5
+NY	"new york,erie"	919040	77.7	15.3	4.5	2.6
+NY	"new york,essex"	39370	92.9	3.9	2.5	0.7
+NY	"new york,franklin"	51599	82.6	7.3	2.9	0.4
+NY	"new york,fulton"	55531	93.8	3.3	2.3	0.6
+NY	"new york,genesee"	60079	91.5	4.5	2.7	0.6
+NY	"new york,greene"	49221	87.1	7.5	4.9	0.8
+NY	"new york,hamilton"	4836	96.4	1.8	1.1	0.5
+NY	"new york,herkimer"	64519	95.6	2.3	1.6	0.5
+NY	"new york,jefferson"	116229	85.8	7.8	5.3	1.3
+NY	"new york,kings"	2504700	35.7	37.4	19.8	10.5
+NY	"new york,lewis"	27087	96.8	1.6	1.3	0.3
+NY	"new york,livingston"	65393	92.2	3.9	2.8	1.2
+NY	"new york,madison"	73442	93.8	3.1	1.8	0.8
+NY	"new york,monroe"	744344	72.8	17.8	7.3	3.3
+NY	"new york,montgomery"	50219	85.1	3.8	11.3	0.7
+NY	"new york,nassau"	1339532	65.5	13.5	14.6	7.6
+NY	"new york,new york"	1585873	48	19.5	25.4	11.3
+NY	"new york,niagara"	216469	87.3	9	2.2	0.8
+NY	"new york,oneida"	234878	84.8	8.3	4.6	2.8
+NY	"new york,onondaga"	467026	79.2	13.8	4	3.1
+NY	"new york,ontario"	107931	91.8	3.9	3.4	1
+NY	"new york,orange"	372813	68.2	13.3	18	2.4
+NY	"new york,orleans"	42883	87.8	7.8	4.1	0.4
+NY	"new york,oswego"	122109	95.1	2.1	2.1	0.6
+NY	"new york,otsego"	62259	92.7	3.4	3.1	1.1
+NY	"new york,putnam"	99710	82.9	4.3	11.7	1.9
+NY	"new york,queens"	2230722	27.6	23.7	27.5	22.9
+NY	"new york,rensselaer"	159429	85.7	8.9	3.8	2.2
+NY	"new york,richmond"	468730	64	13.2	17.3	7.5
+NY	"new york,rockland"	311687	65.3	14.4	15.7	6.2
+NY	"new york,st lawrence"	111944	92.9	3.5	1.9	1
+NY	"new york,saratoga"	219607	92.7	3.1	2.4	1.8
+NY	"new york,schenectady"	154727	77.2	13.3	5.7	3.2
+NY	"new york,schoharie"	32749	93.9	2.7	2.8	0.7
+NY	"new york,schuyler"	18343	96.2	2.2	1.3	0.3
+NY	"new york,seneca"	35251	90.8	5.9	2.7	0.7
+NY	"new york,steuben"	98990	94.4	3	1.4	1.2
+NY	"new york,suffolk"	1493350	71.6	9.9	16.5	3.4
+NY	"new york,sullivan"	77547	74.5	12	13.6	1.4
+NY	"new york,tioga"	51125	96	1.9	1.4	0.7
+NY	"new york,tompkins"	101564	80.2	7.2	4.2	8.6
+NY	"new york,ulster"	182493	81.7	8.8	8.7	1.7
+NY	"new york,warren"	65707	95.2	2.3	1.8	0.7
+NY	"new york,washington"	63216	93.3	4.1	2.3	0.4
+NY	"new york,wayne"	93772	91	5	3.7	0.5
+NY	"new york,westchester"	949113	57.4	17.7	21.8	5.4
+NY	"new york,wyoming"	42155	90.2	6.5	3	0.4
+NY	"new york,yates"	25348	96.1	1.9	1.7	0.4
+NC	"north carolina,alamance"	151131	67.3	20.8	11	1.2
+NC	"north carolina,alexander"	37198	87.8	6.9	4.3	1
+NC	"north carolina,alleghany"	11155	88.4	2.4	9	0.5
+NC	"north carolina,anson"	26948	45.8	49.8	3	1.1
+NC	"north carolina,ashe"	27281	93.2	1.6	4.8	0.4
+NC	"north carolina,avery"	17797	90.1	4.8	4.5	0.3
+NC	"north carolina,beaufort"	47759	66.4	26.9	6.6	0.3
+NC	"north carolina,bertie"	21282	34.7	63.4	1.3	0.5
+NC	"north carolina,bladen"	35190	54.7	36.3	7.1	0.2
+NC	"north carolina,brunswick"	107431	80.8	13.2	5.2	0.5
+NC	"north carolina,buncombe"	238318	84.4	8.5	6	1
+NC	"north carolina,burke"	90912	83	8.4	5.1	3.5
+NC	"north carolina,cabarrus"	178011	71.6	17.4	9.4	2
+NC	"north carolina,caldwell"	83029	88.6	6.4	4.6	0.5
+NC	"north carolina,camden"	9980	81.2	15.3	2.2	1.5
+NC	"north carolina,carteret"	66469	87.4	8	3.4	0.9
+NC	"north carolina,caswell"	23719	61.2	35.4	3.1	0.3
+NC	"north carolina,catawba"	154358	78	10.3	8.4	3.5
+NC	"north carolina,chatham"	63505	71.2	15.1	13	1.1
+NC	"north carolina,cherokee"	27444	92.3	3.7	2.5	0.5
+NC	"north carolina,chowan"	14793	61.1	35.5	3.2	0.4
+NC	"north carolina,clay"	10587	95.2	2	2.4	0.2
+NC	"north carolina,cleveland"	98078	74.2	22.2	2.8	0.8
+NC	"north carolina,columbus"	58098	60.4	32	4.6	0.3
+NC	"north carolina,craven"	103505	67.1	25.1	6.1	2
+NC	"north carolina,cumberland"	319431	47.2	41.3	9.5	2.2
+NC	"north carolina,currituck:knotts"	NA	NA	NA	NA	NA
+NC	"north carolina,currituck:main"	NA	NA	NA	NA	NA
+NC	"north carolina,currituck:spit"	NA	NA	NA	NA	NA
+NC	"north carolina,dare"	33920	88.6	4.3	6.5	0.6
+NC	"north carolina,davidson"	162878	82	10.3	6.4	1.2
+NC	"north carolina,davie"	41240	85.5	8	6.1	0.6
+NC	"north carolina,duplin"	58505	52.9	26.9	20.6	0.3
+NC	"north carolina,durham"	267587	42.1	40.5	13.5	4.6
+NC	"north carolina,edgecombe"	56552	37.8	58.4	3.7	0.2
+NC	"north carolina,forsyth"	350670	58.7	28.2	11.9	1.9
+NC	"north carolina,franklin"	60619	63.5	28.6	7.9	0.5
+NC	"north carolina,gaston"	206086	75.8	17.1	5.9	1.2
+NC	"north carolina,gates"	12197	63	35	1.4	0.1
+NC	"north carolina,graham"	8861	89.6	1.9	2.2	0.3
+NC	"north carolina,granville"	59916	57.7	34.5	7.5	0.5
+NC	"north carolina,greene"	21362	47	38.8	14.3	0.3
+NC	"north carolina,guilford"	488406	54.3	34.8	7.1	3.9
+NC	"north carolina,halifax"	54691	39.4	54.4	2.1	0.7
+NC	"north carolina,harnett"	114678	64.3	24	10.8	0.9
+NC	"north carolina,haywood"	59036	93.8	2.1	3.4	0.4
+NC	"north carolina,henderson"	106740	84.4	4.9	9.8	1
+NC	"north carolina,hertford"	24669	34.4	61.8	2.6	0.5
+NC	"north carolina,hoke"	46952	40.8	38	12.4	1
+NC	"north carolina,hyde"	5810	59.1	32.8	7.1	0.3
+NC	"north carolina,iredell"	159437	77.8	13.8	6.8	1.8
+NC	"north carolina,jackson"	40271	81.4	3.8	5.1	0.9
+NC	"north carolina,johnston"	168878	69.8	17.1	12.9	0.6
+NC	"north carolina,jones"	10153	61.2	34.2	3.9	0.3
+NC	"north carolina,lee"	57866	59.3	22.4	18.3	0.8
+NC	"north carolina,lenoir"	59495	51.3	41.9	6.6	0.4
+NC	"north carolina,lincoln"	78265	85.8	7.1	6.7	0.5
+NC	"north carolina,mcdowell"	44996	88.9	5	5.3	0.8
+NC	"north carolina,macon"	33922	90.2	2.4	6.6	0.6
+NC	"north carolina,madison"	20764	95	2.5	2	0.3
+NC	"north carolina,martin"	24505	52.2	44.5	3.1	0.3
+NC	"north carolina,mecklenburg"	919628	50.6	33.3	12.2	4.6
+NC	"north carolina,mitchell"	15579	94.1	1.4	4.1	0.3
+NC	"north carolina,montgomery"	27798	64.3	20.3	14.1	1.6
+NC	"north carolina,moore"	88247	77.6	15.1	6	0.9
+NC	"north carolina,nash"	95840	54	38.8	6.3	0.8
+NC	"north carolina,new hanover"	202667	76.8	16.8	5.3	1.2
+NC	"north carolina,northampton"	22099	38.9	59.3	1.4	0.2
+NC	"north carolina,onslow"	177772	68.9	19.9	10.1	1.9
+NC	"north carolina,orange"	133801	70.8	14.4	8.2	6.7
+NC	"north carolina,pamlico"	13144	74.8	21.4	3.1	0.4
+NC	"north carolina,pasquotank"	40661	55	40	4	1.1
+NC	"north carolina,pender"	52217	73.9	19.5	6.1	0.4
+NC	"north carolina,perquimans"	13453	71.4	26.2	2.1	0.3
+NC	"north carolina,person"	39464	66.8	28.5	4	0.3
+NC	"north carolina,pitt"	168148	57.1	36.1	5.5	1.6
+NC	"north carolina,polk"	20510	88.4	5.9	5.5	0.3
+NC	"north carolina,randolph"	141752	81.3	7.5	10.4	1
+NC	"north carolina,richmond"	46639	58.7	32.7	5.9	0.9
+NC	"north carolina,robeson"	134168	27	26.9	8.1	0.7
+NC	"north carolina,rockingham"	93643	73.4	20.6	5.5	0.5
+NC	"north carolina,rowan"	138428	73.7	17.8	7.7	1
+NC	"north carolina,rutherford"	67810	84.1	11.9	3.5	0.4
+NC	"north carolina,sampson"	63431	53.2	29	16.5	0.4
+NC	"north carolina,scotland"	36157	45.9	40.7	2.1	0.8
+NC	"north carolina,stanly"	60585	82.3	12.1	3.6	1.8
+NC	"north carolina,stokes"	47401	91.7	5.3	2.6	0.3
+NC	"north carolina,surry"	73673	85	5.1	9.7	0.5
+NC	"north carolina,swain"	13981	65.6	4.8	3.9	0.5
+NC	"north carolina,transylvania"	33090	90.8	5.6	2.9	0.4
+NC	"north carolina,tyrrell"	4407	53.3	39.6	5.4	1.8
+NC	"north carolina,union"	201292	74.6	13.6	10.4	1.6
+NC	"north carolina,vance"	45422	42.1	51.2	6.7	0.4
+NC	"north carolina,wake"	900993	62.2	23.2	9.8	5.4
+NC	"north carolina,warren"	20972	38	53.9	3.3	0.2
+NC	"north carolina,washington"	13228	45.3	51	3.5	0.3
+NC	"north carolina,watauga"	51079	92.5	3.1	3.4	0.9
+NC	"north carolina,wayne"	122623	55.6	33.7	9.9	1.2
+NC	"north carolina,wilkes"	69340	88.8	5.4	5.4	0.4
+NC	"north carolina,wilson"	81234	49.4	40.6	9.5	0.8
+NC	"north carolina,yadkin"	38406	86	4.3	9.8	0.2
+NC	"north carolina,yancey"	17818	93.5	1.8	4.6	0.2
+ND	"north dakota,adams"	2343	96.7	1.4	0.9	0.4
+ND	"north dakota,barnes"	11066	95.8	2.2	1.1	0.5
+ND	"north dakota,benson"	6660	43	1.4	1.2	0
+ND	"north dakota,billings"	783	98.5	0.4	0.5	0.5
+ND	"north dakota,bottineau"	6429	94.3	2.2	1.3	0.2
+ND	"north dakota,bowman"	3151	96.4	0.6	2.5	0.1
+ND	"north dakota,burke"	1968	96.1	0.8	1.9	0.7
+ND	"north dakota,burleigh"	81308	92.3	2	1.2	0.5
+ND	"north dakota,cass"	149778	90.5	4.2	2	2.4
+ND	"north dakota,cavalier"	3993	97.4	0.9	0.6	0.2
+ND	"north dakota,dickey"	5289	95.4	1.9	1.9	0.4
+ND	"north dakota,divide"	2071	96.9	1.1	1.4	0.3
+ND	"north dakota,dunn"	3536	84.4	1.9	1.1	0.3
+ND	"north dakota,eddy"	2385	94	1.2	2.2	0.3
+ND	"north dakota,emmons"	3550	97.7	0.8	1	0.2
+ND	"north dakota,foster"	3343	97.9	0.6	0.9	0.1
+ND	"north dakota,golden valley"	1680	96	1.4	2.1	0.1
+ND	"north dakota,grand forks"	66861	88.6	4.4	2.9	1.9
+ND	"north dakota,grant"	2394	97.1	1.3	0.3	0.1
+ND	"north dakota,griggs"	2420	98.6	0.5	0.4	0.2
+ND	"north dakota,hettinger"	2477	95.8	1.5	0.5	0
+ND	"north dakota,kidder"	2435	95.6	0.7	2.9	0.9
+ND	"north dakota,la moure"	NA	NA	NA	NA	NA
+ND	"north dakota,logan"	1990	98.2	0.8	0.6	0.3
+ND	"north dakota,mchenry"	5395	96.7	1	1.5	0.3
+ND	"north dakota,mcintosh"	2809	97	0.9	1.4	0.4
+ND	"north dakota,mckenzie"	6360	74.6	1.7	2.2	0.3
+ND	"north dakota,mclean"	8962	90.5	1.6	1.2	0.1
+ND	"north dakota,mercer"	8424	94.9	1.3	1.4	0.3
+ND	"north dakota,morton"	27471	93	2.1	1.5	0.2
+ND	"north dakota,mountrail"	7673	64.3	2.8	3.7	0.2
+ND	"north dakota,nelson"	3126	96.5	1.7	1.1	0.1
+ND	"north dakota,oliver"	1846	96.5	0.8	1	0.2
+ND	"north dakota,pembina"	7413	93.7	1.6	2.6	0.1
+ND	"north dakota,pierce"	4357	93.7	1.2	1	0.1
+ND	"north dakota,ramsey"	11451	87.2	2.9	1.2	0.4
+ND	"north dakota,ransom"	5457	96.8	1.2	1.2	0.4
+ND	"north dakota,renville"	2470	97.2	1.3	1	0.2
+ND	"north dakota,richland"	16321	94.1	2	1.7	0.5
+ND	"north dakota,rolette"	13937	20.1	2.3	1	0.1
+ND	"north dakota,sargent"	3829	97.1	0.8	1.3	0.2
+ND	"north dakota,sheridan"	1321	96.3	1.5	1.2	0.2
+ND	"north dakota,sioux"	4153	12.4	3	2	0.1
+ND	"north dakota,slope"	727	97.2	0.3	1.7	0
+ND	"north dakota,stark"	24199	94.1	2.1	1.9	1.2
+ND	"north dakota,steele"	1975	97	0.8	1	0.1
+ND	"north dakota,stutsman"	21100	94.8	1.9	1.7	0.5
+ND	"north dakota,towner"	2246	96.4	0.8	0.4	0
+ND	"north dakota,traill"	8121	94.7	1.7	2.6	0.3
+ND	"north dakota,walsh"	11119	88.4	1.6	8.7	0.3
+ND	"north dakota,ward"	61675	88.7	5.2	3	0.9
+ND	"north dakota,wells"	4207	98.5	0.6	0.5	0.1
+ND	"north dakota,williams"	22398	90.9	3.2	1.9	0.4
+OH	"ohio,adams"	28550	97.1	1.6	0.9	0.1
+OH	"ohio,allen"	106331	82.5	14.5	2.4	0.7
+OH	"ohio,ashland"	53139	96.6	1.7	0.9	0.5
+OH	"ohio,ashtabula"	101497	90.8	5.6	3.4	0.4
+OH	"ohio,athens"	64757	90.8	4.9	1.5	2.7
+OH	"ohio,auglaize"	45949	97.1	1.2	1.2	0.4
+OH	"ohio,belmont"	70400	93.6	5.3	0.6	0.4
+OH	"ohio,brown"	44846	97.2	1.8	0.6	0.2
+OH	"ohio,butler"	368130	84.3	9.5	4	2.4
+OH	"ohio,carroll"	28836	97.3	1.6	0.8	0.2
+OH	"ohio,champaign"	40097	94.1	4.1	1.1	0.4
+OH	"ohio,clark"	138333	85.3	11.3	2.8	0.6
+OH	"ohio,clermont"	197363	94.9	2.5	1.5	1
+OH	"ohio,clinton"	42040	93.9	4.1	1.3	0.5
+OH	"ohio,columbiana"	107841	94.9	3.5	1.2	0.3
+OH	"ohio,coshocton"	36901	96.6	2.2	0.8	0.3
+OH	"ohio,crawford"	43784	96.4	2	1.2	0.4
+OH	"ohio,cuyahoga"	1280122	61.4	31.8	4.8	2.6
+OH	"ohio,darke"	52959	97	1.4	1.2	0.3
+OH	"ohio,defiance"	39037	88	3.8	8.7	0.3
+OH	"ohio,delaware"	174214	88.4	5.2	2.1	4.3
+OH	"ohio,erie"	77079	84.9	11.4	3.4	0.6
+OH	"ohio,fairfield"	146156	89.2	7.9	1.7	1.1
+OH	"ohio,fayette"	29030	93.8	3.8	1.8	0.5
+OH	"ohio,franklin"	1163414	67.3	24.2	4.8	3.9
+OH	"ohio,fulton"	42698	90.3	1.9	7.8	0.4
+OH	"ohio,gallia"	30934	94.2	4.2	0.9	0.5
+OH	"ohio,geauga"	93389	96.1	2.1	1.1	0.6
+OH	"ohio,greene"	161573	85.1	9.8	2.1	2.9
+OH	"ohio,guernsey"	40087	95.5	3.3	0.9	0.3
+OH	"ohio,hamilton"	802374	67.6	27.8	2.6	2
+OH	"ohio,hancock"	74782	90.8	3.3	4.5	1.7
+OH	"ohio,hardin"	32058	96	2.1	1.3	0.6
+OH	"ohio,harrison"	15864	95.6	3.7	0.5	0.1
+OH	"ohio,henry"	28215	91.7	1.7	6.6	0.4
+OH	"ohio,highland"	43589	96	2.9	0.7	0.2
+OH	"ohio,hocking"	29380	97	1.9	0.7	0.2
+OH	"ohio,holmes"	42366	98.2	0.8	0.8	0.1
+OH	"ohio,huron"	59626	91.7	2.6	5.6	0.3
+OH	"ohio,jackson"	33225	96.6	1.9	0.8	0.3
+OH	"ohio,jefferson"	69709	91.1	7.3	1.1	0.4
+OH	"ohio,knox"	60921	96	2	1.2	0.6
+OH	"ohio,lake"	230041	90.9	4.7	3.4	1.1
+OH	"ohio,lawrence"	62450	95.4	3.4	0.7	0.4
+OH	"ohio,licking"	166492	92.4	5.3	1.4	0.7
+OH	"ohio,logan"	45858	94.6	3.5	1.2	0.5
+OH	"ohio,lorain"	301356	80.2	11.5	8.4	0.9
+OH	"ohio,lucas"	441815	71	22.1	6.1	1.5
+OH	"ohio,madison"	43435	89.8	8.1	1.4	0.5
+OH	"ohio,mahoning"	238823	77.6	17.7	4.7	0.7
+OH	"ohio,marion"	66501	89.8	7.4	2.3	0.5
+OH	"ohio,medina"	172332	95	2.4	1.6	1
+OH	"ohio,meigs"	23770	97.1	2	0.5	0.2
+OH	"ohio,mercer"	40814	96.7	1.2	1.5	0.4
+OH	"ohio,miami"	102506	93.6	3.8	1.3	1.2
+OH	"ohio,monroe"	14642	97.8	1.6	0.4	0.1
+OH	"ohio,montgomery"	535153	72.7	23.3	2.3	1.7
+OH	"ohio,morgan"	15054	92.8	6.1	0.6	0.1
+OH	"ohio,morrow"	34827	97	1.7	1.1	0.3
+OH	"ohio,muskingum"	86074	92.5	6.2	0.8	0.3
+OH	"ohio,noble"	14645	95.8	3.3	0.4	0.1
+OH	"ohio,ottawa"	41428	93.6	2.1	4.2	0.3
+OH	"ohio,paulding"	19614	93.5	2.5	4.3	0.2
+OH	"ohio,perry"	36058	97.5	1.6	0.5	0.1
+OH	"ohio,pickaway"	55698	93.8	4.6	1.1	0.4
+OH	"ohio,pike"	28709	96.2	2.5	0.7	0.2
+OH	"ohio,portage"	161419	91.4	5.8	1.3	1.4
+OH	"ohio,preble"	42270	97.2	1.6	0.6	0.4
+OH	"ohio,putnam"	34499	93.5	1.2	5.5	0.2
+OH	"ohio,richland"	124475	86.5	11.3	1.4	0.6
+OH	"ohio,ross"	78064	90.2	8.3	1	0.4
+OH	"ohio,sandusky"	60944	86.2	5.4	8.9	0.3
+OH	"ohio,scioto"	79499	93.8	4.4	1.1	0.3
+OH	"ohio,seneca"	56745	91.2	4.2	4.4	0.6
+OH	"ohio,shelby"	49423	93.9	3.7	1.3	0.9
+OH	"ohio,stark"	375586	87.7	9.8	1.6	0.7
+OH	"ohio,summit"	541781	79.7	16.5	1.6	2.2
+OH	"ohio,trumbull"	210312	88.1	10.1	1.3	0.5
+OH	"ohio,tuscarawas"	92582	95.7	2	1.9	0.3
+OH	"ohio,union"	52300	92.1	3.8	1.3	2.7
+OH	"ohio,van wert"	28744	95.2	2.3	2.6	0.2
+OH	"ohio,vinton"	13435	97.5	1.4	0.5	0.2
+OH	"ohio,warren"	212693	89	4.8	2.2	3.9
+OH	"ohio,washington"	61778	96	2.5	0.7	0.6
+OH	"ohio,wayne"	114520	94.7	2.9	1.6	0.8
+OH	"ohio,williams"	37642	93.7	2.2	3.7	0.6
+OH	"ohio,wood"	125488	90.1	4.1	4.5	1.5
+OH	"ohio,wyandot"	22615	96.1	1.2	2.2	0.6
+OK	"oklahoma,adair"	22683	42.1	10.8	5.3	0.6
+OK	"oklahoma,alfalfa"	5642	87.3	6.2	4	0.2
+OK	"oklahoma,atoka"	14182	72.8	10.8	2.9	0.4
+OK	"oklahoma,beaver"	5636	76.5	3.9	20.1	0.1
+OK	"oklahoma,beckham"	22119	78.9	6.8	11.8	0.8
+OK	"oklahoma,blaine"	11943	62.9	6.4	24.1	0.2
+OK	"oklahoma,bryan"	42416	73.8	8.6	5	0.5
+OK	"oklahoma,caddo"	29600	59.5	8.8	10.1	0.2
+OK	"oklahoma,canadian"	115541	79.7	6.7	6.7	3
+OK	"oklahoma,carter"	47557	72.5	13.3	5.3	1.1
+OK	"oklahoma,cherokee"	46987	50.2	10.4	6.3	0.6
+OK	"oklahoma,choctaw"	15205	63.7	17.5	2.8	0.3
+OK	"oklahoma,cimarron"	2475	76.5	2.1	20.8	0.3
+OK	"oklahoma,cleveland"	255755	75.7	9.8	7	3.8
+OK	"oklahoma,coal"	5925	73.1	8.3	2.6	0.2
+OK	"oklahoma,comanche"	124098	58.9	23.9	11.2	2.2
+OK	"oklahoma,cotton"	6193	79.2	7.5	5.6	0.2
+OK	"oklahoma,craig"	15029	65.6	11.5	2.5	0.7
+OK	"oklahoma,creek"	69967	78.4	8.9	3.1	0.3
+OK	"oklahoma,custer"	27469	73.4	6.9	13.9	1
+OK	"oklahoma,delaware"	41487	65.9	8.2	3	1.3
+OK	"oklahoma,dewey"	4810	86	3.5	4.8	0.7
+OK	"oklahoma,ellis"	4151	90.6	1.9	6	0.2
+OK	"oklahoma,garfield"	60580	80.5	6.5	8.8	1
+OK	"oklahoma,garvin"	27576	79	7.5	6.2	0.4
+OK	"oklahoma,grady"	52431	83.6	6.8	4.6	0.4
+OK	"oklahoma,grant"	4527	91.5	3.2	3.5	0.2
+OK	"oklahoma,greer"	6239	78.4	10.6	9.8	0.2
+OK	"oklahoma,harmon"	2922	62.9	11.3	25.9	0.4
+OK	"oklahoma,harper"	3685	80.2	2.4	17.5	0.2
+OK	"oklahoma,haskell"	12769	73.3	7.5	3.3	0.5
+OK	"oklahoma,hughes"	14003	66.8	12	3.8	0.2
+OK	"oklahoma,jackson"	26446	65.8	12.4	20.9	1.2
+OK	"oklahoma,jefferson"	6472	80.6	5.3	8.5	0.3
+OK	"oklahoma,johnston"	10957	71.7	9.9	3.9	0.2
+OK	"oklahoma,kay"	46562	77.6	7.1	6.4	0.5
+OK	"oklahoma,kingfisher"	15034	80	4.3	13.4	0.3
+OK	"oklahoma,kiowa"	9446	77.3	8.7	8.8	0.3
+OK	"oklahoma,latimer"	11154	69.2	8.5	2.6	0.3
+OK	"oklahoma,le flore"	50384	73.1	8	6.9	0.5
+OK	"oklahoma,lincoln"	34273	84.6	6.9	2.4	0.2
+OK	"oklahoma,logan"	41848	78.5	13.2	5.2	0.5
+OK	"oklahoma,love"	9423	76.3	6.7	11.8	0.5
+OK	"oklahoma,mcclain"	34506	81	6	7	0.4
+OK	"oklahoma,mccurtain"	33151	65.8	14.9	4.7	0.3
+OK	"oklahoma,mcintosh"	20252	69.4	10.3	1.9	0.3
+OK	"oklahoma,major"	7527	88.1	2.9	7.5	0.3
+OK	"oklahoma,marshall"	15840	69.8	7.6	14	0.2
+OK	"oklahoma,mayes"	41259	66.9	9.5	2.7	0.4
+OK	"oklahoma,murray"	13488	75.9	7.5	4.9	0.4
+OK	"oklahoma,muskogee"	70990	58.3	19.5	5.2	0.6
+OK	"oklahoma,noble"	11561	83.3	5.9	2.6	0.4
+OK	"oklahoma,nowata"	10536	67.8	11.3	2.3	0.1
+OK	"oklahoma,okfuskee"	12191	63.2	14.8	2.9	0.2
+OK	"oklahoma,oklahoma"	718633	59.3	20.7	15.1	3
+OK	"oklahoma,okmulgee"	40069	64.4	16.8	3.2	0.3
+OK	"oklahoma,osage"	47472	64.7	18.5	2.9	0.3
+OK	"oklahoma,ottawa"	31848	67.4	8.3	4.7	0.5
+OK	"oklahoma,pawnee"	16577	79.7	6.9	2	0.3
+OK	"oklahoma,payne"	77350	79.7	8.8	3.9	3.5
+OK	"oklahoma,pittsburg"	45837	71.9	10.9	3.9	0.4
+OK	"oklahoma,pontotoc"	37492	69.3	9.6	4.1	0.7
+OK	"oklahoma,pottawatomie"	69442	74.4	9.2	4.1	0.6
+OK	"oklahoma,pushmataha"	11572	73.9	6.4	2.4	0.2
+OK	"oklahoma,roger mills"	3647	87.3	2.7	4.5	0.3
+OK	"oklahoma,rogers"	86905	73.7	9.1	3.7	1.1
+OK	"oklahoma,seminole"	25482	67.2	11.7	3.5	0.3
+OK	"oklahoma,sequoyah"	42391	65.2	11	3.4	0.5
+OK	"oklahoma,stephens"	45048	82.5	6.7	6.2	0.5
+OK	"oklahoma,texas"	20640	52.8	4.4	42	1.6
+OK	"oklahoma,tillman"	7992	64.6	11.8	22.3	0.3
+OK	"oklahoma,tulsa"	603403	65.2	16.5	11	2.3
+OK	"oklahoma,wagoner"	73085	73.4	11.1	4.8	1.4
+OK	"oklahoma,washington"	50976	75.9	8.5	5	1.1
+OK	"oklahoma,washita"	11629	85.9	4.9	8.1	0.2
+OK	"oklahoma,woods"	8878	86.6	6	4.8	0.9
+OK	"oklahoma,woodward"	20081	82.8	4.2	10.6	0.6
+OR	"oregon,baker"	16134	92.6	2.7	3.3	0.5
+OR	"oregon,benton"	85579	83.6	4.5	6.4	5.2
+OR	"oregon,clackamas"	375992	84.5	4	7.7	3.7
+OR	"oregon,clatsop"	37039	87.2	3.4	7.7	1.2
+OR	"oregon,columbia"	49351	90.3	3.9	4	0.9
+OR	"oregon,coos"	63043	87	4.7	5.4	1
+OR	"oregon,crook"	20978	89.4	2.2	7	0.5
+OR	"oregon,curry"	22364	88.7	4	5.4	0.7
+OR	"oregon,deschutes"	157733	88.4	2.9	7.4	0.9
+OR	"oregon,douglas"	107667	89.5	3.5	4.7	1
+OR	"oregon,gilliam"	1871	92.2	1.5	4.7	0.2
+OR	"oregon,grant"	7445	93.4	2.5	2.8	0.3
+OR	"oregon,harney"	7422	89.6	3.2	4	0.5
+OR	"oregon,hood river"	22346	65.8	3.6	29.5	1.4
+OR	"oregon,jackson"	203206	83.7	4.2	10.7	1.2
+OR	"oregon,jefferson"	21720	61.8	4.4	19.3	0.4
+OR	"oregon,josephine"	82713	88.6	3.7	6.3	0.8
+OR	"oregon,klamath"	66380	81.1	4.8	10.4	0.9
+OR	"oregon,lake"	7895	87.1	3.8	6.9	0.7
+OR	"oregon,lane"	351715	84.7	5.1	7.4	2.4
+OR	"oregon,lincoln"	46034	84.4	4.2	7.9	1.1
+OR	"oregon,linn"	116672	87.1	3.7	7.8	1
+OR	"oregon,malheur"	31313	63.6	4.1	31.5	1.7
+OR	"oregon,marion"	315335	68.7	4.9	24.3	1.9
+OR	"oregon,morrow"	11173	64.6	3.1	31.3	0.9
+OR	"oregon,multnomah"	735334	72.1	10.2	10.9	6.5
+OR	"oregon,polk"	75403	80.5	4.4	12.1	1.9
+OR	"oregon,sherman"	1765	91.6	2	5.6	0.2
+OR	"oregon,tillamook"	25250	86.7	2.8	9	0.9
+OR	"oregon,umatilla"	75889	69.4	3.9	23.9	0.9
+OR	"oregon,union"	25748	90.9	2.8	3.9	0.8
+OR	"oregon,wallowa"	7008	94.5	2.3	2.2	0.3
+OR	"oregon,wasco"	25213	77.6	3	14.8	0.8
+OR	"oregon,washington"	529710	69.7	6.1	15.7	8.6
+OR	"oregon,wheeler"	1441	90.7	3.1	4.3	0.6
+OR	"oregon,yamhill"	99193	79.1	4.2	14.7	1.5
+PA	"pennsylvania,adams"	101407	90.6	2.9	6	0.7
+PA	"pennsylvania,allegheny"	1223348	80.6	15.1	1.6	2.8
+PA	"pennsylvania,armstrong"	68941	97.7	1.6	0.5	0.2
+PA	"pennsylvania,beaver"	170539	90.4	8	1.2	0.4
+PA	"pennsylvania,bedford"	49762	97.5	1.3	0.9	0.2
+PA	"pennsylvania,berks"	411442	76.9	7.4	16.4	1.3
+PA	"pennsylvania,blair"	127089	95.6	2.9	1	0.6
+PA	"pennsylvania,bradford"	62622	96.7	1.5	1.1	0.5
+PA	"pennsylvania,bucks"	625249	86.9	5.2	4.3	3.8
+PA	"pennsylvania,butler"	183862	95.9	2	1.1	1
+PA	"pennsylvania,cambria"	143679	93.3	4.9	1.4	0.5
+PA	"pennsylvania,cameron"	5085	98	1.1	0.4	0.3
+PA	"pennsylvania,carbon"	65249	93.7	2.7	3.3	0.5
+PA	"pennsylvania,centre"	153990	87.9	4.5	2.4	5.2
+PA	"pennsylvania,chester"	498886	82.1	7.9	6.5	3.9
+PA	"pennsylvania,clarion"	39988	96.8	2	0.6	0.5
+PA	"pennsylvania,clearfield"	81642	94.4	3.2	2.3	0.5
+PA	"pennsylvania,clinton"	39238	95.9	2.4	1.1	0.5
+PA	"pennsylvania,columbia"	67295	94.4	2.9	2	0.8
+PA	"pennsylvania,crawford"	88765	95.7	2.9	0.9	0.5
+PA	"pennsylvania,cumberland"	235406	89.4	5	2.7	3
+PA	"pennsylvania,dauphin"	268100	69.9	21.1	7	3.2
+PA	"pennsylvania,delaware"	558979	71.1	21.7	3	4.7
+PA	"pennsylvania,elk"	31946	98.1	0.9	0.6	0.3
+PA	"pennsylvania,erie"	280566	86.5	9.3	3.4	1.1
+PA	"pennsylvania,fayette"	136606	92.9	6	0.8	0.3
+PA	"pennsylvania,forest"	7716	75.8	18.6	5.4	0.2
+PA	"pennsylvania,franklin"	149618	90.2	5	4.3	0.9
+PA	"pennsylvania,fulton"	14845	96.9	2.1	0.8	0.1
+PA	"pennsylvania,greene"	38686	94.1	4.3	1.2	0.3
+PA	"pennsylvania,huntingdon"	45913	91.9	6.1	1.6	0.4
+PA	"pennsylvania,indiana"	88880	94.4	3.7	1.1	0.9
+PA	"pennsylvania,jefferson"	45200	97.9	1.1	0.6	0.2
+PA	"pennsylvania,juniata"	24636	95.7	1.6	2.5	0.3
+PA	"pennsylvania,lackawanna"	214437	89.7	4.1	5	1.7
+PA	"pennsylvania,lancaster"	519445	84.9	5.6	8.6	1.9
+PA	"pennsylvania,lawrence"	91108	93.2	5.5	1	0.4
+PA	"pennsylvania,lebanon"	133568	86.9	3.8	9.3	1.1
+PA	"pennsylvania,lehigh"	349497	71.6	9	18.8	2.9
+PA	"pennsylvania,luzerne"	320918	88.2	4.9	6.7	1
+PA	"pennsylvania,lycoming"	116111	91.9	6.2	1.3	0.6
+PA	"pennsylvania,mckean"	43450	94.5	3.3	1.7	0.4
+PA	"pennsylvania,mercer"	116638	91	7.3	1.1	0.6
+PA	"pennsylvania,mifflin"	46682	96.8	1.7	1.1	0.4
+PA	"pennsylvania,monroe"	169842	70.5	16	13.1	2.1
+PA	"pennsylvania,montgomery"	799874	79	10.6	4.3	6.4
+PA	"pennsylvania,montour"	18267	94.2	2.4	1.8	1.8
+PA	"pennsylvania,northampton"	297735	81	7.3	10.5	2.4
+PA	"pennsylvania,northumberland"	94528	94.3	3.1	2.4	0.4
+PA	"pennsylvania,perry"	45969	96.6	1.7	1.3	0.4
+PA	"pennsylvania,philadelphia"	1526006	36.9	46.2	12.3	6.3
+PA	"pennsylvania,pike"	57369	82.9	7.9	9	1
+PA	"pennsylvania,potter"	17457	97.4	1.2	1	0.3
+PA	"pennsylvania,schuylkill"	148289	93.2	3.7	2.8	0.5
+PA	"pennsylvania,snyder"	39702	96	1.9	1.7	0.5
+PA	"pennsylvania,somerset"	77742	95.5	3	1.1	0.3
+PA	"pennsylvania,sullivan"	6428	94.7	3.3	1.4	0.3
+PA	"pennsylvania,susquehanna"	43356	97.1	1.2	1.3	0.3
+PA	"pennsylvania,tioga"	41981	96.6	1.8	1	0.4
+PA	"pennsylvania,union"	44947	85.2	9	5.2	1.2
+PA	"pennsylvania,venango"	54984	96.5	2.2	0.9	0.4
+PA	"pennsylvania,warren"	41815	97.6	1.2	0.7	0.4
+PA	"pennsylvania,washington"	207820	93.4	4.8	1.1	0.6
+PA	"pennsylvania,wayne"	52822	92	4.2	3.4	0.5
+PA	"pennsylvania,westmoreland"	365169	94.8	3.6	0.9	0.7
+PA	"pennsylvania,wyoming"	28276	96.4	1.7	1.5	0.3
+PA	"pennsylvania,york"	434972	86.2	7.6	5.6	1.2
+RI	"rhode island,bristol"	49875	94.3	2.3	2	1.4
+RI	"rhode island,kent"	166158	91.6	3.3	3.2	2
+RI	"rhode island,newport"	82888	87.9	6.4	4.2	1.6
+RI	"rhode island,providence"	626667	66.1	12.6	18.8	3.7
+RI	"rhode island,washington"	126979	92.4	3	2.4	1.6
+SC	"south carolina,abbeville"	25417	69.1	29.4	1	0.3
+SC	"south carolina,aiken"	160099	67.8	26.5	4.9	0.8
+SC	"south carolina,allendale"	10419	23.1	74.5	2.3	0.4
+SC	"south carolina,anderson"	187126	78.8	17.6	2.9	0.8
+SC	"south carolina,bamberg"	15987	35.6	62.5	1.6	0.4
+SC	"south carolina,barnwell"	22621	51.8	45.7	1.8	0.6
+SC	"south carolina,beaufort"	162233	66.1	21.3	12.1	1.2
+SC	"south carolina,berkeley"	177843	63.9	27.7	6	2.3
+SC	"south carolina,calhoun"	15175	53.1	43.7	3	0.2
+SC	"south carolina,charleston"	350209	62	31.3	5.4	1.3
+SC	"south carolina,cherokee"	55342	74	21.8	3.7	0.6
+SC	"south carolina,chester"	33140	59.1	38.9	1.4	0.3
+SC	"south carolina,chesterfield"	46734	61.6	34.3	3.6	0.4
+SC	"south carolina,clarendon"	34971	46.2	50.9	2.6	0.6
+SC	"south carolina,colleton"	38892	55.9	40.5	2.8	0.3
+SC	"south carolina,darlington"	68681	55.3	42.7	1.7	0.3
+SC	"south carolina,dillon"	32062	47.3	47.7	2.6	0.2
+SC	"south carolina,dorchester"	136555	65.5	28.5	4.4	1.5
+SC	"south carolina,edgefield"	26985	56.3	38.5	5.2	0.4
+SC	"south carolina,fairfield"	23956	38	60.2	1.6	0.2
+SC	"south carolina,florence"	136885	54.1	42.4	2.2	1.2
+SC	"south carolina,georgetown"	60158	62	34.5	3.1	0.5
+SC	"south carolina,greenville"	451225	70.3	19.9	8.1	2
+SC	"south carolina,greenwood"	69661	61.3	32.5	5.4	0.8
+SC	"south carolina,hampton"	21090	41.2	55.1	3.5	0.5
+SC	"south carolina,horry"	269291	77.3	15.4	6.2	1
+SC	"south carolina,jasper"	24777	37.4	47.5	15.1	0.7
+SC	"south carolina,kershaw"	61697	69.7	26.2	3.7	0.5
+SC	"south carolina,lancaster"	76652	69.8	25.1	4.4	0.6
+SC	"south carolina,laurens"	66537	69	26.7	4.1	0.3
+SC	"south carolina,lee"	19220	32.9	65.2	1.7	0.3
+SC	"south carolina,lexington"	262391	77	16.2	5.5	1.4
+SC	"south carolina,mccormick"	10233	48.3	50.6	0.8	0.3
+SC	"south carolina,marion"	33062	40	57.1	2.4	0.5
+SC	"south carolina,marlboro"	28933	40.3	52.7	2.8	0.3
+SC	"south carolina,newberry"	37508	60.5	32.2	7.2	0.3
+SC	"south carolina,oconee"	74273	85.9	9.1	4.5	0.6
+SC	"south carolina,orangeburg"	92501	33.7	63.4	1.9	0.8
+SC	"south carolina,pickens"	119224	87.2	8.1	3.1	1.6
+SC	"south carolina,richland"	384504	45.3	48.1	4.8	2.2
+SC	"south carolina,saluda"	19875	58.1	27.7	14.4	0.2
+SC	"south carolina,spartanburg"	284307	70.1	22.3	5.9	2
+SC	"south carolina,sumter"	107456	46.9	48.8	3.3	1.1
+SC	"south carolina,union"	28961	66.1	32.5	1	0.3
+SC	"south carolina,williamsburg"	34423	31.2	66.5	2	0.4
+SC	"south carolina,york"	226073	72.7	20.9	4.5	1.5
+SD	"south dakota,aurora"	2710	93.4	0.9	3.7	0.7
+SD	"south dakota,beadle"	17398	85.8	2.5	7.7	3.6
+SD	"south dakota,bennett"	3431	33.3	4.1	2	0.4
+SD	"south dakota,bon homme"	7070	88.9	2.3	1.8	0.1
+SD	"south dakota,brookings"	31965	92.3	2.2	2	2.7
+SD	"south dakota,brown"	36531	92.6	2.3	1.4	1
+SD	"south dakota,brule"	5255	87.8	2.7	1.4	0.2
+SD	"south dakota,buffalo"	1912	14.8	1.1	1.8	0.1
+SD	"south dakota,butte"	10110	92.6	2.8	3	0.2
+SD	"south dakota,campbell"	1466	97.5	0.9	1.4	0.3
+SD	"south dakota,charles mix"	9129	64.6	2.8	1.7	0.2
+SD	"south dakota,clark"	3691	97.4	1	1.7	0.1
+SD	"south dakota,clay"	13864	90	3.6	2	1.7
+SD	"south dakota,codington"	27227	94.6	1.6	1.6	0.4
+SD	"south dakota,corson"	4050	29.7	2.7	2.6	0.3
+SD	"south dakota,custer"	8216	92.8	2.2	2.2	0.4
+SD	"south dakota,davison"	19504	93.8	2	1.5	0.5
+SD	"south dakota,day"	5710	87.6	1.9	1.1	0.2
+SD	"south dakota,deuel"	4364	96.7	1.2	2	0.1
+SD	"south dakota,dewey"	5301	20.9	3.7	1.8	0.2
+SD	"south dakota,douglas"	3002	96.3	1.2	0.8	0.1
+SD	"south dakota,edmunds"	4071	97	1.1	1.4	0.1
+SD	"south dakota,fall river"	7094	87.4	3.6	2.2	0.4
+SD	"south dakota,faulk"	2364	98.3	0.8	0.8	0.1
+SD	"south dakota,grant"	7356	96.1	1	2.3	0.3
+SD	"south dakota,gregory"	4271	89.4	2.4	0.9	0.3
+SD	"south dakota,haakon"	1937	94.1	2.7	0.9	0.4
+SD	"south dakota,hamlin"	5903	96.2	1	2.5	0.2
+SD	"south dakota,hand"	3431	98.2	0.9	0.6	0.3
+SD	"south dakota,hanson"	3331	98.4	0.5	0.5	0.3
+SD	"south dakota,harding"	1255	95.4	1.8	1.6	0.1
+SD	"south dakota,hughes"	17022	85	2.8	1.8	0.5
+SD	"south dakota,hutchinson"	7343	96.6	1.3	1.6	0.2
+SD	"south dakota,hyde"	1420	88.9	2	1.1	0.2
+SD	"south dakota,jackson"	3031	42.6	5	1.3	0
+SD	"south dakota,jerauld"	2071	94.6	0.8	4.1	0.2
+SD	"south dakota,jones"	1006	94.3	2	1.3	0
+SD	"south dakota,kingsbury"	5148	96.9	1	1.4	0.3
+SD	"south dakota,lake"	11200	95.6	1.6	1.6	0.7
+SD	"south dakota,lawrence"	24097	92.7	2.4	2.5	0.7
+SD	"south dakota,lincoln"	44828	95.3	2.1	1.2	1
+SD	"south dakota,lyman"	3755	58.1	3	1.1	0.3
+SD	"south dakota,mccook"	5618	97	0.8	1.8	0.1
+SD	"south dakota,mcpherson"	2459	97.8	1.3	1	0.2
+SD	"south dakota,marshall"	4656	84.6	1.2	6.8	0.2
+SD	"south dakota,meade"	25434	90.2	4.1	3	0.6
+SD	"south dakota,mellette"	2048	39.3	5.7	1.5	0.2
+SD	"south dakota,miner"	2389	97.1	1	1.3	0.4
+SD	"south dakota,minnehaha"	169468	86.2	6.1	4.1	1.5
+SD	"south dakota,moody"	6486	80.6	3.2	1.7	1.1
+SD	"south dakota,pennington"	100948	81.7	4.9	4	1
+SD	"south dakota,perkins"	2982	96.7	1.2	0.7	0.1
+SD	"south dakota,potter"	2329	97	1	0.7	0.3
+SD	"south dakota,roberts"	10149	61.5	3.2	1.2	0.2
+SD	"south dakota,sanborn"	2355	97.5	1.1	1.2	0.2
+SD	"south dakota,shannon"	13586	2.8	0.9	2.2	0.1
+SD	"south dakota,spink"	6415	96.6	1.1	1.1	0.1
+SD	"south dakota,stanley"	2966	89.5	3.1	0.7	0.1
+SD	"south dakota,sully"	1373	96.4	2.3	0.9	0
+SD	"south dakota,todd"	9612	9.5	1.9	2.4	0.2
+SD	"south dakota,tripp"	5644	82.8	2.5	1.1	0.2
+SD	"south dakota,turner"	8347	96.8	1.2	1.3	0.2
+SD	"south dakota,union"	14399	94.5	2.3	2.1	0.9
+SD	"south dakota,walworth"	5438	82.2	2.7	0.7	0.2
+SD	"south dakota,yankton"	22438	91.6	3	2.7	0.5
+SD	"south dakota,ziebach"	2801	21.7	3.2	3.1	0.1
+TN	"tennessee,anderson"	75129	90.7	5.7	2.4	1.1
+TN	"tennessee,bedford"	45058	78.5	10	11.3	0.8
+TN	"tennessee,benton"	16489	94.4	3.3	1.8	0.4
+TN	"tennessee,bledsoe"	12876	92.7	4.9	2	0.1
+TN	"tennessee,blount"	123010	92.1	4.3	2.8	0.7
+TN	"tennessee,bradley"	98963	88.5	6	4.7	0.8
+TN	"tennessee,campbell"	40716	97	1.4	1.2	0.3
+TN	"tennessee,cannon"	13801	95.6	2.5	1.5	0.1
+TN	"tennessee,carroll"	28522	85.7	11.7	2.1	0.2
+TN	"tennessee,carter"	57424	95.5	2.5	1.5	0.3
+TN	"tennessee,cheatham"	39105	94.4	2.7	2.3	0.4
+TN	"tennessee,chester"	17131	86.6	10.7	2	0.4
+TN	"tennessee,claiborne"	32213	96.4	2	0.8	0.5
+TN	"tennessee,clay"	7861	95.7	2.5	1.6	0.1
+TN	"tennessee,cocke"	35662	94.2	3.6	1.8	0.3
+TN	"tennessee,coffee"	52796	90	5.3	3.8	0.9
+TN	"tennessee,crockett"	14586	77.1	14.1	8.7	0.2
+TN	"tennessee,cumberland"	56053	95.8	1.3	2.3	0.4
+TN	"tennessee,davidson"	626681	57.4	30.2	9.8	3
+TN	"tennessee,decatur"	11757	93.1	4.1	2.6	0.2
+TN	"tennessee,de kalb"	NA	NA	NA	NA	NA
+TN	"tennessee,dickson"	49666	90.4	6	3.2	0.5
+TN	"tennessee,dyer"	38335	81	16.1	2.6	0.5
+TN	"tennessee,fayette"	38413	68.2	29	2.2	0.5
+TN	"tennessee,fentress"	17959	97.6	1.1	1.1	0.2
+TN	"tennessee,franklin"	41052	89.7	6.9	2.5	0.7
+TN	"tennessee,gibson"	49683	77.6	20.1	2	0.2
+TN	"tennessee,giles"	29485	85.5	12.2	1.6	0.4
+TN	"tennessee,grainger"	22657	96	1.5	2.3	0.1
+TN	"tennessee,greene"	68831	93.9	3.2	2.5	0.4
+TN	"tennessee,grundy"	13703	97.2	1.4	0.8	0.2
+TN	"tennessee,hamblen"	62544	82.9	6	10.7	0.7
+TN	"tennessee,hamilton"	336463	72	21.9	4.5	1.8
+TN	"tennessee,hancock"	6819	97.9	1.5	0.2	0.1
+TN	"tennessee,hardeman"	27253	55.8	42.4	1.4	0.5
+TN	"tennessee,hardin"	26026	92.6	4.9	1.9	0.4
+TN	"tennessee,hawkins"	56833	95.8	2.4	1.2	0.5
+TN	"tennessee,haywood"	18787	44.8	51.3	3.8	0.1
+TN	"tennessee,henderson"	27769	88.2	9.6	1.9	0.3
+TN	"tennessee,henry"	32330	88.2	9.6	1.7	0.3
+TN	"tennessee,hickman"	24690	91.8	6	1.8	0.2
+TN	"tennessee,houston"	8426	94.1	3.8	1.5	0.3
+TN	"tennessee,humphreys"	18538	94.4	3.7	1.5	0.2
+TN	"tennessee,jackson"	11638	96.8	1.3	1.4	0.1
+TN	"tennessee,jefferson"	51407	92.9	3.4	3.1	0.4
+TN	"tennessee,johnson"	18244	95.2	3	1.5	0.2
+TN	"tennessee,knox"	432226	83.9	10.7	3.5	1.9
+TN	"tennessee,lake"	7832	69.1	29	1.7	0.1
+TN	"tennessee,lauderdale"	27815	61.2	36.3	2	0.2
+TN	"tennessee,lawrence"	41869	94.8	3.2	1.6	0.3
+TN	"tennessee,lewis"	12161	94.6	3.2	1.8	0.4
+TN	"tennessee,lincoln"	33361	88.1	8.6	2.7	0.4
+TN	"tennessee,loudon"	48556	90.2	2.2	7	0.6
+TN	"tennessee,mcminn"	52266	90.4	5.9	2.8	0.7
+TN	"tennessee,mcnairy"	26075	91	7.2	1.5	0.2
+TN	"tennessee,macon"	22248	94.2	1.5	4.1	0.2
+TN	"tennessee,madison"	98294	58.1	37.7	3.4	0.9
+TN	"tennessee,marion"	28237	93.2	4.8	1.3	0.4
+TN	"tennessee,marshall"	30617	86.8	8.2	4.5	0.4
+TN	"tennessee,maury"	80956	80.2	14.5	4.8	0.6
+TN	"tennessee,meigs"	11753	95.8	2.2	1.5	0.2
+TN	"tennessee,monroe"	44519	92.4	3.8	3.3	0.3
+TN	"tennessee,montgomery"	172331	67.1	23.6	8	2.1
+TN	"tennessee,moore"	6362	94.9	3.4	1.1	0.4
+TN	"tennessee,morgan"	21987	93.9	4.9	0.9	0.2
+TN	"tennessee,obion"	31807	84.8	11.7	3.1	0.2
+TN	"tennessee,overton"	22083	97.1	1.5	0.9	0.2
+TN	"tennessee,perry"	7915	94.8	3	1.7	0.2
+TN	"tennessee,pickett"	5077	97.8	0.7	1.3	0.1
+TN	"tennessee,polk"	16825	96.7	1.6	1.4	0.1
+TN	"tennessee,putnam"	72321	89.9	3.6	5.3	1.2
+TN	"tennessee,rhea"	31809	92.1	3.5	3.7	0.4
+TN	"tennessee,roane"	54181	93.7	4.3	1.3	0.5
+TN	"tennessee,robertson"	66283	84.7	8.9	5.9	0.5
+TN	"tennessee,rutherford"	262604	75.6	14.9	6.7	3
+TN	"tennessee,scott"	22228	98.1	1	0.5	0.2
+TN	"tennessee,sequatchie"	14112	95	1.4	3.3	0.3
+TN	"tennessee,sevier"	89889	91.6	2.1	5.3	0.9
+TN	"tennessee,shelby"	927644	38.7	53.5	5.6	2.3
+TN	"tennessee,smith"	19166	93.9	3.5	2.2	0.2
+TN	"tennessee,stewart"	13324	93.6	3.2	1.9	1
+TN	"tennessee,sullivan"	156823	94.4	3.4	1.5	0.6
+TN	"tennessee,sumner"	160645	87	8.1	3.9	1
+TN	"tennessee,tipton"	61081	76.7	20.4	2.1	0.6
+TN	"tennessee,trousdale"	7870	85.9	11.3	2.5	0.2
+TN	"tennessee,unicoi"	18313	94.7	1.3	3.8	0.2
+TN	"tennessee,union"	19109	97	1.4	1.3	0.1
+TN	"tennessee,van buren"	5548	97.5	1.3	0.9	0.1
+TN	"tennessee,warren"	39839	87.2	4.5	8.1	0.5
+TN	"tennessee,washington"	122979	90.2	5.6	3	1.2
+TN	"tennessee,wayne"	17021	91.3	6.7	1.6	0.2
+TN	"tennessee,weakley"	35021	87.7	9.2	2	1.1
+TN	"tennessee,white"	25841	94.8	3.2	1.6	0.3
+TN	"tennessee,williamson"	183182	86.7	5.8	4.5	3
+TN	"tennessee,wilson"	113993	87.5	8	3.2	1.1
+TX	"texas,anderson"	58458	61.2	22.8	15.9	0.5
+TX	"texas,andrews"	14786	47.9	3.5	48.7	0.6
+TX	"texas,angelina"	86771	63.3	16.8	19.8	0.9
+TX	"texas,aransas"	23158	70.6	3.6	24.6	2
+TX	"texas,archer"	9054	90.4	1.9	7.5	0.2
+TX	"texas,armstrong"	1901	90.7	1.7	6.5	0
+TX	"texas,atascosa"	44911	36.3	3.1	61.9	0.3
+TX	"texas,austin"	28417	65.7	11.6	23.4	0.4
+TX	"texas,bailey"	7165	38.3	3.2	59.8	0.4
+TX	"texas,bandera"	20485	80.9	2.3	16.7	0.3
+TX	"texas,bastrop"	74171	57.2	10.7	32.6	0.7
+TX	"texas,baylor"	3726	84.5	4.1	12.2	0.1
+TX	"texas,bee"	31861	34.4	10.5	56.2	0.6
+TX	"texas,bell"	310235	50.7	26.5	21.6	2.8
+TX	"texas,bexar"	1714773	30.3	11	58.7	2.4
+TX	"texas,blanco"	10497	79.4	2.6	18.2	0.5
+TX	"texas,borden"	641	84.1	1.6	14.8	0.2
+TX	"texas,bosque"	18212	80.7	3.4	16.1	0.2
+TX	"texas,bowie"	92565	66.3	26.3	6.5	0.8
+TX	"texas,brazoria"	313166	53.2	14.7	27.7	5.5
+TX	"texas,brazos"	194851	59.1	13.3	23.3	5.2
+TX	"texas,brewster"	9232	54.3	4	42.4	0.7
+TX	"texas,briscoe"	1637	71	4.9	25.1	0
+TX	"texas,brooks"	7223	7.9	1.9	91.2	0.3
+TX	"texas,brown"	38106	74.7	5.7	19.6	0.4
+TX	"texas,burleson"	17187	68.1	14.1	18.4	0.2
+TX	"texas,burnet"	42750	76.1	3.6	20.2	0.5
+TX	"texas,caldwell"	38066	44.2	9.3	47.1	0.9
+TX	"texas,calhoun"	21381	45.8	4.7	46.4	4.4
+TX	"texas,callahan"	13544	89.1	2.9	7.6	0.4
+TX	"texas,cameron"	406220	10.7	2.1	88.1	0.7
+TX	"texas,camp"	12401	58.9	20.2	21.4	0.5
+TX	"texas,carson"	6182	88.5	2.3	8.5	0.3
+TX	"texas,cass"	30464	77.2	18.8	3.5	0.3
+TX	"texas,castro"	8062	37.3	3.6	59.9	0.4
+TX	"texas,chambers"	35096	70.6	10.3	18.9	1
+TX	"texas,cherokee"	50845	62.7	16.9	20.6	0.5
+TX	"texas,childress"	7041	61.5	11.3	26.8	0.7
+TX	"texas,clay"	10752	92.5	2.2	4.3	0.3
+TX	"texas,cochran"	3127	42.5	6.7	52.9	0.2
+TX	"texas,coke"	3320	79.8	2.2	18.1	0.2
+TX	"texas,coleman"	8895	80.1	4.2	16	0.4
+TX	"texas,collin"	782341	63.1	11.4	14.7	11.2
+TX	"texas,collingsworth"	3057	63.4	8.4	30	0.1
+TX	"texas,colorado"	20874	59.9	15	26.1	0.4
+TX	"texas,comal"	108472	71.3	3.8	24.9	0.8
+TX	"texas,comanche"	13974	72.6	2	25.8	0.3
+TX	"texas,concho"	4087	44.3	3.8	53.2	0.3
+TX	"texas,cooke"	38437	78.7	4.9	15.6	0.8
+TX	"texas,coryell"	75388	62	20.9	15.9	1.9
+TX	"texas,cottle"	1505	69.3	10.9	21	0
+TX	"texas,crane"	4375	40.3	5.1	55.1	0.4
+TX	"texas,crockett"	3719	35.3	2.5	63.2	0.3
+TX	"texas,crosby"	6059	43.3	5.5	52.3	0.1
+TX	"texas,culberson"	2398	21	3.4	76.2	1
+TX	"texas,dallam"	6703	55.6	4.9	40.5	0.6
+TX	"texas,dallas"	2368139	33.1	25.1	38.3	5
+TX	"texas,dawson"	13833	39.1	8.8	53.4	0.4
+TX	"texas,deaf smith"	19372	30.7	3.6	67.3	0.3
+TX	"texas,delta"	5231	83.2	10.1	5.5	0.6
+TX	"texas,denton"	662614	64.4	11.3	18.2	6.6
+TX	"texas,de witt"	NA	NA	NA	NA	NA
+TX	"texas,dickens"	2444	65.1	5.7	29	0.9
+TX	"texas,dimmit"	9996	12.2	2.6	86.2	0.6
+TX	"texas,donley"	3677	85.3	6.3	8.4	0.2
+TX	"texas,duval"	11782	10.2	2.6	88.5	0.2
+TX	"texas,eastland"	18583	82.2	3.4	14.4	0.3
+TX	"texas,ector"	137130	41.1	7	52.7	0.8
+TX	"texas,edwards"	2002	47.3	1.6	51.3	0.3
+TX	"texas,ellis"	149610	65.5	11.2	23.5	0.6
+TX	"texas,el paso"	800647	13.1	5.6	82.2	1
+TX	"texas,erath"	37890	77.5	2.9	19.2	0.7
+TX	"texas,falls"	17866	52.5	27.2	20.8	0.3
+TX	"texas,fannin"	33915	80.9	8.9	9.5	0.4
+TX	"texas,fayette"	24554	73.5	8	18.7	0.3
+TX	"texas,fisher"	3974	70.4	5.4	25.1	0.2
+TX	"texas,floyd"	6446	43.1	4.8	52.9	0.2
+TX	"texas,foard"	1336	81.4	4.7	14	0.4
+TX	"texas,fort bend"	585375	36.2	24.4	23.7	17
+TX	"texas,franklin"	10605	81.1	5.7	12.6	0.5
+TX	"texas,freestone"	19816	68.9	17.7	13.6	0.3
+TX	"texas,frio"	17217	16.2	5.3	77.8	2.1
+TX	"texas,gaines"	17526	60.6	3.8	36.6	0.3
+TX	"texas,galveston:main"	NA	NA	NA	NA	NA
+TX	"texas,galveston:spit"	NA	NA	NA	NA	NA
+TX	"texas,garza"	6461	45.8	7.7	47.1	0.1
+TX	"texas,gillespie"	24837	78.4	1.6	20	0.4
+TX	"texas,glasscock"	1226	67.3	2.4	30.8	0.1
+TX	"texas,goliad"	7210	60.2	7.1	34.1	0.2
+TX	"texas,gonzales"	19807	44.6	9.6	47.2	0.4
+TX	"texas,gray"	22535	69.1	7.3	23.8	0.4
+TX	"texas,grayson"	120877	78.7	8.5	11.3	0.9
+TX	"texas,gregg"	121730	60.8	22.3	16.4	1.1
+TX	"texas,grimes"	26604	60.6	18.7	21.2	0.2
+TX	"texas,guadalupe"	131533	54.8	9.5	35.6	1.4
+TX	"texas,hale"	36273	37.6	8.3	55.9	0.4
+TX	"texas,hall"	3353	59.6	8.8	32.4	0.1
+TX	"texas,hamilton"	8517	88	1.6	10.1	0.4
+TX	"texas,hansford"	5613	55	2.9	43.3	0.3
+TX	"texas,hardeman"	4139	71	8.5	21.5	0.3
+TX	"texas,hardin"	54635	88	7.2	4.4	0.5
+TX	"texas,harris"	4092459	33	22.2	40.8	6.2
+TX	"texas,harrison"	65631	65	23.6	11.1	0.5
+TX	"texas,hartley"	6062	67.8	8	23.9	0.5
+TX	"texas,haskell"	5899	70.3	6.3	24	0.5
+TX	"texas,hays"	157107	58.6	6.4	35.3	1.2
+TX	"texas,hemphill"	3807	69.8	2	28.5	0.5
+TX	"texas,henderson"	78532	80.9	8	10.8	0.4
+TX	"texas,hidalgo"	774769	7.8	1.9	90.6	1
+TX	"texas,hill"	35089	73.6	8.4	18.3	0.3
+TX	"texas,hockley"	22935	51.4	6.1	43.6	0.3
+TX	"texas,hood"	51182	87.1	2	10.2	0.6
+TX	"texas,hopkins"	35161	75.4	9.1	15.3	0.5
+TX	"texas,houston"	23732	62.4	27.5	10	0.4
+TX	"texas,howard"	35012	53.7	8.3	37.9	0.8
+TX	"texas,hudspeth"	3476	18.1	3.5	79.6	0.5
+TX	"texas,hunt"	86129	74.8	10.6	13.6	1.1
+TX	"texas,hutchinson"	22150	74.4	5.3	19.8	0.4
+TX	"texas,irion"	1599	72.1	2.8	25.5	0.2
+TX	"texas,jack"	9044	80.6	4.8	14.2	0.3
+TX	"texas,jackson"	14075	62.9	9.1	29	0.4
+TX	"texas,jasper"	35710	75.4	18.2	5.6	0.6
+TX	"texas,jeff davis"	2342	63.6	3	33.7	0.3
+TX	"texas,jefferson"	252273	44.6	35.8	17	3.4
+TX	"texas,jim hogg"	5300	6.3	1.9	92.6	0.3
+TX	"texas,jim wells"	40838	19.7	2.2	79	0.4
+TX	"texas,johnson"	150934	76.6	4.8	18.1	0.7
+TX	"texas,jones"	20202	62.1	13.3	24.8	0.4
+TX	"texas,karnes"	14824	40.2	10.6	49.8	0.2
+TX	"texas,kaufman"	103350	70	12.7	17	0.9
+TX	"texas,kendall"	33410	77.1	2.4	20.4	0.6
+TX	"texas,kenedy"	416	20.7	4.1	76.7	0.2
+TX	"texas,kent"	808	82.8	2.4	14.9	0
+TX	"texas,kerr"	49625	72.2	3.9	24	0.8
+TX	"texas,kimble"	4607	74.9	1.2	23.4	0.4
+TX	"texas,king"	286	84.6	1.4	13.6	0
+TX	"texas,kinney"	3598	41.6	3.5	55.7	0.3
+TX	"texas,kleberg"	32061	23.3	6.1	70.2	2.3
+TX	"texas,knox"	3719	63.1	8.7	29.6	0.2
+TX	"texas,lamar"	49793	76.1	16.1	6.5	0.6
+TX	"texas,lamb"	13977	43.1	6.6	51.7	0.1
+TX	"texas,lampasas"	19677	75.4	6.4	17.5	1
+TX	"texas,la salle"	6886	13	1.7	86	0.1
+TX	"texas,lavaca"	19263	76.2	8.5	16	0.3
+TX	"texas,lee"	16612	65	12.8	22.4	0.3
+TX	"texas,leon"	16801	77.8	8.6	13.5	0.5
+TX	"texas,liberty"	75643	69.2	12.8	18	0.5
+TX	"texas,limestone"	23384	61.7	19.5	19.1	0.4
+TX	"texas,lipscomb"	3302	67	3	30.5	0.3
+TX	"texas,live oak"	11531	59	5.9	35.2	0.5
+TX	"texas,llano"	19301	89.6	2	8	0.4
+TX	"texas,loving"	82	73.2	7.3	22	0
+TX	"texas,lubbock"	278831	57.3	10	31.9	2.1
+TX	"texas,lynn"	5915	50.4	4.5	46.4	0.1
+TX	"texas,mcculloch"	8283	67.2	3.7	29.9	0.4
+TX	"texas,mclennan"	234906	58.9	17.3	23.6	1.4
+TX	"texas,mcmullen"	707	61.1	3.7	36.9	0.4
+TX	"texas,madison"	13664	58.8	21.6	19.7	0.6
+TX	"texas,marion"	10546	71.7	24.2	3.1	0.5
+TX	"texas,martin"	4799	53.7	3.4	43.5	0.3
+TX	"texas,mason"	4012	77.1	1.4	21.5	0.2
+TX	"texas,matagorda"	36702	47.4	13.8	38.3	2
+TX	"texas,maverick"	54258	2.9	1.3	95.7	0.3
+TX	"texas,medina"	46006	46.5	4.4	49.7	0.6
+TX	"texas,menard"	2242	63.6	2.2	35.2	0.1
+TX	"texas,midland"	136872	53.2	9	37.7	1.3
+TX	"texas,milam"	24757	65.5	11.8	23.3	0.4
+TX	"texas,mills"	4936	81.5	2	16.6	0.2
+TX	"texas,mitchell"	9403	50.5	12.9	37	0.3
+TX	"texas,montague"	19719	88	1.9	9.8	0.3
+TX	"texas,montgomery"	455746	71.2	6.6	20.8	2.1
+TX	"texas,moore"	21904	38.2	3.7	52.7	6.1
+TX	"texas,morris"	12934	66.8	25	7.8	0.3
+TX	"texas,motley"	1210	83.7	3.1	13.5	0
+TX	"texas,nacogdoches"	64524	61.5	20.2	17.6	1.2
+TX	"texas,navarro"	47735	59.9	16.1	23.8	0.5
+TX	"texas,newton"	14445	74.9	21.5	2.8	0.4
+TX	"texas,nolan"	15216	60.4	7	33.5	0.4
+TX	"texas,nueces"	340223	32.9	6.4	60.6	1.7
+TX	"texas,ochiltree"	10223	49.5	2.7	48.7	0.3
+TX	"texas,oldham"	2052	82.8	4.5	11.8	0.8
+TX	"texas,orange"	81837	83	10.3	5.8	1
+TX	"texas,palo pinto"	28111	78.1	4	17.7	0.5
+TX	"texas,panola"	23796	73.6	18	8.3	0.3
+TX	"texas,parker"	116927	85.3	3.5	10.6	0.5
+TX	"texas,parmer"	10269	38.4	3.3	60	0.2
+TX	"texas,pecos"	15507	27.9	5.8	67.3	0.5
+TX	"texas,polk"	45413	72.3	13.2	13.1	0.4
+TX	"texas,potter"	121073	49	13.3	35.3	4
+TX	"texas,presidio"	7818	14.5	2.5	83.4	1
+TX	"texas,rains"	10914	87.5	3.9	7.7	0.5
+TX	"texas,randall"	120725	78.2	4.6	16.4	1.4
+TX	"texas,reagan"	3367	36.2	3.9	60.9	0.2
+TX	"texas,real"	3309	72.5	2.6	24.6	0.1
+TX	"texas,red river"	12860	73.9	19.2	6.6	0.2
+TX	"texas,reeves"	13783	19.5	6.5	74.2	0.9
+TX	"texas,refugio"	7383	45.2	8.5	47.2	0.4
+TX	"texas,roberts"	929	90.5	2.2	8	0.2
+TX	"texas,robertson"	16622	59.1	23.5	18	0.6
+TX	"texas,rockwall"	78337	74.1	7.9	15.9	2.4
+TX	"texas,runnels"	10501	65.1	3.5	32	0.2
+TX	"texas,rusk"	53330	66.1	19.7	14.3	0.4
+TX	"texas,sabine"	10834	87.5	8.8	3.2	0.3
+TX	"texas,san augustine"	8865	69.7	24.1	6	0.3
+TX	"texas,san jacinto"	26384	76.6	12.2	10.9	0.5
+TX	"texas,san patricio"	64804	42.2	4.1	54.4	0.8
+TX	"texas,san saba"	6131	67.4	4.9	28	0.2
+TX	"texas,schleicher"	3461	54.1	3.9	44.4	0.1
+TX	"texas,scurry"	16921	57.8	7	36.3	0.3
+TX	"texas,shackelford"	3378	87.7	2.7	10.1	0.3
+TX	"texas,shelby"	25448	65	18.8	16.4	0.3
+TX	"texas,sherman"	3034	58.1	2	40.4	0.2
+TX	"texas,smith"	209714	62.1	19.9	17.2	1.2
+TX	"texas,somervell"	8490	77.7	3.4	19.2	0.6
+TX	"texas,starr"	60968	4	0.6	95.7	0.2
+TX	"texas,stephens"	9630	75.7	3.8	20.9	0.3
+TX	"texas,sterling"	1143	64.1	3.1	31.9	0
+TX	"texas,stonewall"	1490	80.9	4.6	14	0.9
+TX	"texas,sutton"	4128	39.7	1.9	59.6	0.2
+TX	"texas,swisher"	7854	51.2	9.1	40.1	0.1
+TX	"texas,tarrant"	1809034	51.8	17.9	26.7	4.7
+TX	"texas,taylor"	131506	67	10.6	22.1	1.6
+TX	"texas,terrell"	984	50.3	2.2	47.5	0.4
+TX	"texas,terry"	12651	45.4	7.3	49.1	0.2
+TX	"texas,throckmorton"	1641	88.5	1.5	9.3	0.4
+TX	"texas,titus"	32334	49.2	11.9	39.6	0.7
+TX	"texas,tom green"	110224	57.9	6.9	35.7	1
+TX	"texas,travis"	1024266	50.5	11.8	33.5	5.8
+TX	"texas,trinity"	14585	81	10.9	7.7	0.3
+TX	"texas,tyler"	21766	80.4	12.2	6.8	0.2
+TX	"texas,upshur"	39309	82.1	10.8	6.6	0.4
+TX	"texas,upton"	3355	48	3.9	49	0
+TX	"texas,uvalde"	26405	29	3.6	69.3	0.5
+TX	"texas,val verde"	48879	17.5	3.6	80.2	0.5
+TX	"texas,van zandt"	52579	85.8	4.6	9.2	0.3
+TX	"texas,victoria"	86793	47.9	8.8	43.9	1
+TX	"texas,walker"	67861	58.5	24.5	16.8	0.9
+TX	"texas,waller"	43205	44.6	27.1	29	0.5
+TX	"texas,ward"	10658	46.2	8.2	47.6	0.3
+TX	"texas,washington"	33718	66.4	19.2	13.8	1.3
+TX	"texas,webb"	250304	3.3	1.9	95.7	0.6
+TX	"texas,wharton"	41280	47.7	15.9	37.4	0.4
+TX	"texas,wheeler"	5410	71.1	4.4	24.8	0.4
+TX	"texas,wichita"	131500	68.4	13.4	16.6	2
+TX	"texas,wilbarger"	13535	63.4	10.6	25.9	0.7
+TX	"texas,willacy"	22134	10.1	4	87.2	0.6
+TX	"texas,williamson"	422679	63.8	9.4	23.2	4.8
+TX	"texas,wilson"	42918	58.7	3.8	38.2	0.4
+TX	"texas,winkler"	7110	42.5	5.3	53.8	0.2
+TX	"texas,wise"	59127	79.7	3.2	17.1	0.4
+TX	"texas,wood"	41964	84.9	6.1	8.5	0.4
+TX	"texas,yoakum"	7879	39.2	3.6	58.7	0.4
+TX	"texas,young"	18550	80.6	3.2	16.4	0.4
+TX	"texas,zapata"	14018	6.1	0.7	93.3	0.2
+TX	"texas,zavala"	11677	5.5	2.2	93.9	0
+UT	"utah,beaver"	6629	86	1.6	10.8	1.1
+UT	"utah,box elder"	49975	88.3	2.6	8.3	0.9
+UT	"utah,cache"	112656	85.5	2.5	10	1.9
+UT	"utah,carbon"	21403	84.1	2.8	12.4	0.6
+UT	"utah,daggett"	1059	94.4	1.4	3.1	0.4
+UT	"utah,davis"	306479	85.8	3.9	8.4	1.8
+UT	"utah,duchesne"	18607	87.1	3.1	6	0.3
+UT	"utah,emery"	10976	92.1	1.1	6	0.3
+UT	"utah,garfield"	5172	91.6	1.3	4.5	1.2
+UT	"utah,grand"	9225	84.1	2.3	9.6	0.8
+UT	"utah,iron"	46163	87.1	2.8	7.7	0.8
+UT	"utah,juab"	10246	94	1.7	3.7	0.2
+UT	"utah,kane"	7125	93.2	1.6	3.7	0.4
+UT	"utah,millard"	12503	84.7	1.6	12.8	0.6
+UT	"utah,morgan"	9469	96.1	1.1	2.4	0.4
+UT	"utah,piute"	1556	91.2	1.5	7	0.4
+UT	"utah,rich"	2264	94.1	1.2	4.2	0.3
+UT	"utah,salt lake"	1029655	74	4.7	17.1	3.3
+UT	"utah,san juan"	14746	43.9	2.5	4.4	0.3
+UT	"utah,sanpete"	27822	86.7	2.6	9.4	0.5
+UT	"utah,sevier"	20802	92.9	1.7	4.5	0.3
+UT	"utah,summit"	36324	85.4	2.1	11.5	1.2
+UT	"utah,tooele"	58218	84.5	3.5	11.4	0.6
+UT	"utah,uintah"	32588	82.8	2.7	7.1	0.5
+UT	"utah,utah"	516564	84.2	3.3	10.8	1.4
+UT	"utah,wasatch"	23530	84.2	1.7	13.5	0.8
+UT	"utah,washington"	138115	85.6	2.9	9.8	0.7
+UT	"utah,wayne"	2778	93.4	1.7	4.2	0.7
+UT	"utah,weber"	231236	78.1	4.3	16.7	1.3
+VT	"vermont,addison"	36821	94.1	2.5	1.9	1.4
+VT	"vermont,bennington"	37125	95.7	2.1	1.4	0.7
+VT	"vermont,caledonia"	31227	95.8	1.9	1.1	0.8
+VT	"vermont,chittenden"	156545	91.3	4	1.8	2.8
+VT	"vermont,essex"	6306	96.6	1.6	0.9	0.3
+VT	"vermont,franklin"	47746	94.9	2.6	1.2	0.5
+VT	"vermont,grand isle"	6970	94.7	3.2	1.1	0.3
+VT	"vermont,lamoille"	24475	95.7	2.1	1.3	0.5
+VT	"vermont,orange"	28936	96.4	1.9	1	0.5
+VT	"vermont,orleans"	27231	96	2.2	1.1	0.3
+VT	"vermont,rutland"	61642	96.3	1.8	1.1	0.6
+VT	"vermont,washington"	59534	94.9	2.5	1.7	0.8
+VT	"vermont,windham"	44513	94.1	2.9	1.8	1
+VT	"vermont,windsor"	56670	95.5	2.2	1.2	0.9
+VA	"virginia,accomack:main"	NA	NA	NA	NA	NA
+VA	"virginia,accomack:chincoteague"	NA	NA	NA	NA	NA
+VA	"virginia,albemarle"	98970	77.9	12.1	5.5	4.7
+VA	"virginia,alleghany"	16250	92.6	6	1.1	0.2
+VA	"virginia,amelia"	12690	72.8	24.5	2.3	0.2
+VA	"virginia,amherst"	32353	75.7	21.1	1.9	0.5
+VA	"virginia,appomattox"	14973	76.7	21.7	1.1	0.2
+VA	"virginia,arlington"	207627	64	12.2	15.1	9.6
+VA	"virginia,augusta"	73750	92.2	5.2	2.1	0.5
+VA	"virginia,bath"	4731	92.2	5.5	2.1	0.1
+VA	"virginia,bedford"	74898	89.03729072	8.162709285	1.649843788	0.975078106
+VA	"virginia,bland"	6824	95.2	4.1	0.6	0.3
+VA	"virginia,botetourt"	33148	94.2	4.1	1.1	0.5
+VA	"virginia,brunswick"	17434	39.8	58.3	1.7	0.3
+VA	"virginia,buchanan"	24098	96.3	3	0.4	0.2
+VA	"virginia,buckingham"	17146	61.2	36.7	1.7	0.4
+VA	"virginia,campbell"	54842	81.3	15.9	1.7	1
+VA	"virginia,caroline"	28545	63.6	32.3	3.4	0.6
+VA	"virginia,carroll"	30042	95.9	1.2	2.6	0.2
+VA	"virginia,charles city"	7256	40.5	51	1.2	0.3
+VA	"virginia,charlotte"	12586	66.6	31.2	1.9	0.2
+VA	"virginia,chesterfield"	316236	65.4	24.6	7.2	3.3
+VA	"virginia,clarke"	14034	88.3	7.3	3.5	0.9
+VA	"virginia,craig"	5190	98.3	0.8	0.7	0.2
+VA	"virginia,culpeper"	46689	71.7	18.6	8.9	1.3
+VA	"virginia,cumberland"	10052	63.2	34.5	1.8	0.3
+VA	"virginia,dickenson"	15903	98.4	0.8	0.5	0.1
+VA	"virginia,dinwiddie"	28001	62.9	34.3	2.4	0.4
+VA	"virginia,essex"	11151	56	40.2	3.1	0.8
+VA	"virginia,fairfax"	1104291	54.73895069	13.11009073	15.60408679	17.45300197
+VA	"virginia,fauquier"	65203	81.9	10.6	6.4	1.3
+VA	"virginia,floyd"	15279	94.1	2.9	2.7	0.2
+VA	"virginia,fluvanna"	25691	79.1	17.5	3	0.6
+VA	"virginia,franklin"	64741	80.95763427	15.94841291	2.380696931	0.43976769
+VA	"virginia,frederick"	78305	86.3	6.1	6.6	1.2
+VA	"virginia,giles"	17286	95.9	2.5	1.2	0.3
+VA	"virginia,gloucester"	36858	85.7	11	2.5	0.8
+VA	"virginia,goochland"	21717	76.4	20.5	2.1	1
+VA	"virginia,grayson"	15533	94.2	2.9	2.7	0.1
+VA	"virginia,greene"	18403	85.8	8.6	4.2	1.4
+VA	"virginia,greensville"	12243	37.8	60.6	1.4	0.3
+VA	"virginia,halifax"	36241	60.2	37.8	1.6	0.4
+VA	"virginia,hanover"	99863	85.5	10.8	2.1	1.4
+VA	"virginia,henrico"	306935	56.9	31.9	4.9	6.5
+VA	"virginia,henry"	54151	71.5	23.4	4.7	0.4
+VA	"virginia,highland"	2321	98.4	0.5	0.8	0.2
+VA	"virginia,isle of wight"	35270	70.8	26.5	1.9	0.8
+VA	"virginia,james city"	67009	77.7	15.7	4.5	2.2
+VA	"virginia,king and queen"	6945	65.5	30.2	2.6	0.2
+VA	"virginia,king george"	23584	74.6	20.8	3.3	1.2
+VA	"virginia,king william"	15935	76	20	2	0.7
+VA	"virginia,lancaster"	11391	69.6	28.9	1	0.6
+VA	"virginia,lee"	25587	93.4	4.6	1.6	0.2
+VA	"virginia,loudoun"	312311	62.4	11.3	12.4	14.7
+VA	"virginia,louisa"	33153	77.1	20	2.3	0.5
+VA	"virginia,lunenburg"	12914	59.9	36.4	3.6	0.2
+VA	"virginia,madison"	13308	85.6	12	1.8	0.6
+VA	"virginia,mathews"	8978	87.3	11.1	1.2	0.3
+VA	"virginia,mecklenburg"	32727	58.7	38.3	2.5	0.7
+VA	"virginia,middlesex"	10959	78.5	19.6	1.5	0.3
+VA	"virginia,montgomery"	94392	85.9	6	2.7	5.4
+VA	"virginia,suffolk"	84585	50.9	45	2.9	1.6
+VA	"virginia,nelson"	15020	81.8	14.8	3.1	0.5
+VA	"virginia,new kent"	18429	80.3	15.8	2.1	0.9
+VA	"virginia,northampton"	12389	54.5	38	7.1	0.7
+VA	"virginia,northumberland"	12330	70.1	26.5	3.1	0.3
+VA	"virginia,nottoway"	15853	55.5	40.6	3.8	0.3
+VA	"virginia,orange"	33481	80.7	15.2	3.4	0.7
+VA	"virginia,page"	24042	95.1	3.1	1.6	0.3
+VA	"virginia,patrick"	18490	90.2	7	2.4	0.2
+VA	"virginia,pittsylvania"	63506	74.4	23.2	2.1	0.3
+VA	"virginia,powhatan"	28046	82.8	14.8	1.8	0.5
+VA	"virginia,prince edward"	23368	62.2	34.8	2.2	0.9
+VA	"virginia,prince george"	35725	58.3	34.8	5.8	1.5
+VA	"virginia,prince william"	402002	48.7	25.3	20.3	7.5
+VA	"virginia,pulaski"	34872	91.7	6.5	1.2	0.5
+VA	"virginia,rappahannock"	7373	90.2	6	3.1	0.5
+VA	"virginia,richmond"	213468	40.10140255	51.98529897	6.265319392	2.217633556
+VA	"virginia,roanoke"	189408	74.92183224	19.25358591	3.841789154	2.238938165
+VA	"virginia,rockbridge"	22307	93.8	4.1	1.3	0.5
+VA	"virginia,rockingham"	76314	91.3	3.1	5.3	0.6
+VA	"virginia,russell"	28897	97.4	1.4	1	0.2
+VA	"virginia,scott"	23177	97.4	1.2	1	0.2
+VA	"virginia,shenandoah"	41993	90.2	3.4	6.1	0.5
+VA	"virginia,smyth"	32208	95.1	2.9	1.6	0.3
+VA	"virginia,southampton"	18570	60	38.6	1.1	0.2
+VA	"virginia,spotsylvania"	122397	72	18.6	7.6	2.3
+VA	"virginia,stafford"	128961	67.8	20.9	9.2	2.8
+VA	"virginia,surry"	7058	50.8	47.8	1.2	0.3
+VA	"virginia,sussex"	12087	38.6	58.9	2.2	0.4
+VA	"virginia,tazewell"	45078	94.7	3.9	0.7	0.6
+VA	"virginia,warren"	37575	88.7	6.8	3.5	1
+VA	"virginia,washington"	54876	96.2	2	1.3	0.4
+VA	"virginia,westmoreland"	17454	63.5	30.3	5.7	0.6
+VA	"virginia,wise"	41452	92.4	6.1	1.1	0.3
+VA	"virginia,wythe"	29235	94.6	4	1	0.4
+VA	"virginia,york"	65464	74	16.8	4.4	4.9
+VA	"virginia,hampton"	137436	41	53.3	4.5	2.2
+VA	"virginia,newport news"	180719	46	44.9	7.5	2.7
+VA	"virginia,norfolk"	242803	44.3	46.7	6.6	3.3
+VA	"virginia,virginia beach"	437994	64.5	23.7	6.6	6.1
+WA	"washington,adams"	18728	38.8	3.4	59.3	0.7
+WA	"washington,asotin"	21623	92.6	2.8	3	0.5
+WA	"washington,benton"	175177	74.5	4.8	18.7	2.7
+WA	"washington,chelan"	72453	70.7	3.1	25.8	0.8
+WA	"washington,clallam"	71404	84.6	4.6	5.1	1.4
+WA	"washington,clark"	425363	81.8	6	7.6	4.1
+WA	"washington,columbia"	4078	89.5	3	6.2	0.6
+WA	"washington,cowlitz"	102410	85.8	4.4	7.8	1.5
+WA	"washington,douglas"	38431	67.8	3	28.7	0.7
+WA	"washington,ferry"	7551	75	5.1	3.4	0.7
+WA	"washington,franklin"	78163	43.2	5	51.2	1.8
+WA	"washington,garfield"	2266	92.8	1.9	4	1.7
+WA	"washington,grant"	89120	57.3	4.6	38.3	0.9
+WA	"washington,grays harbor"	72797	81.4	5	8.6	1.4
+WA	"washington,island"	78506	83.1	6.7	5.5	4.4
+WA	"washington,jefferson"	29872	89.3	4.2	2.8	1.6
+WA	"washington,king"	1931249	64.8	11.2	8.9	14.6
+WA	"washington,kitsap"	251133	79.1	8.4	6.2	4.9
+WA	"washington,kittitas"	40915	86.1	3.9	7.6	2
+WA	"washington,klickitat"	20318	83.8	3.5	10.7	0.6
+WA	"washington,lewis"	75455	86	3.8	8.7	0.9
+WA	"washington,lincoln"	10570	93.6	2.5	2.3	0.4
+WA	"washington,mason"	60699	82.9	5.2	8	1.2
+WA	"washington,okanogan"	41120	68.3	3.9	17.6	0.6
+WA	"washington,pacific"	20920	84.6	3.7	8	2
+WA	"washington,pend oreille"	13001	89.8	3.3	3	0.6
+WA	"washington,pierce:main"	NA	NA	NA	NA	NA
+WA	"washington,pierce:penrose"	NA	NA	NA	NA	NA
+WA	"washington,san juan:lopez island"	NA	NA	NA	NA	NA
+WA	"washington,san juan:orcas island"	NA	NA	NA	NA	NA
+WA	"washington,san juan:san juan island"	NA	NA	NA	NA	NA
+WA	"washington,skagit"	116901	76.7	3.9	16.9	1.8
+WA	"washington,skamania"	11066	89.6	3.4	5	0.9
+WA	"washington,snohomish"	713335	74.3	7.1	9	8.9
+WA	"washington,spokane"	471221	86.7	5.5	4.5	2.1
+WA	"washington,stevens"	43531	87.9	3.7	2.7	0.5
+WA	"washington,thurston"	252264	78.9	8	7.1	5.2
+WA	"washington,wahkiakum"	3978	92.5	3.3	2.7	0.6
+WA	"washington,walla walla"	58781	74.2	4.9	19.7	1.3
+WA	"washington,whatcom"	201140	81.9	4.7	7.8	3.5
+WA	"washington,whitman"	44776	82.1	5.3	4.6	7.8
+WA	"washington,yakima"	243231	47.7	4.7	45	1.1
+WV	"west virginia,barbour"	16589	96.5	2.2	0.6	0.2
+WV	"west virginia,berkeley"	104169	85.8	9.8	3.8	0.8
+WV	"west virginia,boone"	24629	98.3	1.1	0.4	0.1
+WV	"west virginia,braxton"	14523	97.8	1.3	0.5	0.2
+WV	"west virginia,brooke"	24069	96.6	2.3	0.7	0.4
+WV	"west virginia,cabell"	96319	90.9	6.9	1.1	1
+WV	"west virginia,calhoun"	7627	97.9	0.9	0.7	0.2
+WV	"west virginia,clay"	9386	98.5	0.9	0.4	0.1
+WV	"west virginia,doddridge"	8202	96.6	2.5	0.5	0.2
+WV	"west virginia,fayette"	46039	92.9	6	0.9	0.2
+WV	"west virginia,gilmer"	8693	80	14	5.7	0.4
+WV	"west virginia,grant"	11937	97.3	1.5	1	0.2
+WV	"west virginia,greenbrier"	35480	93.9	4.3	1.2	0.4
+WV	"west virginia,hampshire"	23964	96.6	2.1	1	0.2
+WV	"west virginia,hancock"	30676	95	3.6	1	0.3
+WV	"west virginia,hardy"	14025	92.2	3.5	3.4	1
+WV	"west virginia,harrison"	69099	95	3.2	1.3	0.5
+WV	"west virginia,jackson"	29211	97.8	1.2	0.6	0.3
+WV	"west virginia,jefferson"	53498	85.2	9.1	4.7	1.2
+WV	"west virginia,kanawha"	193063	88.6	9.3	0.9	1
+WV	"west virginia,lewis"	16372	97.5	1.4	0.6	0.3
+WV	"west virginia,lincoln"	21720	98.7	0.7	0.4	0.1
+WV	"west virginia,logan"	36743	96	2.9	0.7	0.3
+WV	"west virginia,mcdowell"	22113	88.8	10.6	0.4	0.1
+WV	"west virginia,marion"	56418	93.7	4.7	0.9	0.5
+WV	"west virginia,marshall"	33107	97.4	1.4	0.8	0.4
+WV	"west virginia,mason"	27324	97.4	1.6	0.4	0.3
+WV	"west virginia,mercer"	62264	91.1	7.5	0.8	0.5
+WV	"west virginia,mineral"	28212	94.8	4	0.7	0.4
+WV	"west virginia,mingo"	26839	96.7	2.7	0.4	0.2
+WV	"west virginia,monongalia"	96189	89.7	5.4	1.8	3.1
+WV	"west virginia,monroe"	13502	97.1	2	0.6	0.1
+WV	"west virginia,morgan"	17541	96.6	1.9	1	0.3
+WV	"west virginia,nicholas"	26233	97.9	1.1	0.6	0.3
+WV	"west virginia,ohio"	44443	92.6	5.6	0.8	0.8
+WV	"west virginia,pendleton"	7695	95.6	3.1	0.9	0.3
+WV	"west virginia,pleasants"	7605	96.7	2.3	0.8	0.1
+WV	"west virginia,pocahontas"	8719	97.3	1.7	0.8	0
+WV	"west virginia,preston"	33520	97.1	1.9	0.7	0.1
+WV	"west virginia,putnam"	55486	96.2	2	0.9	0.7
+WV	"west virginia,raleigh"	78859	87.8	9.9	1.3	0.9
+WV	"west virginia,randolph"	29405	96.8	2	0.7	0.3
+WV	"west virginia,ritchie"	10449	98.3	0.9	0.5	0.1
+WV	"west virginia,roane"	14926	97.9	1	0.7	0.3
+WV	"west virginia,summers"	13927	92.2	6.1	1.4	0.2
+WV	"west virginia,taylor"	16895	96.9	1.8	0.8	0.4
+WV	"west virginia,tucker"	7141	98.4	0.8	0.6	0.1
+WV	"west virginia,tyler"	9208	98.5	0.7	0.5	0.1
+WV	"west virginia,upshur"	24254	96.9	1.6	1	0.4
+WV	"west virginia,wayne"	42481	98.2	0.9	0.5	0.2
+WV	"west virginia,webster"	9154	98.2	1.2	0.5	0.1
+WV	"west virginia,wetzel"	16583	98.4	0.8	0.5	0.2
+WV	"west virginia,wirt"	5717	98.1	1.1	0.5	0.2
+WV	"west virginia,wood"	86956	95.9	2.6	0.9	0.5
+WV	"west virginia,wyoming"	23796	97.8	1.5	0.4	0.1
+WI	"wisconsin,adams"	20875	91.1	4.4	3.8	0.4
+WI	"wisconsin,ashland"	16157	83.8	3.6	1.9	0.4
+WI	"wisconsin,barron"	45870	95	2	1.9	0.5
+WI	"wisconsin,bayfield"	15014	86.3	3.2	1.1	0.3
+WI	"wisconsin,brown"	248007	83.7	4.4	7.3	2.7
+WI	"wisconsin,buffalo"	13587	96.7	1.1	1.7	0.2
+WI	"wisconsin,burnett"	15457	91	2.9	1.3	0.3
+WI	"wisconsin,calumet"	48971	92.6	1.7	3.5	2.1
+WI	"wisconsin,chippewa"	62415	94.6	2.6	1.3	1.2
+WI	"wisconsin,clark"	34690	94.7	0.8	3.7	0.4
+WI	"wisconsin,columbia"	56833	94.4	2.3	2.5	0.5
+WI	"wisconsin,crawford"	16644	96.1	2.5	0.9	0.4
+WI	"wisconsin,dane"	488073	81.9	7.7	5.9	4.7
+WI	"wisconsin,dodge"	88759	91.6	3.7	4	0.5
+WI	"wisconsin,door"	27785	95.3	1.5	2.4	0.4
+WI	"wisconsin,douglas"	44159	92.5	3.8	1.1	0.9
+WI	"wisconsin,dunn"	43857	94	1.7	1.4	2.6
+WI	"wisconsin,eau claire"	98736	92.1	2.5	1.8	3.3
+WI	"wisconsin,florence"	4423	96.9	1.3	0.8	0.3
+WI	"wisconsin,fond du lac"	101633	91.9	2.6	4.3	1.1
+WI	"wisconsin,forest"	9304	82.2	3.2	1.5	0.1
+WI	"wisconsin,grant"	51208	96.3	1.8	1.3	0.6
+WI	"wisconsin,green"	36842	95.3	1.3	2.8	0.5
+WI	"wisconsin,green lake"	19051	94.4	1.1	3.9	0.5
+WI	"wisconsin,iowa"	23687	96.7	1.2	1.4	0.5
+WI	"wisconsin,iron"	5916	97.6	1	0.6	0.3
+WI	"wisconsin,jackson"	20449	88	3.4	2.5	0.3
+WI	"wisconsin,jefferson"	83686	90.7	2.1	6.6	0.7
+WI	"wisconsin,juneau"	26664	92.7	3.3	2.6	0.4
+WI	"wisconsin,kenosha"	166426	78	9.5	11.8	1.4
+WI	"wisconsin,kewaunee"	20574	95.9	1.3	2.3	0.3
+WI	"wisconsin,la crosse"	114638	91.1	3	1.5	4.1
+WI	"wisconsin,lafayette"	16836	95.6	0.8	3.1	0.3
+WI	"wisconsin,langlade"	19977	95.7	1.8	1.6	0.3
+WI	"wisconsin,lincoln"	28743	96.6	1.6	1.2	0.4
+WI	"wisconsin,manitowoc"	81442	92.3	1.8	3.1	2.5
+WI	"wisconsin,marathon"	134063	90.3	1.9	2.2	5.3
+WI	"wisconsin,marinette"	41749	96.4	1.3	1.3	0.5
+WI	"wisconsin,marquette"	15404	95.4	1.3	2.5	0.4
+WI	"wisconsin,milwaukee"	947735	54.3	29.8	13.3	3.4
+WI	"wisconsin,monroe"	44673	92.4	2.5	3.7	0.6
+WI	"wisconsin,oconto"	37660	96	1.2	1.4	0.3
+WI	"wisconsin,oneida"	35998	96	1.7	1.1	0.5
+WI	"wisconsin,outagamie"	176695	89.6	2.5	3.6	3
+WI	"wisconsin,ozaukee"	86395	93.4	2.5	2.3	1.7
+WI	"wisconsin,pepin"	7469	97.8	0.9	1	0.2
+WI	"wisconsin,pierce"	41019	95.7	1.8	1.5	0.7
+WI	"wisconsin,polk"	44205	96.1	1.2	1.5	0.4
+WI	"wisconsin,portage"	70019	92.7	1.8	2.6	2.8
+WI	"wisconsin,price"	14159	96.5	1.3	1.1	0.4
+WI	"wisconsin,racine"	195408	74.4	13.7	11.5	1.1
+WI	"wisconsin,richland"	18021	96.1	1.2	2	0.5
+WI	"wisconsin,rock"	160331	84.5	7.3	7.6	1
+WI	"wisconsin,rusk"	14755	96.8	1.4	1.2	0.3
+WI	"wisconsin,st croix"	84345	94.7	2	2	1.1
+WI	"wisconsin,sauk"	61976	92.5	1.8	4.3	0.5
+WI	"wisconsin,sawyer"	16557	78.5	3.5	1.6	0.3
+WI	"wisconsin,shawano"	41949	88.1	2.3	2.2	0.4
+WI	"wisconsin,sheboygan"	115507	87	3.1	5.5	4.6
+WI	"wisconsin,taylor"	20689	97.2	1	1.5	0.3
+WI	"wisconsin,trempealeau"	28816	92.9	1.1	5.8	0.4
+WI	"wisconsin,vernon"	29773	97	1.3	1.3	0.3
+WI	"wisconsin,vilas"	21430	86.5	1.4	1.3	0.3
+WI	"wisconsin,walworth"	102228	86.8	2.4	10.3	0.8
+WI	"wisconsin,washburn"	15911	95.7	1.7	1.3	0.4
+WI	"wisconsin,washington"	131887	94.3	2	2.6	1.1
+WI	"wisconsin,waukesha"	389891	90.6	2.6	4.1	2.7
+WI	"wisconsin,waupaca"	52410	95.7	1.2	2.5	0.4
+WI	"wisconsin,waushara"	24496	91.1	3	5.4	0.4
+WI	"wisconsin,winnebago"	166994	90.7	3.3	3.5	2.3
+WI	"wisconsin,wood"	74749	93.9	1.6	2.2	1.8
+WY	"wyoming,albany"	36299	84.8	3.8	8.8	2.8
+WY	"wyoming,big horn"	11668	89.4	1.4	8.4	0.3
+WY	"wyoming,campbell"	46133	88.9	2.4	7.8	0.6
+WY	"wyoming,carbon"	15885	79.8	3	16.8	0.7
+WY	"wyoming,converse"	13833	91.3	2	6.3	0.3
+WY	"wyoming,crook"	7083	95.9	1.4	2	0.2
+WY	"wyoming,fremont"	40123	71.5	3.1	5.6	0.4
+WY	"wyoming,goshen"	13249	87.9	1.8	9.7	0.3
+WY	"wyoming,hot springs"	4812	94.6	1.7	2.2	0.4
+WY	"wyoming,johnson"	8569	94.4	1.3	3.2	0.4
+WY	"wyoming,laramie"	91738	80.8	5.5	13.1	1.1
+WY	"wyoming,lincoln"	18106	93.5	1.4	4.3	0.3
+WY	"wyoming,natrona"	75450	89.1	3.3	6.9	0.7
+WY	"wyoming,niobrara"	2484	95	1.8	2.1	0.4
+WY	"wyoming,park"	28205	92.5	1.8	4.8	0.6
+WY	"wyoming,platte"	8667	91.2	1.8	6.7	0.4
+WY	"wyoming,sheridan"	29116	93.1	1.9	3.5	0.7
+WY	"wyoming,sublette"	10247	90.4	1.7	6.9	0.5
+WY	"wyoming,sweetwater"	43806	80.9	3.3	15.3	0.8
+WY	"wyoming,teton"	21294	82.2	1.9	15	1.1
+WY	"wyoming,uinta"	21118	88.5	2.3	8.8	0.3
+WY	"wyoming,washakie"	8533	83.9	2.6	13.6	0.6
+WY	"wyoming,weston"	7208	93.8	2	3	0.3
